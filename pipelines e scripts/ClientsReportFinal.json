@@ -1,0 +1,6250 @@
+[{
+  "id_Cliente": 1183,
+  "Nome": "Romano Redican",
+  "DataCriacao": {
+    "$date": "2012-03-27T00:00:00.000Z"
+  },
+  "CodigoPostal": "4700",
+  "Cidade": "braga",
+  "Pais": "PT",
+  "NIF": "575048008",
+  "datasCompras": [
+    {
+      "$date": "2018-06-26T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-25T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 574,
+  "Nome": "Frazier Overall",
+  "DataCriacao": {
+    "$date": "2005-11-21T00:00:00.000Z"
+  },
+  "CodigoPostal": "3800",
+  "Cidade": "cacia",
+  "Pais": "PT",
+  "NIF": "Consumidor Final",
+  "datasCompras": [
+    {
+      "$date": "2018-07-24T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-06-22T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-06-20T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-13T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-20T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-26T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-02T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 275,
+  "Nome": "Shekhar Lale",
+  "DataCriacao": {
+    "$date": "2011-10-14T00:00:00.000Z"
+  },
+  "CodigoPostal": "3515",
+  "Cidade": "viseu",
+  "Pais": "PT",
+  "NIF": "Consumidor Final",
+  "datasCompras": [
+    {
+      "$date": "2018-08-16T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 365,
+  "Nome": "Klaas Hules",
+  "DataCriacao": {
+    "$date": "2018-05-11T00:00:00.000Z"
+  },
+  "CodigoPostal": "4805",
+  "Cidade": "caldas das taipas",
+  "Pais": "PT",
+  "NIF": "436677335",
+  "datasCompras": [
+    {
+      "$date": "2018-07-06T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 3431,
+  "Nome": "Cheri Valiquette",
+  "DataCriacao": {
+    "$date": "2016-06-27T00:00:00.000Z"
+  },
+  "CodigoPostal": "46",
+  "Cidade": "kepa k/opola",
+  "Pais": "PL",
+  "NIF": "872800230",
+  "datasCompras": [
+    {
+      "$date": "2018-03-14T00:00:00.000Z"
+    },
+    {
+      "$date": "2017-10-03T00:00:00.000Z"
+    },
+    {
+      "$date": "2017-11-07T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-02-28T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-06-11T00:00:00.000Z"
+    },
+    {
+      "$date": "2017-10-31T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-06-27T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-03-22T00:00:00.000Z"
+    },
+    {
+      "$date": "2017-09-18T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 576,
+  "Nome": "Assunta Turnbo",
+  "DataCriacao": {
+    "$date": "2005-12-05T00:00:00.000Z"
+  },
+  "CodigoPostal": "3840",
+  "Cidade": "ponte de vagos",
+  "Pais": "PT",
+  "NIF": "Consumidor Final",
+  "datasCompras": [
+    {
+      "$date": "2019-01-25T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-09-28T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-06-21T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-08-20T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-11-12T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-12-11T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-08-29T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-08-06T00:00:00.000Z"
+    },
+    {
+      "$date": "2019-02-21T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-11-20T00:00:00.000Z"
+    },
+    {
+      "$date": "2019-01-07T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-06-19T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-25T00:00:00.000Z"
+    },
+    {
+      "$date": "2019-01-17T00:00:00.000Z"
+    },
+    {
+      "$date": "2019-02-08T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-09-10T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-09-19T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-12-14T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 1328,
+  "Nome": "Brady Gosda",
+  "DataCriacao": {
+    "$date": "2005-06-03T00:00:00.000Z"
+  },
+  "CodigoPostal": "2700",
+  "Cidade": "amadora",
+  "Pais": "PT",
+  "NIF": "374702724",
+  "datasCompras": [
+    {
+      "$date": "2018-07-09T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 221,
+  "Nome": "Zina Endler",
+  "DataCriacao": {
+    "$date": "2011-11-04T00:00:00.000Z"
+  },
+  "CodigoPostal": "5470",
+  "Cidade": "montalegre",
+  "Pais": "PT",
+  "NIF": "Consumidor Final",
+  "datasCompras": [
+    {
+      "$date": "2018-08-22T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-13T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-10T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 1308,
+  "Nome": "Sheridan Kobara",
+  "DataCriacao": {
+    "$date": "2017-03-14T00:00:00.000Z"
+  },
+  "CodigoPostal": "2530",
+  "Cidade": "lourinhã",
+  "Pais": "PT",
+  "NIF": "637425206",
+  "datasCompras": [
+    {
+      "$date": "2018-07-11T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-25T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-06-20T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 653,
+  "Nome": "Concha Robichard",
+  "DataCriacao": {
+    "$date": "2004-03-19T00:00:00.000Z"
+  },
+  "CodigoPostal": "4100",
+  "Cidade": "porto",
+  "Pais": "PT",
+  "NIF": "634285402",
+  "datasCompras": [
+    {
+      "$date": "2018-07-16T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-13T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-06-20T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-12T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-06-22T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-19T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-08-08T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-06-18T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-02T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-06-21T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-24T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-03T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-23T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-08-30T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-05T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-25T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-06-19T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-06-26T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-06T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-27T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-06-25T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-20T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-08-16T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-18T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-17T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-09T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 489,
+  "Nome": "Sheridan Vayon",
+  "DataCriacao": {
+    "$date": "2014-04-23T00:00:00.000Z"
+  },
+  "CodigoPostal": "3754",
+  "Cidade": "aguada de baixo",
+  "Pais": "PT",
+  "NIF": "833286537",
+  "datasCompras": [
+    {
+      "$date": "2018-10-03T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-19T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-11-28T00:00:00.000Z"
+    },
+    {
+      "$date": "2019-01-18T00:00:00.000Z"
+    },
+    {
+      "$date": "2019-02-04T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-08-09T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-10-17T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-04T00:00:00.000Z"
+    },
+    {
+      "$date": "2019-02-21T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-10-31T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-12-17T00:00:00.000Z"
+    },
+    {
+      "$date": "2019-02-28T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-09-13T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 2085,
+  "Nome": "Celandine Stahoski",
+  "DataCriacao": {
+    "$date": "2013-10-30T00:00:00.000Z"
+  },
+  "CodigoPostal": "N/A",
+  "Cidade": "rijen",
+  "Pais": "NL",
+  "NIF": "576758441",
+  "datasCompras": [
+    {
+      "$date": "2017-11-15T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-06-28T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 427,
+  "Nome": "Hilde Holsomback",
+  "DataCriacao": {
+    "$date": "2009-12-04T00:00:00.000Z"
+  },
+  "CodigoPostal": "3080",
+  "Cidade": "figueira da foz",
+  "Pais": "PT",
+  "NIF": "Consumidor Final",
+  "datasCompras": [
+    {
+      "$date": "2018-07-17T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-02T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 3461,
+  "Nome": "Madonna Shor",
+  "DataCriacao": {
+    "$date": "2018-05-09T00:00:00.000Z"
+  },
+  "CodigoPostal": "4000",
+  "Cidade": "slovenia ",
+  "Pais": "SI",
+  "NIF": "874843318",
+  "datasCompras": [
+    {
+      "$date": "2018-05-09T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 1562,
+  "Nome": "Thierry Greuel",
+  "DataCriacao": {
+    "$date": "2018-07-19T00:00:00.000Z"
+  },
+  "CodigoPostal": "8800",
+  "Cidade": "tavira",
+  "Pais": "PT",
+  "NIF": "Consumidor Final",
+  "datasCompras": [
+    {
+      "$date": "2018-07-23T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 801,
+  "Nome": "Isai Whitehill",
+  "DataCriacao": {
+    "$date": "2008-02-07T00:00:00.000Z"
+  },
+  "CodigoPostal": "4786",
+  "Cidade": "trofa",
+  "Pais": "PT",
+  "NIF": "Consumidor Final",
+  "datasCompras": [
+    {
+      "$date": "2018-10-16T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-10-26T00:00:00.000Z"
+    },
+    {
+      "$date": "2019-01-04T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 560,
+  "Nome": "Orvil Roskop",
+  "DataCriacao": {
+    "$date": "2004-11-02T00:00:00.000Z"
+  },
+  "CodigoPostal": "3750",
+  "Cidade": "águeda",
+  "Pais": "PT",
+  "NIF": "Consumidor Final",
+  "datasCompras": [
+    {
+      "$date": "2018-07-02T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-24T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-04T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-06-28T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-06-20T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-05T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-06-29T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-09T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-11T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 282,
+  "Nome": "Khayriyya Preuett",
+  "DataCriacao": {
+    "$date": "2014-06-02T00:00:00.000Z"
+  },
+  "CodigoPostal": "3620",
+  "Cidade": "moimenta da beira",
+  "Pais": "PT",
+  "NIF": "Consumidor Final",
+  "datasCompras": [
+    {
+      "$date": "2018-07-20T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 1451,
+  "Nome": "Frederique Withee",
+  "DataCriacao": {
+    "$date": "2004-08-24T00:00:00.000Z"
+  },
+  "CodigoPostal": "2740",
+  "Cidade": "porto salvo",
+  "Pais": "PT",
+  "NIF": "Consumidor Final",
+  "datasCompras": [
+    {
+      "$date": "2018-06-29T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-04T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 1269,
+  "Nome": "Constantin Hetherington",
+  "DataCriacao": {
+    "$date": "2013-07-24T00:00:00.000Z"
+  },
+  "CodigoPostal": "9560",
+  "Cidade": "lagoa - açores",
+  "Pais": "PT",
+  "NIF": "Consumidor Final",
+  "datasCompras": [
+    {
+      "$date": "2018-07-19T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-06-26T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 3398,
+  "Nome": "Michale Bequillard",
+  "DataCriacao": {
+    "$date": "2011-09-29T00:00:00.000Z"
+  },
+  "CodigoPostal": "N/A",
+  "Cidade": "ikeja lagos",
+  "Pais": "NG",
+  "NIF": "717162048",
+  "datasCompras": [
+    {
+      "$date": "2018-03-15T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 1862,
+  "Nome": "Darrick Overlie",
+  "DataCriacao": {
+    "$date": "2004-03-22T00:00:00.000Z"
+  },
+  "CodigoPostal": "N/A",
+  "Cidade": "bastad",
+  "Pais": "SE",
+  "NIF": "671752870",
+  "datasCompras": [
+    {
+      "$date": "2006-01-13T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 1137,
+  "Nome": "Linden Reef",
+  "DataCriacao": {
+    "$date": "2018-03-14T00:00:00.000Z"
+  },
+  "CodigoPostal": "7520",
+  "Cidade": "sines",
+  "Pais": "PT",
+  "NIF": "Consumidor Final",
+  "datasCompras": [
+    {
+      "$date": "2018-06-25T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 2075,
+  "Nome": "Maximiano Murzycki",
+  "DataCriacao": {
+    "$date": "2012-11-21T00:00:00.000Z"
+  },
+  "CodigoPostal": "N/A",
+  "Cidade": "leek",
+  "Pais": "NL",
+  "NIF": "510400485",
+  "datasCompras": [
+    {
+      "$date": "2017-11-15T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-06-27T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 779,
+  "Nome": "Manfredo Villapando",
+  "DataCriacao": {
+    "$date": "2004-03-22T00:00:00.000Z"
+  },
+  "CodigoPostal": "4620",
+  "Cidade": "torno lsd",
+  "Pais": "PT",
+  "NIF": "521467688",
+  "datasCompras": [
+    {
+      "$date": "2018-06-29T00:00:00.000Z"
+    },
+    {
+      "$date": "2007-10-29T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 289,
+  "Nome": "Maxine Labove",
+  "DataCriacao": {
+    "$date": "2015-07-06T00:00:00.000Z"
+  },
+  "CodigoPostal": "3660",
+  "Cidade": "são pedro do sul",
+  "Pais": "PT",
+  "NIF": "Consumidor Final",
+  "datasCompras": [
+    {
+      "$date": "2018-08-10T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-06-26T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 1242,
+  "Nome": "Nacho Hamper",
+  "DataCriacao": {
+    "$date": "2015-09-22T00:00:00.000Z"
+  },
+  "CodigoPostal": "4805",
+  "Cidade": "N/A",
+  "Pais": "PT",
+  "NIF": "835476124",
+  "datasCompras": [
+    {
+      "$date": "2018-06-29T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-08-16T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-06-22T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 808,
+  "Nome": "Roch Cirullo",
+  "DataCriacao": {
+    "$date": "2011-01-21T00:00:00.000Z"
+  },
+  "CodigoPostal": "4780",
+  "Cidade": "santo tirso",
+  "Pais": "PT",
+  "NIF": "Consumidor Final",
+  "datasCompras": [
+    {
+      "$date": "2018-07-06T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 721,
+  "Nome": "Mervyn Wujcik",
+  "DataCriacao": {
+    "$date": "2004-05-04T00:00:00.000Z"
+  },
+  "CodigoPostal": "4495",
+  "Cidade": "povoa de varzim",
+  "Pais": "PT",
+  "NIF": "110256746",
+  "datasCompras": [
+    {
+      "$date": "2018-10-19T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-11-14T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-09-24T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-23T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-11-23T00:00:00.000Z"
+    },
+    {
+      "$date": "2019-02-26T00:00:00.000Z"
+    },
+    {
+      "$date": "2019-02-25T00:00:00.000Z"
+    },
+    {
+      "$date": "2019-02-14T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-19T00:00:00.000Z"
+    },
+    {
+      "$date": "2019-02-07T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-09-14T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-12T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-11-02T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-16T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-17T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-12-04T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-09-19T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-09-27T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-06-25T00:00:00.000Z"
+    },
+    {
+      "$date": "2019-01-08T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-12-21T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-31T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-06-26T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-08-07T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-08-06T00:00:00.000Z"
+    },
+    {
+      "$date": "2019-01-23T00:00:00.000Z"
+    },
+    {
+      "$date": "2019-02-12T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-02T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-10-18T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-08-21T00:00:00.000Z"
+    },
+    {
+      "$date": "2019-03-04T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-09-12T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-08-02T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-11-08T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-10-16T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-12-12T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-09T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-06-21T00:00:00.000Z"
+    },
+    {
+      "$date": "2019-01-29T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-08-16T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-10-30T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-08-08T00:00:00.000Z"
+    },
+    {
+      "$date": "2019-01-16T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-11-07T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-09-21T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-25T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 906,
+  "Nome": "Tanja Dampf",
+  "DataCriacao": {
+    "$date": "2006-03-17T00:00:00.000Z"
+  },
+  "CodigoPostal": "2445",
+  "Cidade": "martingança",
+  "Pais": "PT",
+  "NIF": "Consumidor Final",
+  "datasCompras": [
+    {
+      "$date": "2018-06-21T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-23T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-08-01T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-06-26T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-04T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-06-22T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-06-28T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 2848,
+  "Nome": "Deion Stepanik",
+  "DataCriacao": {
+    "$date": "2006-09-19T00:00:00.000Z"
+  },
+  "CodigoPostal": "N/A",
+  "Cidade": "valencia",
+  "Pais": "ES",
+  "NIF": "573488426",
+  "datasCompras": [
+    {
+      "$date": "2006-10-26T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 426,
+  "Nome": "Josefa Bolinsky",
+  "DataCriacao": {
+    "$date": "2013-08-26T00:00:00.000Z"
+  },
+  "CodigoPostal": "3200",
+  "Cidade": "lousã",
+  "Pais": "PT",
+  "NIF": "Consumidor Final",
+  "datasCompras": [
+    {
+      "$date": "2018-06-29T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-26T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-23T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-08-08T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 1460,
+  "Nome": "Joselyn Womeldorff",
+  "DataCriacao": {
+    "$date": "2006-10-25T00:00:00.000Z"
+  },
+  "CodigoPostal": "2620",
+  "Cidade": "olival de basto",
+  "Pais": "PT",
+  "NIF": "34584050",
+  "datasCompras": [
+    {
+      "$date": "2018-07-04T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 3132,
+  "Nome": "Celso Craiger",
+  "DataCriacao": {
+    "$date": "2004-03-24T00:00:00.000Z"
+  },
+  "CodigoPostal": "N/A",
+  "Cidade": "speyer (rheinland pfalz)",
+  "Pais": "DE",
+  "NIF": "442366512",
+  "datasCompras": [
+    {
+      "$date": "2018-06-21T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 356,
+  "Nome": "Peronel Bennes",
+  "DataCriacao": {
+    "$date": "2017-12-04T00:00:00.000Z"
+  },
+  "CodigoPostal": "4830",
+  "Cidade": "póvoa de lanhoso",
+  "Pais": "PT",
+  "NIF": "476440846",
+  "datasCompras": [
+    {
+      "$date": "2019-02-28T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 220,
+  "Nome": "Iesha Bachelor",
+  "DataCriacao": {
+    "$date": "2011-09-23T00:00:00.000Z"
+  },
+  "CodigoPostal": "5000",
+  "Cidade": "vila real",
+  "Pais": "PT",
+  "NIF": "Consumidor Final",
+  "datasCompras": [
+    {
+      "$date": "2018-08-09T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-04T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 1224,
+  "Nome": "Gilda Simensky",
+  "DataCriacao": {
+    "$date": "2014-10-09T00:00:00.000Z"
+  },
+  "CodigoPostal": "4820",
+  "Cidade": "fafe",
+  "Pais": "PT",
+  "NIF": "370545682",
+  "datasCompras": [
+    {
+      "$date": "2018-06-26T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 495,
+  "Nome": "Nadir Hunsinger",
+  "DataCriacao": {
+    "$date": "2015-02-25T00:00:00.000Z"
+  },
+  "CodigoPostal": "4525",
+  "Cidade": "canedo",
+  "Pais": "PT",
+  "NIF": "Consumidor Final",
+  "datasCompras": [
+    {
+      "$date": "2018-07-06T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-13T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 646,
+  "Nome": "Olen Loreto",
+  "DataCriacao": {
+    "$date": "2012-08-03T00:00:00.000Z"
+  },
+  "CodigoPostal": "3720",
+  "Cidade": "oliveira de azemeis",
+  "Pais": "PT",
+  "NIF": "Consumidor Final",
+  "datasCompras": [
+    {
+      "$date": "2018-07-05T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-06-29T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-06-25T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 1452,
+  "Nome": "Aaron Dughi",
+  "DataCriacao": {
+    "$date": "2004-06-25T00:00:00.000Z"
+  },
+  "CodigoPostal": "2685",
+  "Cidade": "sacavem",
+  "Pais": "PT",
+  "NIF": "Consumidor Final",
+  "datasCompras": [
+    {
+      "$date": "2018-06-25T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-18T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 785,
+  "Nome": "Mordecai Vanscooter",
+  "DataCriacao": {
+    "$date": "2006-10-13T00:00:00.000Z"
+  },
+  "CodigoPostal": "4760",
+  "Cidade": "vila nova famalicão",
+  "Pais": "PT",
+  "NIF": "Consumidor Final",
+  "datasCompras": [
+    {
+      "$date": "2018-06-20T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-06-29T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 3460,
+  "Nome": "Nathan Bernardy",
+  "DataCriacao": {
+    "$date": "2017-06-02T00:00:00.000Z"
+  },
+  "CodigoPostal": "N/A",
+  "Cidade": "novo mesto",
+  "Pais": "SI",
+  "NIF": "326017362",
+  "datasCompras": [
+    {
+      "$date": "2018-07-02T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-04T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-06-08T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-08-10T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-19T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 857,
+  "Nome": "Clara Lofwall",
+  "DataCriacao": {
+    "$date": "2016-01-27T00:00:00.000Z"
+  },
+  "CodigoPostal": "4745",
+  "Cidade": "s. romão do coronado",
+  "Pais": "PT",
+  "NIF": "Consumidor Final",
+  "datasCompras": [
+    {
+      "$date": "2018-07-04T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 199,
+  "Nome": "Abram Mcloone",
+  "DataCriacao": {
+    "$date": "2016-04-15T00:00:00.000Z"
+  },
+  "CodigoPostal": "5300",
+  "Cidade": "bragança",
+  "Pais": "PT",
+  "NIF": "Consumidor Final",
+  "datasCompras": [
+    {
+      "$date": "2018-06-25T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-26T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-27T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 3451,
+  "Nome": "Kurt Braskey",
+  "DataCriacao": {
+    "$date": "2015-10-22T00:00:00.000Z"
+  },
+  "CodigoPostal": "N/A",
+  "Cidade": "marupes novads",
+  "Pais": "LV",
+  "NIF": "875785376",
+  "datasCompras": [
+    {
+      "$date": "2018-07-13T00:00:00.000Z"
+    },
+    {
+      "$date": "2017-10-06T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-03-29T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-06-11T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-05-24T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 671,
+  "Nome": "Creola Tick",
+  "DataCriacao": {
+    "$date": "2012-08-16T00:00:00.000Z"
+  },
+  "CodigoPostal": "4470",
+  "Cidade": "maia",
+  "Pais": "PT",
+  "NIF": "760707125",
+  "datasCompras": [
+    {
+      "$date": "2018-06-25T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-05T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-27T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-06-22T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 353,
+  "Nome": "Lyman Kenmore",
+  "DataCriacao": {
+    "$date": "2017-10-18T00:00:00.000Z"
+  },
+  "CodigoPostal": "4760",
+  "Cidade": "vila nova de famalicão",
+  "Pais": "PT",
+  "NIF": "800111845",
+  "datasCompras": [
+    {
+      "$date": "2018-07-25T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 1290,
+  "Nome": "Karl Castronova",
+  "DataCriacao": {
+    "$date": "2015-02-18T00:00:00.000Z"
+  },
+  "CodigoPostal": "4575",
+  "Cidade": "termas são vicente",
+  "Pais": "PT",
+  "NIF": "Consumidor Final",
+  "datasCompras": [
+    {
+      "$date": "2018-06-26T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 339,
+  "Nome": "Khayriyya Villena",
+  "DataCriacao": {
+    "$date": "2016-12-06T00:00:00.000Z"
+  },
+  "CodigoPostal": "4740",
+  "Cidade": "esposende",
+  "Pais": "PT",
+  "NIF": "Consumidor Final",
+  "datasCompras": [
+    {
+      "$date": "2018-07-23T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 2087,
+  "Nome": "Melina Freifeld",
+  "DataCriacao": {
+    "$date": "2013-11-19T00:00:00.000Z"
+  },
+  "CodigoPostal": "N/A",
+  "Cidade": "ochten",
+  "Pais": "NL",
+  "NIF": "230536388",
+  "datasCompras": [
+    {
+      "$date": "2017-12-12T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 844,
+  "Nome": "Larkin Clapper",
+  "DataCriacao": {
+    "$date": "2014-11-05T00:00:00.000Z"
+  },
+  "CodigoPostal": "4600",
+  "Cidade": "amarante",
+  "Pais": "PT",
+  "NIF": "331541366",
+  "datasCompras": [
+    {
+      "$date": "2018-12-05T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-09-18T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-09-19T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-16T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-11-27T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-10-23T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-10-29T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-12-17T00:00:00.000Z"
+    },
+    {
+      "$date": "2019-02-01T00:00:00.000Z"
+    },
+    {
+      "$date": "2019-02-12T00:00:00.000Z"
+    },
+    {
+      "$date": "2019-02-28T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-08-29T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-03T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-11-20T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-10-01T00:00:00.000Z"
+    },
+    {
+      "$date": "2019-01-21T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-11-07T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-11-29T00:00:00.000Z"
+    },
+    {
+      "$date": "2019-01-10T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-09-14T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-10-15T00:00:00.000Z"
+    },
+    {
+      "$date": "2019-02-20T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-10-08T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 412,
+  "Nome": "Baptist Macphail",
+  "DataCriacao": {
+    "$date": "2007-02-28T00:00:00.000Z"
+  },
+  "CodigoPostal": "3080",
+  "Cidade": "figueira da foz",
+  "Pais": "PT",
+  "NIF": "545252671",
+  "datasCompras": [
+    {
+      "$date": "2007-09-05T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-08-09T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-31T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-06T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-19T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-06-22T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-03T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 506,
+  "Nome": "Heath Trembath",
+  "DataCriacao": {
+    "$date": "2016-06-27T00:00:00.000Z"
+  },
+  "CodigoPostal": "3740",
+  "Cidade": "pessegueiro do sobral",
+  "Pais": "PT",
+  "NIF": "Consumidor Final",
+  "datasCompras": [
+    {
+      "$date": "2018-06-21T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-23T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-13T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 3064,
+  "Nome": "Blaze Rarogal",
+  "DataCriacao": {
+    "$date": "2007-12-07T00:00:00.000Z"
+  },
+  "CodigoPostal": "N/A",
+  "Cidade": "grimma",
+  "Pais": "DE",
+  "NIF": "648023071",
+  "datasCompras": [
+    {
+      "$date": "2018-07-23T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 1366,
+  "Nome": "Kumar Tenor",
+  "DataCriacao": {
+    "$date": "2015-03-11T00:00:00.000Z"
+  },
+  "CodigoPostal": "1685",
+  "Cidade": "caneças",
+  "Pais": "PT",
+  "NIF": "321015564",
+  "datasCompras": [
+    {
+      "$date": "2018-06-21T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-13T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 760,
+  "Nome": "Jacquetta Bunte",
+  "DataCriacao": {
+    "$date": "2011-08-12T00:00:00.000Z"
+  },
+  "CodigoPostal": "4480",
+  "Cidade": "touguinhó",
+  "Pais": "PT",
+  "NIF": "Consumidor Final",
+  "datasCompras": [
+    {
+      "$date": "2018-07-18T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-26T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-11T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-06-27T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 952,
+  "Nome": "Sepp Terrero",
+  "DataCriacao": {
+    "$date": "2007-10-22T00:00:00.000Z"
+  },
+  "CodigoPostal": "2425",
+  "Cidade": "leiria",
+  "Pais": "PT",
+  "NIF": "764485643",
+  "datasCompras": [
+    {
+      "$date": "2018-08-02T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-06-21T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-18T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-06-28T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 3432,
+  "Nome": "Enos Tungate",
+  "DataCriacao": {
+    "$date": "2016-11-10T00:00:00.000Z"
+  },
+  "CodigoPostal": "71",
+  "Cidade": "szcecin",
+  "Pais": "PL",
+  "NIF": "584757450",
+  "datasCompras": [
+    {
+      "$date": "2017-10-02T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-03-19T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-10T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 3281,
+  "Nome": "Mitchel Ruhmann",
+  "DataCriacao": {
+    "$date": "2017-06-21T00:00:00.000Z"
+  },
+  "CodigoPostal": "N/A",
+  "Cidade": "wasserburg",
+  "Pais": "DE",
+  "NIF": "Consumidor Final",
+  "datasCompras": [
+    {
+      "$date": "2018-06-26T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-18T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-08-02T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 1236,
+  "Nome": "Damon Newmeyer",
+  "DataCriacao": {
+    "$date": "2015-04-14T00:00:00.000Z"
+  },
+  "CodigoPostal": "4830",
+  "Cidade": "povoa de lanhoso",
+  "Pais": "PT",
+  "NIF": "803602885",
+  "datasCompras": [
+    {
+      "$date": "2018-07-26T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-06-29T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-06-21T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 937,
+  "Nome": "Perlie Lewis",
+  "DataCriacao": {
+    "$date": "2007-04-20T00:00:00.000Z"
+  },
+  "CodigoPostal": "4755",
+  "Cidade": "bastuço s. joão - barcelos",
+  "Pais": "PT",
+  "NIF": "Consumidor Final",
+  "datasCompras": [
+    {
+      "$date": "2018-07-13T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-06-21T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 1080,
+  "Nome": "Pran Blachowski",
+  "DataCriacao": {
+    "$date": "2004-03-22T00:00:00.000Z"
+  },
+  "CodigoPostal": "7520",
+  "Cidade": "sines",
+  "Pais": "PT",
+  "NIF": "862288607",
+  "datasCompras": [
+    {
+      "$date": "2018-06-29T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-27T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-06-19T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-06T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 1051,
+  "Nome": "Tito Scalet",
+  "DataCriacao": {
+    "$date": "2016-10-11T00:00:00.000Z"
+  },
+  "CodigoPostal": "2490",
+  "Cidade": "ourém",
+  "Pais": "PT",
+  "NIF": "Consumidor Final",
+  "datasCompras": [
+    {
+      "$date": "2018-07-13T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 451,
+  "Nome": "Terrance Feinstein",
+  "DataCriacao": {
+    "$date": "2014-09-17T00:00:00.000Z"
+  },
+  "CodigoPostal": "3105",
+  "Cidade": "carriço",
+  "Pais": "PT",
+  "NIF": "Consumidor Final",
+  "datasCompras": [
+    {
+      "$date": "2018-07-17T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 423,
+  "Nome": "Kari Shukla",
+  "DataCriacao": {
+    "$date": "2009-05-07T00:00:00.000Z"
+  },
+  "CodigoPostal": "3040",
+  "Cidade": "antanhol",
+  "Pais": "PT",
+  "NIF": "526573888",
+  "datasCompras": [
+    {
+      "$date": "2018-07-11T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 1317,
+  "Nome": "Sinclair Maholmes",
+  "DataCriacao": {
+    "$date": "2018-02-14T00:00:00.000Z"
+  },
+  "CodigoPostal": "2620",
+  "Cidade": "ramada",
+  "Pais": "PT",
+  "NIF": "Consumidor Final",
+  "datasCompras": [
+    {
+      "$date": "2018-07-11T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-18T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-03T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 1541,
+  "Nome": "Mimi Lorentz",
+  "DataCriacao": {
+    "$date": "2006-11-28T00:00:00.000Z"
+  },
+  "CodigoPostal": "8100",
+  "Cidade": "loulé",
+  "Pais": "PT",
+  "NIF": "Consumidor Final",
+  "datasCompras": [
+    {
+      "$date": "2018-07-20T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 967,
+  "Nome": "Claudie Bormet",
+  "DataCriacao": {
+    "$date": "2008-07-09T00:00:00.000Z"
+  },
+  "CodigoPostal": "3100",
+  "Cidade": "pombal",
+  "Pais": "PT",
+  "NIF": "Consumidor Final",
+  "datasCompras": [
+    {
+      "$date": "2018-07-24T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-27T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-09T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-12T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-08-02T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-02T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 18,
+  "Nome": "Blanch Mccrumb",
+  "DataCriacao": {
+    "$date": "2006-01-12T00:00:00.000Z"
+  },
+  "CodigoPostal": "4764",
+  "Cidade": "famalicão",
+  "Pais": "PT",
+  "NIF": "788331535",
+  "datasCompras": [
+    {
+      "$date": "2018-12-20T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-18T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-10-03T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 865,
+  "Nome": "Rahsaan Brokins",
+  "DataCriacao": {
+    "$date": "2004-10-04T00:00:00.000Z"
+  },
+  "CodigoPostal": "6250",
+  "Cidade": "belmonte",
+  "Pais": "PT",
+  "NIF": "153178528",
+  "datasCompras": [
+    {
+      "$date": "2018-06-27T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-06-22T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-09-03T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-11T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 640,
+  "Nome": "Dillon Espiritu",
+  "DataCriacao": {
+    "$date": "2012-03-05T00:00:00.000Z"
+  },
+  "CodigoPostal": "4535",
+  "Cidade": "lourosa",
+  "Pais": "PT",
+  "NIF": "Consumidor Final",
+  "datasCompras": [
+    {
+      "$date": "2018-06-20T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-12-06T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-11T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-10-18T00:00:00.000Z"
+    },
+    {
+      "$date": "2019-02-14T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-10-08T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-09-13T00:00:00.000Z"
+    },
+    {
+      "$date": "2019-02-26T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-08-06T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-30T00:00:00.000Z"
+    },
+    {
+      "$date": "2019-01-10T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-11-21T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-10-10T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-08-27T00:00:00.000Z"
+    },
+    {
+      "$date": "2019-02-04T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 2252,
+  "Nome": "Suha Zambo",
+  "DataCriacao": {
+    "$date": "2010-04-09T00:00:00.000Z"
+  },
+  "CodigoPostal": "N/A",
+  "Cidade": "visoko",
+  "Pais": "BA",
+  "NIF": "368482403",
+  "datasCompras": [
+    {
+      "$date": "2018-04-17T00:00:00.000Z"
+    },
+    {
+      "$date": "2017-10-31T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 302,
+  "Nome": "Bidelia Schares",
+  "DataCriacao": {
+    "$date": "2004-03-19T00:00:00.000Z"
+  },
+  "CodigoPostal": "6300",
+  "Cidade": "guarda",
+  "Pais": "PT",
+  "NIF": "Consumidor Final",
+  "datasCompras": [
+    {
+      "$date": "2018-06-25T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-09-17T00:00:00.000Z"
+    },
+    {
+      "$date": "2019-02-22T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-12T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-11-08T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-10-04T00:00:00.000Z"
+    },
+    {
+      "$date": "2019-01-25T00:00:00.000Z"
+    },
+    {
+      "$date": "2019-02-18T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-20T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 601,
+  "Nome": "Aurea Huffines",
+  "DataCriacao": {
+    "$date": "2007-10-04T00:00:00.000Z"
+  },
+  "CodigoPostal": "3770",
+  "Cidade": "oliveira do bairro",
+  "Pais": "PT",
+  "NIF": "461777647",
+  "datasCompras": [
+    {
+      "$date": "2018-10-11T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-10-25T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-09-03T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-11-15T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-08-02T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-12-06T00:00:00.000Z"
+    },
+    {
+      "$date": "2019-01-31T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-06-27T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-17T00:00:00.000Z"
+    },
+    {
+      "$date": "2019-03-25T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-09-18T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 525,
+  "Nome": "Shanta Lanfear",
+  "DataCriacao": {
+    "$date": "2017-11-15T00:00:00.000Z"
+  },
+  "CodigoPostal": "4590",
+  "Cidade": "paços de ferreira",
+  "Pais": "PT",
+  "NIF": "867321271",
+  "datasCompras": [
+    {
+      "$date": "2018-06-20T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 2997,
+  "Nome": "Leonora Spruit",
+  "DataCriacao": {
+    "$date": "2015-05-05T00:00:00.000Z"
+  },
+  "CodigoPostal": "N/A",
+  "Cidade": "hamburg",
+  "Pais": "DE",
+  "NIF": "46568708",
+  "datasCompras": [
+    {
+      "$date": "2018-06-19T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 1518,
+  "Nome": "Derek Mcglone",
+  "DataCriacao": {
+    "$date": "2004-11-05T00:00:00.000Z"
+  },
+  "CodigoPostal": "8501",
+  "Cidade": "portimão",
+  "Pais": "PT",
+  "NIF": "Consumidor Final",
+  "datasCompras": [
+    {
+      "$date": "2018-07-13T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 1052,
+  "Nome": "Munroe Dehoyos",
+  "DataCriacao": {
+    "$date": "2016-10-14T00:00:00.000Z"
+  },
+  "CodigoPostal": "2500",
+  "Cidade": "caldas da rainha",
+  "Pais": "PT",
+  "NIF": "513820136",
+  "datasCompras": [
+    {
+      "$date": "2018-06-21T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-11T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-06T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 919,
+  "Nome": "Alberta Delmage",
+  "DataCriacao": {
+    "$date": "2004-03-22T00:00:00.000Z"
+  },
+  "CodigoPostal": "2420",
+  "Cidade": "leiria",
+  "Pais": "PT",
+  "NIF": "Consumidor Final",
+  "datasCompras": [
+    {
+      "$date": "2018-11-21T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-11-09T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 3427,
+  "Nome": "Gerry Fussner",
+  "DataCriacao": {
+    "$date": "2008-04-30T00:00:00.000Z"
+  },
+  "CodigoPostal": "N/A",
+  "Cidade": "beograd-zeleznik",
+  "Pais": "RS",
+  "NIF": "734724005",
+  "datasCompras": [
+    {
+      "$date": "2018-07-05T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 578,
+  "Nome": "Kanti Mcmenimen",
+  "DataCriacao": {
+    "$date": "2004-03-19T00:00:00.000Z"
+  },
+  "CodigoPostal": "3754",
+  "Cidade": "trofa águeda",
+  "Pais": "PT",
+  "NIF": "206386488",
+  "datasCompras": [
+    {
+      "$date": "2018-10-03T00:00:00.000Z"
+    },
+    {
+      "$date": "2019-02-26T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-10-11T00:00:00.000Z"
+    },
+    {
+      "$date": "2019-02-20T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-08-10T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-12-11T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-24T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-12-13T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-13T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-11-06T00:00:00.000Z"
+    },
+    {
+      "$date": "2019-05-15T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-06T00:00:00.000Z"
+    },
+    {
+      "$date": "2019-01-21T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-31T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-09-11T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-09-17T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-11-27T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-11-22T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-08-06T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-12-19T00:00:00.000Z"
+    },
+    {
+      "$date": "2019-02-27T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-10-18T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-06-20T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-10-22T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-09T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-10-31T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-10-16T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-10-04T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-06-27T00:00:00.000Z"
+    },
+    {
+      "$date": "2019-07-29T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-10-17T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-10-29T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-11-07T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-09-26T00:00:00.000Z"
+    },
+    {
+      "$date": "2019-02-04T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-06-19T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-09-21T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-12-18T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-11-14T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-08-03T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-11-30T00:00:00.000Z"
+    },
+    {
+      "$date": "2019-05-10T00:00:00.000Z"
+    },
+    {
+      "$date": "2019-06-21T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-12T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-06-29T00:00:00.000Z"
+    },
+    {
+      "$date": "2019-03-29T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-10-26T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-10-23T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-11-21T00:00:00.000Z"
+    },
+    {
+      "$date": "2019-01-15T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-02T00:00:00.000Z"
+    },
+    {
+      "$date": "2019-02-12T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-12-07T00:00:00.000Z"
+    },
+    {
+      "$date": "2019-01-22T00:00:00.000Z"
+    },
+    {
+      "$date": "2019-01-31T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-12-14T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-10T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-11-09T00:00:00.000Z"
+    },
+    {
+      "$date": "2019-01-29T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-20T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-10-30T00:00:00.000Z"
+    },
+    {
+      "$date": "2019-02-08T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-25T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 332,
+  "Nome": "Nicolette Trowery",
+  "DataCriacao": {
+    "$date": "2016-06-01T00:00:00.000Z"
+  },
+  "CodigoPostal": "4800",
+  "Cidade": "s. torcato - guimarães",
+  "Pais": "PT",
+  "NIF": "Consumidor Final",
+  "datasCompras": [
+    {
+      "$date": "2018-06-20T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 1055,
+  "Nome": "Horst Celaya",
+  "DataCriacao": {
+    "$date": "2017-07-13T00:00:00.000Z"
+  },
+  "CodigoPostal": "2405",
+  "Cidade": "leiria",
+  "Pais": "PT",
+  "NIF": "545120507",
+  "datasCompras": [
+    {
+      "$date": "2018-08-02T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 3433,
+  "Nome": "Kyran Turri",
+  "DataCriacao": {
+    "$date": "2017-06-22T00:00:00.000Z"
+  },
+  "CodigoPostal": "75",
+  "Cidade": "koszalin",
+  "Pais": "PL",
+  "NIF": "105235560",
+  "datasCompras": [
+    {
+      "$date": "2017-11-03T00:00:00.000Z"
+    },
+    {
+      "$date": "2017-09-19T00:00:00.000Z"
+    },
+    {
+      "$date": "2017-10-03T00:00:00.000Z"
+    },
+    {
+      "$date": "2017-10-31T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-03-05T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-04-13T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-04-06T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 1016,
+  "Nome": "Shon Victor",
+  "DataCriacao": {
+    "$date": "2008-02-15T00:00:00.000Z"
+  },
+  "CodigoPostal": "2200",
+  "Cidade": "abrantes",
+  "Pais": "PT",
+  "NIF": "703801444",
+  "datasCompras": [
+    {
+      "$date": "2018-07-06T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-24T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-06-21T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 2117,
+  "Nome": "Chrysanta Cellini",
+  "DataCriacao": {
+    "$date": "2004-03-23T00:00:00.000Z"
+  },
+  "CodigoPostal": "N/A",
+  "Cidade": "bonlez",
+  "Pais": "BE",
+  "NIF": "537232003",
+  "datasCompras": [
+    {
+      "$date": "2005-08-25T00:00:00.000Z"
+    },
+    {
+      "$date": "2004-10-21T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 1552,
+  "Nome": "Wolf Farid",
+  "DataCriacao": {
+    "$date": "2014-10-24T00:00:00.000Z"
+  },
+  "CodigoPostal": "7630",
+  "Cidade": "s. teotónio",
+  "Pais": "PT",
+  "NIF": "Consumidor Final",
+  "datasCompras": [
+    {
+      "$date": "2018-06-19T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 1146,
+  "Nome": "Rilla Teitsort",
+  "DataCriacao": {
+    "$date": "2017-08-30T00:00:00.000Z"
+  },
+  "CodigoPostal": "9600",
+  "Cidade": "ribeira grande - açores ",
+  "Pais": "PT",
+  "NIF": "556500447",
+  "datasCompras": [
+    {
+      "$date": "2018-06-26T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 769,
+  "Nome": "Nicomedo Streat",
+  "DataCriacao": {
+    "$date": "2005-11-03T00:00:00.000Z"
+  },
+  "CodigoPostal": "4785",
+  "Cidade": "trofa",
+  "Pais": "PT",
+  "NIF": "882635327",
+  "datasCompras": [
+    {
+      "$date": "2018-11-08T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-11-29T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-10-31T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-09-07T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-11-09T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-11-07T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-31T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-10-23T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-11-27T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-06-28T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-11-15T00:00:00.000Z"
+    },
+    {
+      "$date": "2019-01-17T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-11-23T00:00:00.000Z"
+    },
+    {
+      "$date": "2019-02-14T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-08-10T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-19T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-24T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-06-22T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-10-22T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 999,
+  "Nome": "Connie Rieger",
+  "DataCriacao": {
+    "$date": "2005-11-03T00:00:00.000Z"
+  },
+  "CodigoPostal": "2005",
+  "Cidade": "santarém",
+  "Pais": "PT",
+  "NIF": "Consumidor Final",
+  "datasCompras": [
+    {
+      "$date": "2018-07-06T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 1306,
+  "Nome": "Crofton Ayola",
+  "DataCriacao": {
+    "$date": "2017-02-20T00:00:00.000Z"
+  },
+  "CodigoPostal": "2550",
+  "Cidade": "cadaval",
+  "Pais": "PT",
+  "NIF": "647263348",
+  "datasCompras": [
+    {
+      "$date": "2018-07-12T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-08-02T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 1215,
+  "Nome": "Dotty Lebarge",
+  "DataCriacao": {
+    "$date": "2014-05-08T00:00:00.000Z"
+  },
+  "CodigoPostal": "4805",
+  "Cidade": "barco - guimaraes",
+  "Pais": "PT",
+  "NIF": "454678871",
+  "datasCompras": [
+    {
+      "$date": "2018-07-06T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 215,
+  "Nome": "Fulton Beene",
+  "DataCriacao": {
+    "$date": "2012-07-18T00:00:00.000Z"
+  },
+  "CodigoPostal": "5460",
+  "Cidade": "boticas",
+  "Pais": "PT",
+  "NIF": "Consumidor Final",
+  "datasCompras": [
+    {
+      "$date": "2018-06-21T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 992,
+  "Nome": "Prakash Sirolli",
+  "DataCriacao": {
+    "$date": "2010-04-14T00:00:00.000Z"
+  },
+  "CodigoPostal": "4806",
+  "Cidade": "caldas das taipas - gmr",
+  "Pais": "PT",
+  "NIF": "63864182",
+  "datasCompras": [
+    {
+      "$date": "2018-08-24T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-10-11T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 1537,
+  "Nome": "Nino Luzuriaga",
+  "DataCriacao": {
+    "$date": "2006-03-15T00:00:00.000Z"
+  },
+  "CodigoPostal": "8005",
+  "Cidade": "faro",
+  "Pais": "PT",
+  "NIF": "Consumidor Final",
+  "datasCompras": [
+    {
+      "$date": "2018-06-21T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 447,
+  "Nome": "Jordyn Razor",
+  "DataCriacao": {
+    "$date": "2013-10-04T00:00:00.000Z"
+  },
+  "CodigoPostal": "3105",
+  "Cidade": "meirinhas",
+  "Pais": "PT",
+  "NIF": "Consumidor Final",
+  "datasCompras": [
+    {
+      "$date": "2018-07-05T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 813,
+  "Nome": "Cathie Grapp",
+  "DataCriacao": {
+    "$date": "2011-11-23T00:00:00.000Z"
+  },
+  "CodigoPostal": "4625",
+  "Cidade": "sande ",
+  "Pais": "PT",
+  "NIF": "227186851",
+  "datasCompras": [
+    {
+      "$date": "2018-06-21T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-08-02T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-20T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-27T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-13T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 1276,
+  "Nome": "Angelina Betton",
+  "DataCriacao": {
+    "$date": "2014-01-09T00:00:00.000Z"
+  },
+  "CodigoPostal": "2825",
+  "Cidade": "costa da caparica",
+  "Pais": "PT",
+  "NIF": "55713207",
+  "datasCompras": [
+    {
+      "$date": "2018-07-27T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-06-26T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-06-28T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 1439,
+  "Nome": "Macario Fauteux",
+  "DataCriacao": {
+    "$date": "2011-03-31T00:00:00.000Z"
+  },
+  "CodigoPostal": "2671",
+  "Cidade": "loures",
+  "Pais": "PT",
+  "NIF": "Consumidor Final",
+  "datasCompras": [
+    {
+      "$date": "2019-01-24T00:00:00.000Z"
+    },
+    {
+      "$date": "2019-02-15T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-20T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-10-24T00:00:00.000Z"
+    },
+    {
+      "$date": "2019-03-25T00:00:00.000Z"
+    },
+    {
+      "$date": "2019-05-24T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-11-15T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-12-12T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-08-02T00:00:00.000Z"
+    },
+    {
+      "$date": "2019-01-16T00:00:00.000Z"
+    },
+    {
+      "$date": "2019-01-04T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 852,
+  "Nome": "Eliane Sharp",
+  "DataCriacao": {
+    "$date": "2015-08-31T00:00:00.000Z"
+  },
+  "CodigoPostal": "4471",
+  "Cidade": "maia",
+  "Pais": "PT",
+  "NIF": "Consumidor Final",
+  "datasCompras": [
+    {
+      "$date": "2019-01-24T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-03T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-11-27T00:00:00.000Z"
+    },
+    {
+      "$date": "2019-06-12T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-06-19T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-24T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-12-13T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-06-22T00:00:00.000Z"
+    },
+    {
+      "$date": "2019-04-12T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-10-02T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-11-22T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-12-20T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 722,
+  "Nome": "Val Mitro",
+  "DataCriacao": {
+    "$date": "2006-09-28T00:00:00.000Z"
+  },
+  "CodigoPostal": "4430",
+  "Cidade": "oliveira do douro - v.n. gaia",
+  "Pais": "PT",
+  "NIF": "853674601",
+  "datasCompras": [
+    {
+      "$date": "2018-06-27T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-18T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-08-01T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 2724,
+  "Nome": "Fadia Whirlow",
+  "DataCriacao": {
+    "$date": "2005-10-07T00:00:00.000Z"
+  },
+  "CodigoPostal": "N/A",
+  "Cidade": "casarrubios del monte",
+  "Pais": "ES",
+  "NIF": "Consumidor Final",
+  "datasCompras": [
+    {
+      "$date": "2007-11-14T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 3245,
+  "Nome": "Susanita Rashid",
+  "DataCriacao": {
+    "$date": "2004-03-24T00:00:00.000Z"
+  },
+  "CodigoPostal": "N/A",
+  "Cidade": "leipheim",
+  "Pais": "DE",
+  "NIF": "Consumidor Final",
+  "datasCompras": [
+    {
+      "$date": "2018-07-05T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 695,
+  "Nome": "Madison Heisser",
+  "DataCriacao": {
+    "$date": "2005-10-14T00:00:00.000Z"
+  },
+  "CodigoPostal": "4535",
+  "Cidade": "paços de brandão",
+  "Pais": "PT",
+  "NIF": "Consumidor Final",
+  "datasCompras": [
+    {
+      "$date": "2018-06-29T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 581,
+  "Nome": "Jeffery Lefew",
+  "DataCriacao": {
+    "$date": "2004-06-04T00:00:00.000Z"
+  },
+  "CodigoPostal": "3850",
+  "Cidade": "albergaria a velha",
+  "Pais": "PT",
+  "NIF": "238462635",
+  "datasCompras": [
+    {
+      "$date": "2018-06-21T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-20T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-08-10T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 1406,
+  "Nome": "Swaran Chruch",
+  "DataCriacao": {
+    "$date": "2004-03-22T00:00:00.000Z"
+  },
+  "CodigoPostal": "2815",
+  "Cidade": "charneca da caparica",
+  "Pais": "PT",
+  "NIF": "686051456",
+  "datasCompras": [
+    {
+      "$date": "2007-12-06T00:00:00.000Z"
+    },
+    {
+      "$date": "2007-02-15T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 1197,
+  "Nome": "Pratap Pachar",
+  "DataCriacao": {
+    "$date": "2013-05-17T00:00:00.000Z"
+  },
+  "CodigoPostal": "4830",
+  "Cidade": "póvoa de lanhoso",
+  "Pais": "PT",
+  "NIF": "804687220",
+  "datasCompras": [
+    {
+      "$date": "2018-07-19T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-06-22T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 3337,
+  "Nome": "Delphine Hulsey",
+  "DataCriacao": {
+    "$date": "2010-01-08T00:00:00.000Z"
+  },
+  "CodigoPostal": "N/A",
+  "Cidade": "budapest",
+  "Pais": "HU",
+  "NIF": "864012521",
+  "datasCompras": [
+    {
+      "$date": "2018-05-23T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-02-15T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-06-01T00:00:00.000Z"
+    },
+    {
+      "$date": "2017-10-26T00:00:00.000Z"
+    },
+    {
+      "$date": "2017-11-09T00:00:00.000Z"
+    },
+    {
+      "$date": "2017-11-03T00:00:00.000Z"
+    },
+    {
+      "$date": "2017-09-20T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-04-27T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-03-02T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-06-22T00:00:00.000Z"
+    },
+    {
+      "$date": "2017-10-11T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-11T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-02-21T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-05-07T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-03-14T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-05-16T00:00:00.000Z"
+    },
+    {
+      "$date": "2017-11-15T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-06-07T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-03-16T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-04-12T00:00:00.000Z"
+    },
+    {
+      "$date": "2017-10-06T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-19T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-06-13T00:00:00.000Z"
+    },
+    {
+      "$date": "2017-10-12T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-03-28T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-06-08T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-03-09T00:00:00.000Z"
+    },
+    {
+      "$date": "2017-09-14T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-03-21T00:00:00.000Z"
+    },
+    {
+      "$date": "2017-09-29T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-04T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-05-09T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 829,
+  "Nome": "Reece Huntsman",
+  "DataCriacao": {
+    "$date": "2013-10-18T00:00:00.000Z"
+  },
+  "CodigoPostal": "4580",
+  "Cidade": "paredes",
+  "Pais": "PT",
+  "NIF": "35302605",
+  "datasCompras": [
+    {
+      "$date": "2018-06-26T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-06T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-16T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-27T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-18T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-20T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 3225,
+  "Nome": "Kobina Kinzle",
+  "DataCriacao": {
+    "$date": "2014-04-16T00:00:00.000Z"
+  },
+  "CodigoPostal": "N/A",
+  "Cidade": "waldshut-tiengen",
+  "Pais": "DE",
+  "NIF": "31346668",
+  "datasCompras": [
+    {
+      "$date": "2018-06-29T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 93,
+  "Nome": "Isidor Beidleman",
+  "DataCriacao": {
+    "$date": "2004-10-25T00:00:00.000Z"
+  },
+  "CodigoPostal": "4810",
+  "Cidade": "guimaraes",
+  "Pais": "PT",
+  "NIF": "550514342",
+  "datasCompras": [
+    {
+      "$date": "2018-07-20T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 1509,
+  "Nome": "Adamina Abuel",
+  "DataCriacao": {
+    "$date": "2004-03-22T00:00:00.000Z"
+  },
+  "CodigoPostal": "8200",
+  "Cidade": "albufeira",
+  "Pais": "PT",
+  "NIF": "Consumidor Final",
+  "datasCompras": [
+    {
+      "$date": "2019-02-26T00:00:00.000Z"
+    },
+    {
+      "$date": "2019-01-03T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 2097,
+  "Nome": "Reno Stehlin",
+  "DataCriacao": {
+    "$date": "2015-05-07T00:00:00.000Z"
+  },
+  "CodigoPostal": "N/A",
+  "Cidade": "dongen",
+  "Pais": "NL",
+  "NIF": "402675760",
+  "datasCompras": [
+    {
+      "$date": "2018-08-10T00:00:00.000Z"
+    },
+    {
+      "$date": "2017-12-11T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 583,
+  "Nome": "Nathanael Testman",
+  "DataCriacao": {
+    "$date": "2004-03-19T00:00:00.000Z"
+  },
+  "CodigoPostal": "3810",
+  "Cidade": "aveiro",
+  "Pais": "PT",
+  "NIF": "Consumidor Final",
+  "datasCompras": [
+    {
+      "$date": "2007-10-09T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 2069,
+  "Nome": "Maryvonne Belnas",
+  "DataCriacao": {
+    "$date": "2012-10-23T00:00:00.000Z"
+  },
+  "CodigoPostal": "N/A",
+  "Cidade": "zwolle",
+  "Pais": "NL",
+  "NIF": "410211153",
+  "datasCompras": [
+    {
+      "$date": "2018-06-29T00:00:00.000Z"
+    },
+    {
+      "$date": "2017-12-12T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 1875,
+  "Nome": "Inga Swedeen",
+  "DataCriacao": {
+    "$date": "2008-05-13T00:00:00.000Z"
+  },
+  "CodigoPostal": "SE",
+  "Cidade": "norsborg",
+  "Pais": "SE",
+  "NIF": "447513266",
+  "datasCompras": [
+    {
+      "$date": "2018-07-06T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-06-08T00:00:00.000Z"
+    },
+    {
+      "$date": "2017-10-12T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-06-06T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-06-26T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-02-15T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 1287,
+  "Nome": "Neoma Surma",
+  "DataCriacao": {
+    "$date": "2015-02-18T00:00:00.000Z"
+  },
+  "CodigoPostal": "4476",
+  "Cidade": " moreira da maia",
+  "Pais": "PT",
+  "NIF": "Consumidor Final",
+  "datasCompras": [
+    {
+      "$date": "2018-12-14T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-30T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-10-18T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-08-10T00:00:00.000Z"
+    },
+    {
+      "$date": "2019-02-05T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-08-06T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 513,
+  "Nome": "Fahd Santacroce",
+  "DataCriacao": {
+    "$date": "2017-04-04T00:00:00.000Z"
+  },
+  "CodigoPostal": "4400",
+  "Cidade": "vila nova de gaia",
+  "Pais": "PT",
+  "NIF": "860161302",
+  "datasCompras": [
+    {
+      "$date": "2018-06-27T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 3446,
+  "Nome": "Gabriela Nortesano",
+  "DataCriacao": {
+    "$date": "2014-11-06T00:00:00.000Z"
+  },
+  "CodigoPostal": "N/A",
+  "Cidade": "zagreb",
+  "Pais": "HR",
+  "NIF": "353615353",
+  "datasCompras": [
+    {
+      "$date": "2018-04-27T00:00:00.000Z"
+    },
+    {
+      "$date": "2017-10-06T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-02-15T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 317,
+  "Nome": "Cassandra Mabary",
+  "DataCriacao": {
+    "$date": "2015-03-16T00:00:00.000Z"
+  },
+  "CodigoPostal": "6200",
+  "Cidade": "covilhã",
+  "Pais": "PT",
+  "NIF": "26578845",
+  "datasCompras": [
+    {
+      "$date": "2018-06-21T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-06T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-20T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-27T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-08-07T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 1503,
+  "Nome": "Poncio Chute",
+  "DataCriacao": {
+    "$date": "2018-07-19T00:00:00.000Z"
+  },
+  "CodigoPostal": "7700",
+  "Cidade": "almodôvar",
+  "Pais": "PT",
+  "NIF": "Consumidor Final",
+  "datasCompras": [
+    {
+      "$date": "2018-11-29T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-09-25T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-08-14T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-10-26T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-23T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-10-11T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-20T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-10-30T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-12-07T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-12-11T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-09-21T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 511,
+  "Nome": "Millicent Sias",
+  "DataCriacao": {
+    "$date": "2017-03-08T00:00:00.000Z"
+  },
+  "CodigoPostal": "3880",
+  "Cidade": "são vicente jusã",
+  "Pais": "PT",
+  "NIF": "747330868",
+  "datasCompras": [
+    {
+      "$date": "2018-08-02T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-06-27T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-06-22T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 900,
+  "Nome": "Angelique Gepner",
+  "DataCriacao": {
+    "$date": "2005-11-29T00:00:00.000Z"
+  },
+  "CodigoPostal": "2405",
+  "Cidade": "maceira",
+  "Pais": "PT",
+  "NIF": "Consumidor Final",
+  "datasCompras": [
+    {
+      "$date": "2006-04-20T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 530,
+  "Nome": "Davina Sorley",
+  "DataCriacao": {
+    "$date": "2018-02-07T00:00:00.000Z"
+  },
+  "CodigoPostal": "3850",
+  "Cidade": "branca",
+  "Pais": "PT",
+  "NIF": "775464576",
+  "datasCompras": [
+    {
+      "$date": "2018-07-18T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 3256,
+  "Nome": "Wanda Chipps",
+  "DataCriacao": {
+    "$date": "2008-06-03T00:00:00.000Z"
+  },
+  "CodigoPostal": "D",
+  "Cidade": "ravensburg",
+  "Pais": "DE",
+  "NIF": "381345165",
+  "datasCompras": [
+    {
+      "$date": "2018-08-16T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 3430,
+  "Nome": "Terrie Fulson",
+  "DataCriacao": {
+    "$date": "2012-01-16T00:00:00.000Z"
+  },
+  "CodigoPostal": "N/A",
+  "Cidade": ".",
+  "Pais": "PL",
+  "NIF": "471487566",
+  "datasCompras": [
+    {
+      "$date": "2018-05-04T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-03-20T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-06T00:00:00.000Z"
+    },
+    {
+      "$date": "2017-10-04T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-11T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-24T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 3322,
+  "Nome": "Palmiro Korfhage",
+  "DataCriacao": {
+    "$date": "2016-04-01T00:00:00.000Z"
+  },
+  "CodigoPostal": "N/A",
+  "Cidade": "coburg",
+  "Pais": "DE",
+  "NIF": "450054048",
+  "datasCompras": [
+    {
+      "$date": "2018-07-23T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 443,
+  "Nome": "Sandeep Abdou",
+  "DataCriacao": {
+    "$date": "2013-04-10T00:00:00.000Z"
+  },
+  "CodigoPostal": "6100",
+  "Cidade": "sertã",
+  "Pais": "PT",
+  "NIF": "Consumidor Final",
+  "datasCompras": [
+    {
+      "$date": "2018-07-25T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-06-29T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 1295,
+  "Nome": "Laxman Doerle",
+  "DataCriacao": {
+    "$date": "2015-06-09T00:00:00.000Z"
+  },
+  "CodigoPostal": "2830",
+  "Cidade": "barreiro",
+  "Pais": "PT",
+  "NIF": "Consumidor Final",
+  "datasCompras": [
+    {
+      "$date": "2018-07-27T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-18T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 643,
+  "Nome": "Kwesi Goelz",
+  "DataCriacao": {
+    "$date": "2012-04-17T00:00:00.000Z"
+  },
+  "CodigoPostal": "3840",
+  "Cidade": "calvão - vagos",
+  "Pais": "PT",
+  "NIF": "Consumidor Final",
+  "datasCompras": [
+    {
+      "$date": "2018-06-21T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 1036,
+  "Nome": "Kristoffer Pascarelli",
+  "DataCriacao": {
+    "$date": "2014-04-03T00:00:00.000Z"
+  },
+  "CodigoPostal": "2425",
+  "Cidade": "leiria",
+  "Pais": "PT",
+  "NIF": "Consumidor Final",
+  "datasCompras": [
+    {
+      "$date": "2018-07-27T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 526,
+  "Nome": "Nasir Naud",
+  "DataCriacao": {
+    "$date": "2017-11-20T00:00:00.000Z"
+  },
+  "CodigoPostal": "4560",
+  "Cidade": "penafiel",
+  "Pais": "PT",
+  "NIF": "Consumidor Final",
+  "datasCompras": [
+    {
+      "$date": "2018-07-09T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-19T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 2171,
+  "Nome": "Olene Pasley",
+  "DataCriacao": {
+    "$date": "2017-10-10T00:00:00.000Z"
+  },
+  "CodigoPostal": "N/A",
+  "Cidade": "ballens",
+  "Pais": "CH",
+  "NIF": "562208485",
+  "datasCompras": [
+    {
+      "$date": "2018-06-27T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 979,
+  "Nome": "Chandrakanta Dazey",
+  "DataCriacao": {
+    "$date": "2009-02-20T00:00:00.000Z"
+  },
+  "CodigoPostal": "3130",
+  "Cidade": "vinha da rainha",
+  "Pais": "PT",
+  "NIF": "652581782",
+  "datasCompras": [
+    {
+      "$date": "2018-06-26T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 1323,
+  "Nome": "Zena Stcyr",
+  "DataCriacao": {
+    "$date": "2018-06-22T00:00:00.000Z"
+  },
+  "CodigoPostal": "2530",
+  "Cidade": "lourinhã",
+  "Pais": "PT",
+  "NIF": "771462107",
+  "datasCompras": [
+    {
+      "$date": "2018-07-05T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-06-22T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 751,
+  "Nome": "Thurstan Sichler",
+  "DataCriacao": {
+    "$date": "2009-05-05T00:00:00.000Z"
+  },
+  "CodigoPostal": "4470",
+  "Cidade": "maia",
+  "Pais": "PT",
+  "NIF": "721583428",
+  "datasCompras": [
+    {
+      "$date": "2018-08-20T00:00:00.000Z"
+    },
+    {
+      "$date": "2019-01-04T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-10T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-25T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-09T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 1299,
+  "Nome": "Shanita Schuckers",
+  "DataCriacao": {
+    "$date": "2016-06-08T00:00:00.000Z"
+  },
+  "CodigoPostal": "1200",
+  "Cidade": "lisboa",
+  "Pais": "PT",
+  "NIF": "Consumidor Final",
+  "datasCompras": [
+    {
+      "$date": "2018-08-10T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 1046,
+  "Nome": "Marjorie Timchula",
+  "DataCriacao": {
+    "$date": "2016-04-26T00:00:00.000Z"
+  },
+  "CodigoPostal": "3240",
+  "Cidade": "ansião",
+  "Pais": "PT",
+  "NIF": "Consumidor Final",
+  "datasCompras": [
+    {
+      "$date": "2018-07-04T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-09-07T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-23T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 386,
+  "Nome": "Antonino Ryback",
+  "DataCriacao": {
+    "$date": "2005-05-05T00:00:00.000Z"
+  },
+  "CodigoPostal": "3040",
+  "Cidade": "coimbra",
+  "Pais": "PT",
+  "NIF": "62200888",
+  "datasCompras": [
+    {
+      "$date": "2018-07-10T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 24,
+  "Nome": "Florinda Pitka",
+  "DataCriacao": {
+    "$date": "2006-03-10T00:00:00.000Z"
+  },
+  "CodigoPostal": "4700",
+  "Cidade": "braga",
+  "Pais": "PT",
+  "NIF": "852065665",
+  "datasCompras": [
+    {
+      "$date": "2018-08-09T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 929,
+  "Nome": "Jewell Garis",
+  "DataCriacao": {
+    "$date": "2006-10-25T00:00:00.000Z"
+  },
+  "CodigoPostal": "3240",
+  "Cidade": "ansião",
+  "Pais": "PT",
+  "NIF": "213751658",
+  "datasCompras": [
+    {
+      "$date": "2018-07-04T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-08-02T00:00:00.000Z"
+    },
+    {
+      "$date": "2007-01-15T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 194,
+  "Nome": "Shelbi Latina",
+  "DataCriacao": {
+    "$date": "2012-10-09T00:00:00.000Z"
+  },
+  "CodigoPostal": "5445",
+  "Cidade": "carrazedo de montenegro",
+  "Pais": "PT",
+  "NIF": "Consumidor Final",
+  "datasCompras": [
+    {
+      "$date": "2018-07-10T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-16T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-06-25T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-06-20T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 312,
+  "Nome": "Lilo Donkle",
+  "DataCriacao": {
+    "$date": "2014-02-28T00:00:00.000Z"
+  },
+  "CodigoPostal": "3570",
+  "Cidade": "aguiar da beira",
+  "Pais": "PT",
+  "NIF": "Consumidor Final",
+  "datasCompras": [
+    {
+      "$date": "2018-06-28T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-09-14T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-08-23T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-09-12T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-12-14T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-10-22T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-11-02T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-08-16T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-12-27T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-11-30T00:00:00.000Z"
+    },
+    {
+      "$date": "2019-02-06T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-11-08T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-08-28T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 534,
+  "Nome": "Sapphira Deleo",
+  "DataCriacao": {
+    "$date": "2018-04-03T00:00:00.000Z"
+  },
+  "CodigoPostal": "4600",
+  "Cidade": "amarante",
+  "Pais": "PT",
+  "NIF": "11101714",
+  "datasCompras": [
+    {
+      "$date": "2018-07-04T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 3457,
+  "Nome": "Hind Flagiello",
+  "DataCriacao": {
+    "$date": "2011-03-03T00:00:00.000Z"
+  },
+  "CodigoPostal": "N/A",
+  "Cidade": "skofja loka",
+  "Pais": "SI",
+  "NIF": "487850313",
+  "datasCompras": [
+    {
+      "$date": "2018-03-09T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-05-29T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 837,
+  "Nome": "Marybeth Jakab",
+  "DataCriacao": {
+    "$date": "2014-04-02T00:00:00.000Z"
+  },
+  "CodigoPostal": "4786",
+  "Cidade": "trofa",
+  "Pais": "PT",
+  "NIF": "587550016",
+  "datasCompras": [
+    {
+      "$date": "2019-02-26T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 3152,
+  "Nome": "Seneca Nuxoll",
+  "DataCriacao": {
+    "$date": "2006-05-16T00:00:00.000Z"
+  },
+  "CodigoPostal": "N/A",
+  "Cidade": "wiesbaden",
+  "Pais": "DE",
+  "NIF": "380588454",
+  "datasCompras": [
+    {
+      "$date": "2018-06-22T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-13T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 964,
+  "Nome": "Alexa Aldana",
+  "DataCriacao": {
+    "$date": "2008-06-09T00:00:00.000Z"
+  },
+  "CodigoPostal": "4805",
+  "Cidade": "guimarães",
+  "Pais": "PT",
+  "NIF": "775805584",
+  "datasCompras": [
+    {
+      "$date": "2018-07-10T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-23T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-03T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-16T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 446,
+  "Nome": "Christy Hufana",
+  "DataCriacao": {
+    "$date": "2013-10-04T00:00:00.000Z"
+  },
+  "CodigoPostal": "3250",
+  "Cidade": "alvaiázere",
+  "Pais": "PT",
+  "NIF": "Consumidor Final",
+  "datasCompras": [
+    {
+      "$date": "2018-07-25T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-27T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 1315,
+  "Nome": "Placida Puhuyaoma",
+  "DataCriacao": {
+    "$date": "2017-11-21T00:00:00.000Z"
+  },
+  "CodigoPostal": "2560",
+  "Cidade": "torres vedras",
+  "Pais": "PT",
+  "NIF": "Consumidor Final",
+  "datasCompras": [
+    {
+      "$date": "2018-07-19T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 2728,
+  "Nome": "Hali Kralicek",
+  "DataCriacao": {
+    "$date": "2006-03-03T00:00:00.000Z"
+  },
+  "CodigoPostal": "N/A",
+  "Cidade": "leganes",
+  "Pais": "ES",
+  "NIF": "Consumidor Final",
+  "datasCompras": [
+    {
+      "$date": "2006-11-16T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 1109,
+  "Nome": "Jervis Winik",
+  "DataCriacao": {
+    "$date": "2010-07-14T00:00:00.000Z"
+  },
+  "CodigoPostal": "2855",
+  "Cidade": "corroios",
+  "Pais": "PT",
+  "NIF": "Consumidor Final",
+  "datasCompras": [
+    {
+      "$date": "2018-07-20T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 1048,
+  "Nome": "Adalberto Ikard",
+  "DataCriacao": {
+    "$date": "2016-06-16T00:00:00.000Z"
+  },
+  "CodigoPostal": "2430",
+  "Cidade": "marinha grande",
+  "Pais": "PT",
+  "NIF": "687270613",
+  "datasCompras": [
+    {
+      "$date": "2018-07-23T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-06-19T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-05T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-08-02T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 1332,
+  "Nome": "Fulke Tonai",
+  "DataCriacao": {
+    "$date": "2004-03-22T00:00:00.000Z"
+  },
+  "CodigoPostal": "2710",
+  "Cidade": "sintra",
+  "Pais": "PT",
+  "NIF": "237530158",
+  "datasCompras": [
+    {
+      "$date": "2018-04-04T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-05-23T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-03-22T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-02-15T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-04-13T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-05-25T00:00:00.000Z"
+    },
+    {
+      "$date": "2017-09-28T00:00:00.000Z"
+    },
+    {
+      "$date": "2017-11-03T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-03-19T00:00:00.000Z"
+    },
+    {
+      "$date": "2017-09-20T00:00:00.000Z"
+    },
+    {
+      "$date": "2017-10-11T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-04-27T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-05-10T00:00:00.000Z"
+    },
+    {
+      "$date": "2017-10-25T00:00:00.000Z"
+    },
+    {
+      "$date": "2017-11-16T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-06-14T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-06-18T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-02-21T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-02-27T00:00:00.000Z"
+    },
+    {
+      "$date": "2017-11-08T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-03-27T00:00:00.000Z"
+    },
+    {
+      "$date": "2017-11-15T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-04-23T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-05T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-05-24T00:00:00.000Z"
+    },
+    {
+      "$date": "2017-09-18T00:00:00.000Z"
+    },
+    {
+      "$date": "2017-10-09T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-05-29T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-03-23T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-19T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-03-13T00:00:00.000Z"
+    },
+    {
+      "$date": "2017-10-03T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-03-07T00:00:00.000Z"
+    },
+    {
+      "$date": "2017-11-07T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-16T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-06-13T00:00:00.000Z"
+    },
+    {
+      "$date": "2017-11-10T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-06-26T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-06T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-03-20T00:00:00.000Z"
+    },
+    {
+      "$date": "2017-10-27T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 237,
+  "Nome": "Tiger Hiestand",
+  "DataCriacao": {
+    "$date": "2018-05-30T00:00:00.000Z"
+  },
+  "CodigoPostal": "5000",
+  "Cidade": "andrães",
+  "Pais": "PT",
+  "NIF": "832771764",
+  "datasCompras": [
+    {
+      "$date": "2018-07-13T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 3185,
+  "Nome": "Luigino Giedlin",
+  "DataCriacao": {
+    "$date": "2004-03-24T00:00:00.000Z"
+  },
+  "CodigoPostal": "N/A",
+  "Cidade": "balingen",
+  "Pais": "DE",
+  "NIF": "558121116",
+  "datasCompras": [
+    {
+      "$date": "2018-08-16T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 109,
+  "Nome": "Adil Vichidvongsa",
+  "DataCriacao": {
+    "$date": "2004-10-18T00:00:00.000Z"
+  },
+  "CodigoPostal": "4835",
+  "Cidade": "guimaraes",
+  "Pais": "PT",
+  "NIF": "223562488",
+  "datasCompras": [
+    {
+      "$date": "2018-10-09T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-09-27T00:00:00.000Z"
+    },
+    {
+      "$date": "2019-01-03T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-06-29T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-09-20T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-09T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-12-04T00:00:00.000Z"
+    },
+    {
+      "$date": "2019-01-08T00:00:00.000Z"
+    },
+    {
+      "$date": "2019-01-25T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-11-07T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-09-26T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-10-12T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-06-26T00:00:00.000Z"
+    },
+    {
+      "$date": "2019-01-21T00:00:00.000Z"
+    },
+    {
+      "$date": "2019-02-11T00:00:00.000Z"
+    },
+    {
+      "$date": "2019-02-12T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-10-11T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-30T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-09-24T00:00:00.000Z"
+    },
+    {
+      "$date": "2019-03-20T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-10-22T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-06-20T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-08-13T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 2006,
+  "Nome": "Herbert Benbenek",
+  "DataCriacao": {
+    "$date": "2004-03-23T00:00:00.000Z"
+  },
+  "CodigoPostal": "D",
+  "Cidade": "coswig",
+  "Pais": "DE",
+  "NIF": "584462224",
+  "datasCompras": [
+    {
+      "$date": "2018-06-22T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 366,
+  "Nome": "Nicoletta Tymon",
+  "DataCriacao": {
+    "$date": "2018-06-04T00:00:00.000Z"
+  },
+  "CodigoPostal": "4770",
+  "Cidade": "pousada de saramagos",
+  "Pais": "PT",
+  "NIF": "404481156",
+  "datasCompras": [
+    {
+      "$date": "2018-07-02T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-13T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 345,
+  "Nome": "Leesa Aull",
+  "DataCriacao": {
+    "$date": "2017-03-02T00:00:00.000Z"
+  },
+  "CodigoPostal": "4860",
+  "Cidade": "cabeceiras de basto",
+  "Pais": "PT",
+  "NIF": "Consumidor Final",
+  "datasCompras": [
+    {
+      "$date": "2018-10-31T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-11-26T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-09-07T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-09-10T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 261,
+  "Nome": "Mellisa Beermann",
+  "DataCriacao": {
+    "$date": "2007-12-19T00:00:00.000Z"
+  },
+  "CodigoPostal": "3450",
+  "Cidade": "mortágua",
+  "Pais": "PT",
+  "NIF": "Consumidor Final",
+  "datasCompras": [
+    {
+      "$date": "2018-07-11T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-02T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-18T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-24T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-06-26T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-06-29T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 46,
+  "Nome": "Monday Delrosario",
+  "DataCriacao": {
+    "$date": "2013-02-14T00:00:00.000Z"
+  },
+  "CodigoPostal": "4980",
+  "Cidade": "ponte da barca",
+  "Pais": "PT",
+  "NIF": "357332688",
+  "datasCompras": [
+    {
+      "$date": "2018-07-25T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 3335,
+  "Nome": "Kenneth Riebel",
+  "DataCriacao": {
+    "$date": "2012-02-23T00:00:00.000Z"
+  },
+  "CodigoPostal": "LT",
+  "Cidade": "kaunas",
+  "Pais": "LT",
+  "NIF": "733518256",
+  "datasCompras": [
+    {
+      "$date": "2018-05-03T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-06-05T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-13T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-06-01T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-05-18T00:00:00.000Z"
+    },
+    {
+      "$date": "2017-10-03T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-03-23T00:00:00.000Z"
+    },
+    {
+      "$date": "2017-11-13T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 51,
+  "Nome": "Ashton Zerger",
+  "DataCriacao": {
+    "$date": "2015-01-14T00:00:00.000Z"
+  },
+  "CodigoPostal": "4970",
+  "Cidade": "arcos de valdevez",
+  "Pais": "PT",
+  "NIF": "10076185",
+  "datasCompras": [
+    {
+      "$date": "2018-07-23T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-04T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-06-20T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 1020,
+  "Nome": "Reese Zakutney",
+  "DataCriacao": {
+    "$date": "2008-07-22T00:00:00.000Z"
+  },
+  "CodigoPostal": "2495",
+  "Cidade": "fátima",
+  "Pais": "PT",
+  "NIF": "717133273",
+  "datasCompras": [
+    {
+      "$date": "2018-07-23T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-03T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-08-09T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-11T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 712,
+  "Nome": "Marcela Duenow",
+  "DataCriacao": {
+    "$date": "2009-08-07T00:00:00.000Z"
+  },
+  "CodigoPostal": "4466",
+  "Cidade": "leça do balio",
+  "Pais": "PT",
+  "NIF": "114246282",
+  "datasCompras": [
+    {
+      "$date": "2018-10-30T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-10-29T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-12-10T00:00:00.000Z"
+    },
+    {
+      "$date": "2019-01-04T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 2061,
+  "Nome": "Alexandro Voytek",
+  "DataCriacao": {
+    "$date": "2012-03-12T00:00:00.000Z"
+  },
+  "CodigoPostal": "N/A",
+  "Cidade": "wognum",
+  "Pais": "NL",
+  "NIF": "147828843",
+  "datasCompras": [
+    {
+      "$date": "2017-11-13T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 464,
+  "Nome": "Manish Ulabarro",
+  "DataCriacao": {
+    "$date": "2018-01-08T00:00:00.000Z"
+  },
+  "CodigoPostal": "3330",
+  "Cidade": "coimbra",
+  "Pais": "PT",
+  "NIF": "Consumidor Final",
+  "datasCompras": [
+    {
+      "$date": "2018-06-29T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 3081,
+  "Nome": "Arvilla Skiver",
+  "DataCriacao": {
+    "$date": "2013-01-29T00:00:00.000Z"
+  },
+  "CodigoPostal": "N/A",
+  "Cidade": "wesel",
+  "Pais": "DE",
+  "NIF": "13013106",
+  "datasCompras": [
+    {
+      "$date": "2018-08-10T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-06-22T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 1212,
+  "Nome": "Leonhard Wiggins",
+  "DataCriacao": {
+    "$date": "2014-03-20T00:00:00.000Z"
+  },
+  "CodigoPostal": "4750",
+  "Cidade": "oliveira - barcelos ",
+  "Pais": "PT",
+  "NIF": "30048064",
+  "datasCompras": [
+    {
+      "$date": "2018-07-11T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 452,
+  "Nome": "Narendra Gales",
+  "DataCriacao": {
+    "$date": "2014-10-23T00:00:00.000Z"
+  },
+  "CodigoPostal": "3450",
+  "Cidade": "mortágua",
+  "Pais": "PT",
+  "NIF": "341875321",
+  "datasCompras": [
+    {
+      "$date": "2018-06-19T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-24T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-04T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-19T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-06-21T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-08-08T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-12T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 1966,
+  "Nome": "Laverne Macer",
+  "DataCriacao": {
+    "$date": "2004-03-22T00:00:00.000Z"
+  },
+  "CodigoPostal": "N/A",
+  "Cidade": "langenhagen",
+  "Pais": "DE",
+  "NIF": "781753518",
+  "datasCompras": [
+    {
+      "$date": "2018-07-18T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 251,
+  "Nome": "Sanchia Oursler",
+  "DataCriacao": {
+    "$date": "2004-03-19T00:00:00.000Z"
+  },
+  "CodigoPostal": "3515",
+  "Cidade": "viseu",
+  "Pais": "PT",
+  "NIF": "Consumidor Final",
+  "datasCompras": [
+    {
+      "$date": "2018-11-09T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-10-08T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-12-26T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-10-30T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-12-04T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-10-18T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-08-27T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-10-23T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-10-25T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-08-29T00:00:00.000Z"
+    },
+    {
+      "$date": "2019-03-25T00:00:00.000Z"
+    },
+    {
+      "$date": "2019-02-18T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-11-14T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-06-21T00:00:00.000Z"
+    },
+    {
+      "$date": "2019-01-02T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-11-28T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 1617,
+  "Nome": "Raelene Raychard",
+  "DataCriacao": {
+    "$date": "2004-03-22T00:00:00.000Z"
+  },
+  "CodigoPostal": "N/A",
+  "Cidade": "merida - badajoz",
+  "Pais": "ES",
+  "NIF": "Consumidor Final",
+  "datasCompras": [
+    {
+      "$date": "2004-01-13T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 1053,
+  "Nome": "Brandyn Sukut",
+  "DataCriacao": {
+    "$date": "2017-03-16T00:00:00.000Z"
+  },
+  "CodigoPostal": "2460",
+  "Cidade": "coz  alcobaça",
+  "Pais": "PT",
+  "NIF": "234241183",
+  "datasCompras": [
+    {
+      "$date": "2018-07-02T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-05T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 1059,
+  "Nome": "Cleve Giulioli",
+  "DataCriacao": {
+    "$date": "2018-02-16T00:00:00.000Z"
+  },
+  "CodigoPostal": "3105",
+  "Cidade": "carriço",
+  "Pais": "PT",
+  "NIF": "Consumidor Final",
+  "datasCompras": [
+    {
+      "$date": "2018-06-26T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-06-29T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-23T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 928,
+  "Nome": "Chloe Stroik",
+  "DataCriacao": {
+    "$date": "2006-10-24T00:00:00.000Z"
+  },
+  "CodigoPostal": "4750",
+  "Cidade": "barcelos",
+  "Pais": "PT",
+  "NIF": "Consumidor Final",
+  "datasCompras": [
+    {
+      "$date": "2018-07-23T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 885,
+  "Nome": "Maurice Roache",
+  "DataCriacao": {
+    "$date": "2017-02-15T00:00:00.000Z"
+  },
+  "CodigoPostal": "6110",
+  "Cidade": "vila de rei",
+  "Pais": "PT",
+  "NIF": "212107423",
+  "datasCompras": [
+    {
+      "$date": "2018-07-05T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 280,
+  "Nome": "Loreto Mackie",
+  "DataCriacao": {
+    "$date": "2014-04-30T00:00:00.000Z"
+  },
+  "CodigoPostal": "3650",
+  "Cidade": "vila nova de paiva",
+  "Pais": "PT",
+  "NIF": "Consumidor Final",
+  "datasCompras": [
+    {
+      "$date": "2018-07-23T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 308,
+  "Nome": "Xerxes Delmange",
+  "DataCriacao": {
+    "$date": "2013-01-11T00:00:00.000Z"
+  },
+  "CodigoPostal": "6270",
+  "Cidade": ".",
+  "Pais": "PT",
+  "NIF": "Consumidor Final",
+  "datasCompras": [
+    {
+      "$date": "2018-06-27T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 1017,
+  "Nome": "Cymbeline Neiling",
+  "DataCriacao": {
+    "$date": "2008-02-27T00:00:00.000Z"
+  },
+  "CodigoPostal": "2200",
+  "Cidade": "abrantes",
+  "Pais": "PT",
+  "NIF": "620357524",
+  "datasCompras": [
+    {
+      "$date": "2018-06-21T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 835,
+  "Nome": "Josiah Newland",
+  "DataCriacao": {
+    "$date": "2014-02-21T00:00:00.000Z"
+  },
+  "CodigoPostal": "4431",
+  "Cidade": "avintes",
+  "Pais": "PT",
+  "NIF": "Consumidor Final",
+  "datasCompras": [
+    {
+      "$date": "2018-06-19T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-11-05T00:00:00.000Z"
+    },
+    {
+      "$date": "2019-02-06T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-09-26T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-12-12T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-10-10T00:00:00.000Z"
+    },
+    {
+      "$date": "2019-01-17T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 197,
+  "Nome": "Ford Branaman",
+  "DataCriacao": {
+    "$date": "2014-01-14T00:00:00.000Z"
+  },
+  "CodigoPostal": "5300",
+  "Cidade": "bragança",
+  "Pais": "PT",
+  "NIF": "Consumidor Final",
+  "datasCompras": [
+    {
+      "$date": "2018-07-26T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 2443,
+  "Nome": "Kerwin Nickodem",
+  "DataCriacao": {
+    "$date": "2004-03-24T00:00:00.000Z"
+  },
+  "CodigoPostal": "N/A",
+  "Cidade": "nothingham",
+  "Pais": "GB",
+  "NIF": "222842028",
+  "datasCompras": [
+    {
+      "$date": "2005-11-03T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 1449,
+  "Nome": "Linnie Helmert",
+  "DataCriacao": {
+    "$date": "2004-03-22T00:00:00.000Z"
+  },
+  "CodigoPostal": "2670",
+  "Cidade": "loures",
+  "Pais": "PT",
+  "NIF": "Consumidor Final",
+  "datasCompras": [
+    {
+      "$date": "2018-07-04T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 997,
+  "Nome": "Aggie Fadel",
+  "DataCriacao": {
+    "$date": "2005-05-05T00:00:00.000Z"
+  },
+  "CodigoPostal": "2580",
+  "Cidade": "cadafaias",
+  "Pais": "PT",
+  "NIF": "154107455",
+  "datasCompras": [
+    {
+      "$date": "2018-07-17T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-18T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-06-20T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-09-12T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-10-22T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-08-02T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-10-24T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-12-07T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-10-18T00:00:00.000Z"
+    },
+    {
+      "$date": "2019-02-13T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-12-19T00:00:00.000Z"
+    },
+    {
+      "$date": "2019-03-08T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-08-17T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-09-25T00:00:00.000Z"
+    },
+    {
+      "$date": "2019-02-21T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-10-10T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-09-21T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-08-31T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-10-12T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-12-17T00:00:00.000Z"
+    },
+    {
+      "$date": "2019-01-28T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-09-03T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-11-09T00:00:00.000Z"
+    },
+    {
+      "$date": "2019-02-06T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-10-30T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-06-27T00:00:00.000Z"
+    },
+    {
+      "$date": "2019-04-22T00:00:00.000Z"
+    },
+    {
+      "$date": "2019-08-07T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-11-29T00:00:00.000Z"
+    },
+    {
+      "$date": "2019-01-04T00:00:00.000Z"
+    },
+    {
+      "$date": "2019-03-20T00:00:00.000Z"
+    },
+    {
+      "$date": "2019-05-24T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-11-19T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-19T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-12-11T00:00:00.000Z"
+    },
+    {
+      "$date": "2019-01-18T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-10-03T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-08-14T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-08-07T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-11-15T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-06-26T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-06T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-08-24T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-09-17T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-12-21T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-09-27T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-09-19T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-09-07T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-10-26T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-16T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 1157,
+  "Nome": "Jon Poalino",
+  "DataCriacao": {
+    "$date": "2010-04-28T00:00:00.000Z"
+  },
+  "CodigoPostal": "4815",
+  "Cidade": "vizela",
+  "Pais": "PT",
+  "NIF": "215733181",
+  "datasCompras": [
+    {
+      "$date": "2018-09-24T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-19T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-08-16T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 3165,
+  "Nome": "Ghayth Wierzbicki",
+  "DataCriacao": {
+    "$date": "2011-01-28T00:00:00.000Z"
+  },
+  "CodigoPostal": "N/A",
+  "Cidade": "kirkel limbach",
+  "Pais": "DE",
+  "NIF": "380621356",
+  "datasCompras": [
+    {
+      "$date": "2018-07-09T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 3448,
+  "Nome": "Matthias Schwegel",
+  "DataCriacao": {
+    "$date": "2018-05-16T00:00:00.000Z"
+  },
+  "CodigoPostal": "N/A",
+  "Cidade": "croátia ",
+  "Pais": "HR",
+  "NIF": "21554883",
+  "datasCompras": [
+    {
+      "$date": "2018-06-05T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-04T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 887,
+  "Nome": "Arvel Jess",
+  "DataCriacao": {
+    "$date": "2018-02-14T00:00:00.000Z"
+  },
+  "CodigoPostal": "6100",
+  "Cidade": "sertã",
+  "Pais": "PT",
+  "NIF": "341441578",
+  "datasCompras": [
+    {
+      "$date": "2018-08-09T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 537,
+  "Nome": "Elwin Primozich",
+  "DataCriacao": {
+    "$date": "2018-07-05T00:00:00.000Z"
+  },
+  "CodigoPostal": "3810",
+  "Cidade": "aveiro",
+  "Pais": "PT",
+  "NIF": "733225454",
+  "datasCompras": [
+    {
+      "$date": "2018-08-16T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 896,
+  "Nome": "Breann Delapenha",
+  "DataCriacao": {
+    "$date": "2004-03-22T00:00:00.000Z"
+  },
+  "CodigoPostal": "2475",
+  "Cidade": "benedita",
+  "Pais": "PT",
+  "NIF": "543871308",
+  "datasCompras": [
+    {
+      "$date": "2018-07-18T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-04T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-06-29T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-06-20T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-10T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-23T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 361,
+  "Nome": "Kristofer Piccillo",
+  "DataCriacao": {
+    "$date": "2018-03-13T00:00:00.000Z"
+  },
+  "CodigoPostal": "4850",
+  "Cidade": "vieira do minho",
+  "Pais": "PT",
+  "NIF": "665816312",
+  "datasCompras": [
+    {
+      "$date": "2018-06-21T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 3458,
+  "Nome": "Gord Fadeley",
+  "DataCriacao": {
+    "$date": "2014-02-28T00:00:00.000Z"
+  },
+  "CodigoPostal": "N/A",
+  "Cidade": "domzale",
+  "Pais": "SI",
+  "NIF": "446604414",
+  "datasCompras": [
+    {
+      "$date": "2018-02-20T00:00:00.000Z"
+    },
+    {
+      "$date": "2017-11-03T00:00:00.000Z"
+    },
+    {
+      "$date": "2017-12-11T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-06-07T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 3350,
+  "Nome": "Hercule Paynter",
+  "DataCriacao": {
+    "$date": "2016-09-27T00:00:00.000Z"
+  },
+  "CodigoPostal": "N/A",
+  "Cidade": "mauritius",
+  "Pais": "MU",
+  "NIF": "450787184",
+  "datasCompras": [
+    {
+      "$date": "2018-06-15T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 2260,
+  "Nome": "Ninon Ledezma",
+  "DataCriacao": {
+    "$date": "2009-12-15T00:00:00.000Z"
+  },
+  "CodigoPostal": "N/A",
+  "Cidade": "doha",
+  "Pais": "QA",
+  "NIF": "155367724",
+  "datasCompras": [
+    {
+      "$date": "2017-07-27T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 159,
+  "Nome": "Meghan Juhl",
+  "DataCriacao": {
+    "$date": "2004-05-03T00:00:00.000Z"
+  },
+  "CodigoPostal": "4830",
+  "Cidade": "povoa de lanhoso",
+  "Pais": "PT",
+  "NIF": "240247304",
+  "datasCompras": [
+    {
+      "$date": "2018-06-25T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 615,
+  "Nome": "Ernesta Batchelor",
+  "DataCriacao": {
+    "$date": "2009-03-12T00:00:00.000Z"
+  },
+  "CodigoPostal": "1800",
+  "Cidade": "lisboa",
+  "Pais": "PT",
+  "NIF": "643260513",
+  "datasCompras": [
+    {
+      "$date": "2018-07-13T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-24T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 449,
+  "Nome": "Jeanie Schweinsberg",
+  "DataCriacao": {
+    "$date": "2013-11-22T00:00:00.000Z"
+  },
+  "CodigoPostal": "3400",
+  "Cidade": "oliveira do hospital ",
+  "Pais": "PT",
+  "NIF": "Consumidor Final",
+  "datasCompras": [
+    {
+      "$date": "2018-07-18T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 3547,
+  "Nome": "Chile Fetchko",
+  "DataCriacao": {
+    "$date": "2004-03-23T00:00:00.000Z"
+  },
+  "CodigoPostal": "N/A",
+  "Cidade": ".",
+  "Pais": "PT",
+  "NIF": "630057780",
+  "datasCompras": [
+    {
+      "$date": "2018-12-11T00:00:00.000Z"
+    },
+    {
+      "$date": "2019-01-15T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 2080,
+  "Nome": "Kaleb Kruebbe",
+  "DataCriacao": {
+    "$date": "2013-03-06T00:00:00.000Z"
+  },
+  "CodigoPostal": "N/A",
+  "Cidade": "eb ochten",
+  "Pais": "NL",
+  "NIF": "635721211",
+  "datasCompras": [
+    {
+      "$date": "2018-06-29T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 1556,
+  "Nome": "Grete Jeannette",
+  "DataCriacao": {
+    "$date": "2016-09-09T00:00:00.000Z"
+  },
+  "CodigoPostal": "8100",
+  "Cidade": "loulé",
+  "Pais": "PT",
+  "NIF": "Consumidor Final",
+  "datasCompras": [
+    {
+      "$date": "2018-07-02T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-06T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-06-19T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-18T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 3323,
+  "Nome": "Ignacio Houchins",
+  "DataCriacao": {
+    "$date": "2018-01-17T00:00:00.000Z"
+  },
+  "CodigoPostal": "N/A",
+  "Cidade": "nürnberg",
+  "Pais": "DE",
+  "NIF": "463332741",
+  "datasCompras": [
+    {
+      "$date": "2018-07-13T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 660,
+  "Nome": "Keren Berbig",
+  "DataCriacao": {
+    "$date": "2014-03-06T00:00:00.000Z"
+  },
+  "CodigoPostal": "4050",
+  "Cidade": "porto",
+  "Pais": "PT",
+  "NIF": "36261721",
+  "datasCompras": [
+    {
+      "$date": "2018-07-04T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 3089,
+  "Nome": "Iantha Meucci",
+  "DataCriacao": {
+    "$date": "2016-11-25T00:00:00.000Z"
+  },
+  "CodigoPostal": "N/A",
+  "Cidade": "N/A",
+  "Pais": "DE",
+  "NIF": "686213710",
+  "datasCompras": [
+    {
+      "$date": "2018-07-05T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 2267,
+  "Nome": "Saturnino Ameling",
+  "DataCriacao": {
+    "$date": "2004-03-23T00:00:00.000Z"
+  },
+  "CodigoPostal": "N/A",
+  "Cidade": "londonderry (northern ireland)",
+  "Pais": "GB",
+  "NIF": "102266867",
+  "datasCompras": [
+    {
+      "$date": "2007-09-06T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 3456,
+  "Nome": "Sven Simone",
+  "DataCriacao": {
+    "$date": "2011-08-30T00:00:00.000Z"
+  },
+  "CodigoPostal": "N/A",
+  "Cidade": "estonia",
+  "Pais": "EE",
+  "NIF": "224747706",
+  "datasCompras": [
+    {
+      "$date": "2017-09-29T00:00:00.000Z"
+    },
+    {
+      "$date": "2017-10-03T00:00:00.000Z"
+    },
+    {
+      "$date": "2017-10-31T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-03-29T00:00:00.000Z"
+    },
+    {
+      "$date": "2017-10-12T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-06-01T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-05-25T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-03-26T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 1173,
+  "Nome": "Jered Wetmore",
+  "DataCriacao": {
+    "$date": "2011-05-10T00:00:00.000Z"
+  },
+  "CodigoPostal": "9500",
+  "Cidade": "ponta delgada - açores ",
+  "Pais": "PT",
+  "NIF": "650547415",
+  "datasCompras": [
+    {
+      "$date": "2018-08-13T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 50,
+  "Nome": "Sonya Grimard",
+  "DataCriacao": {
+    "$date": "2014-10-28T00:00:00.000Z"
+  },
+  "CodigoPostal": "4960",
+  "Cidade": "melgaço",
+  "Pais": "PT",
+  "NIF": "878866714",
+  "datasCompras": [
+    {
+      "$date": "2018-07-23T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 1038,
+  "Nome": "Rabab Cauble",
+  "DataCriacao": {
+    "$date": "2015-01-29T00:00:00.000Z"
+  },
+  "CodigoPostal": "2580",
+  "Cidade": "carregado",
+  "Pais": "PT",
+  "NIF": "Consumidor Final",
+  "datasCompras": [
+    {
+      "$date": "2018-07-25T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-12T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-11T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-06-20T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-06-27T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-06-29T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 564,
+  "Nome": "Sherie Cocozza",
+  "DataCriacao": {
+    "$date": "2004-03-19T00:00:00.000Z"
+  },
+  "CodigoPostal": "3830",
+  "Cidade": "gafanha da nazaré",
+  "Pais": "PT",
+  "NIF": "638765807",
+  "datasCompras": [
+    {
+      "$date": "2018-07-18T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-06T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-05T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-06-19T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 153,
+  "Nome": "Valerie Redondo",
+  "DataCriacao": {
+    "$date": "2005-12-15T00:00:00.000Z"
+  },
+  "CodigoPostal": "4730",
+  "Cidade": "vila verde",
+  "Pais": "PT",
+  "NIF": "527248270",
+  "datasCompras": [
+    {
+      "$date": "2018-06-29T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-13T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-06-20T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 891,
+  "Nome": "Jameela Rauhe",
+  "DataCriacao": {
+    "$date": "2018-12-03T00:00:00.000Z"
+  },
+  "CodigoPostal": "6100",
+  "Cidade": "sertã",
+  "Pais": "PT",
+  "NIF": "Consumidor Final",
+  "datasCompras": [
+    {
+      "$date": "2019-02-19T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-12-07T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 553,
+  "Nome": "Amada Santulli",
+  "DataCriacao": {
+    "$date": "2004-03-19T00:00:00.000Z"
+  },
+  "CodigoPostal": "3750",
+  "Cidade": "águeda",
+  "Pais": "PT",
+  "NIF": "672468230",
+  "datasCompras": [
+    {
+      "$date": "2018-06-26T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-19T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-10T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-08-02T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-06-27T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 500,
+  "Nome": "Eldridge Ditucci",
+  "DataCriacao": {
+    "$date": "2015-07-08T00:00:00.000Z"
+  },
+  "CodigoPostal": "3780",
+  "Cidade": "anadia",
+  "Pais": "PT",
+  "NIF": "Consumidor Final",
+  "datasCompras": [
+    {
+      "$date": "2018-06-25T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-02T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 1126,
+  "Nome": "Husayn Marotta",
+  "DataCriacao": {
+    "$date": "2015-05-04T00:00:00.000Z"
+  },
+  "CodigoPostal": "2840",
+  "Cidade": "seixal",
+  "Pais": "PT",
+  "NIF": "376737234",
+  "datasCompras": [
+    {
+      "$date": "2018-07-23T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-06-27T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-04T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-02T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-06-19T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-17T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 154,
+  "Nome": "Alessio Baillargeon",
+  "DataCriacao": {
+    "$date": "2004-03-19T00:00:00.000Z"
+  },
+  "CodigoPostal": "4700",
+  "Cidade": "braga",
+  "Pais": "PT",
+  "NIF": "372065360",
+  "datasCompras": [
+    {
+      "$date": "2018-08-09T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-04T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 2088,
+  "Nome": "Doug Mikko",
+  "DataCriacao": {
+    "$date": "2013-11-19T00:00:00.000Z"
+  },
+  "CodigoPostal": "N/A",
+  "Cidade": "groningen",
+  "Pais": "NL",
+  "NIF": "820747772",
+  "datasCompras": [
+    {
+      "$date": "2018-06-26T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-06-27T00:00:00.000Z"
+    },
+    {
+      "$date": "2017-12-12T00:00:00.000Z"
+    },
+    {
+      "$date": "2017-11-13T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-06-25T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 1475,
+  "Nome": "Micah Suma",
+  "DataCriacao": {
+    "$date": "2007-04-16T00:00:00.000Z"
+  },
+  "CodigoPostal": "7005",
+  "Cidade": "évora",
+  "Pais": "PT",
+  "NIF": "Consumidor Final",
+  "datasCompras": [
+    {
+      "$date": "2018-07-17T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-26T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 745,
+  "Nome": "Sasha Lattus",
+  "DataCriacao": {
+    "$date": "2008-06-18T00:00:00.000Z"
+  },
+  "CodigoPostal": "4470",
+  "Cidade": "maia",
+  "Pais": "PT",
+  "NIF": "887657804",
+  "datasCompras": [
+    {
+      "$date": "2018-07-19T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-06-19T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 1147,
+  "Nome": "Catherina Feehly",
+  "DataCriacao": {
+    "$date": "2017-09-06T00:00:00.000Z"
+  },
+  "CodigoPostal": "9560",
+  "Cidade": "lagoa",
+  "Pais": "PT",
+  "NIF": "856570631",
+  "datasCompras": [
+    {
+      "$date": "2018-07-19T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 668,
+  "Nome": "Wade Cybart",
+  "DataCriacao": {
+    "$date": "2007-05-17T00:00:00.000Z"
+  },
+  "CodigoPostal": "4250",
+  "Cidade": "porto",
+  "Pais": "PT",
+  "NIF": "636731857",
+  "datasCompras": [
+    {
+      "$date": "2018-06-21T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-06-22T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-27T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-06-29T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 593,
+  "Nome": "Hallam Enis",
+  "DataCriacao": {
+    "$date": "2006-10-06T00:00:00.000Z"
+  },
+  "CodigoPostal": "3830",
+  "Cidade": "gafanha da encarnação",
+  "Pais": "PT",
+  "NIF": "482382150",
+  "datasCompras": [
+    {
+      "$date": "2018-06-28T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-23T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 909,
+  "Nome": "Floyd Mense",
+  "DataCriacao": {
+    "$date": "2006-07-12T00:00:00.000Z"
+  },
+  "CodigoPostal": "2425",
+  "Cidade": "leiria",
+  "Pais": "PT",
+  "NIF": "Consumidor Final",
+  "datasCompras": [
+    {
+      "$date": "2007-04-17T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 453,
+  "Nome": "Athena Milon",
+  "DataCriacao": {
+    "$date": "2014-10-24T00:00:00.000Z"
+  },
+  "CodigoPostal": "3040",
+  "Cidade": "antanhol",
+  "Pais": "PT",
+  "NIF": "Consumidor Final",
+  "datasCompras": [
+    {
+      "$date": "2018-08-08T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 1226,
+  "Nome": "Diethelm Malkowski",
+  "DataCriacao": {
+    "$date": "2014-11-11T00:00:00.000Z"
+  },
+  "CodigoPostal": "4805",
+  "Cidade": "guimaraes",
+  "Pais": "PT",
+  "NIF": "Consumidor Final",
+  "datasCompras": [
+    {
+      "$date": "2018-07-16T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 1098,
+  "Nome": "Helmut Accosta",
+  "DataCriacao": {
+    "$date": "2007-04-23T00:00:00.000Z"
+  },
+  "CodigoPostal": "2900",
+  "Cidade": "setubal",
+  "Pais": "PT",
+  "NIF": "Consumidor Final",
+  "datasCompras": [
+    {
+      "$date": "2018-07-25T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-12T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 567,
+  "Nome": "Dara Hoeg",
+  "DataCriacao": {
+    "$date": "2005-07-27T00:00:00.000Z"
+  },
+  "CodigoPostal": "3840",
+  "Cidade": "ouca",
+  "Pais": "PT",
+  "NIF": "Consumidor Final",
+  "datasCompras": [
+    {
+      "$date": "2005-10-14T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 2059,
+  "Nome": "Lalage Thoran",
+  "DataCriacao": {
+    "$date": "2012-02-23T00:00:00.000Z"
+  },
+  "CodigoPostal": "N/A",
+  "Cidade": "assendelft",
+  "Pais": "NL",
+  "NIF": "826433222",
+  "datasCompras": [
+    {
+      "$date": "2017-11-13T00:00:00.000Z"
+    },
+    {
+      "$date": "2017-12-04T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-06-25T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 2071,
+  "Nome": "Ouida Weigman",
+  "DataCriacao": {
+    "$date": "2012-10-23T00:00:00.000Z"
+  },
+  "CodigoPostal": "N/A",
+  "Cidade": "bunschoten",
+  "Pais": "NL",
+  "NIF": "884800440",
+  "datasCompras": [
+    {
+      "$date": "2017-12-04T00:00:00.000Z"
+    },
+    {
+      "$date": "2017-12-12T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 2216,
+  "Nome": "Diodore Kraack",
+  "DataCriacao": {
+    "$date": "2004-12-27T00:00:00.000Z"
+  },
+  "CodigoPostal": "N/A",
+  "Cidade": "athens",
+  "Pais": "EL",
+  "NIF": "62507174",
+  "datasCompras": [
+    {
+      "$date": "2018-06-01T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 2034,
+  "Nome": "Franklin Yearta",
+  "DataCriacao": {
+    "$date": "2004-03-23T00:00:00.000Z"
+  },
+  "CodigoPostal": "N/A",
+  "Cidade": "zc best",
+  "Pais": "NL",
+  "NIF": "331532188",
+  "datasCompras": [
+    {
+      "$date": "2006-09-29T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 767,
+  "Nome": "Guadalupe Lickfelt",
+  "DataCriacao": {
+    "$date": "2005-06-16T00:00:00.000Z"
+  },
+  "CodigoPostal": "4600",
+  "Cidade": "amarante",
+  "Pais": "PT",
+  "NIF": "805851354",
+  "datasCompras": [
+    {
+      "$date": "2018-07-27T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-08-02T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-06-29T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 2417,
+  "Nome": "Severina Pruit",
+  "DataCriacao": {
+    "$date": "2004-03-24T00:00:00.000Z"
+  },
+  "CodigoPostal": "N/A",
+  "Cidade": "cheshire",
+  "Pais": "GB",
+  "NIF": "Consumidor Final",
+  "datasCompras": [
+    {
+      "$date": "2004-11-05T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 440,
+  "Nome": "Christine Knepshield",
+  "DataCriacao": {
+    "$date": "2012-02-27T00:00:00.000Z"
+  },
+  "CodigoPostal": "3100",
+  "Cidade": "pombal",
+  "Pais": "PT",
+  "NIF": "Consumidor Final",
+  "datasCompras": [
+    {
+      "$date": "2018-12-13T00:00:00.000Z"
+    },
+    {
+      "$date": "2019-03-25T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-09-25T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-06-29T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-12-26T00:00:00.000Z"
+    },
+    {
+      "$date": "2019-03-07T00:00:00.000Z"
+    },
+    {
+      "$date": "2019-02-01T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-11-29T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-12-21T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-10-19T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 216,
+  "Nome": "Walker Spaugh",
+  "DataCriacao": {
+    "$date": "2004-03-19T00:00:00.000Z"
+  },
+  "CodigoPostal": "5370",
+  "Cidade": "mirandela",
+  "Pais": "PT",
+  "NIF": "384004172",
+  "datasCompras": [
+    {
+      "$date": "2018-07-23T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-06-26T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 1018,
+  "Nome": "Alyssia Yarde",
+  "DataCriacao": {
+    "$date": "2008-03-17T00:00:00.000Z"
+  },
+  "CodigoPostal": "2200",
+  "Cidade": "abrantes",
+  "Pais": "PT",
+  "NIF": "572185210",
+  "datasCompras": [
+    {
+      "$date": "2018-08-08T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 364,
+  "Nome": "Rudolf Wischman",
+  "DataCriacao": {
+    "$date": "2018-05-09T00:00:00.000Z"
+  },
+  "CodigoPostal": "4700",
+  "Cidade": "braga",
+  "Pais": "PT",
+  "NIF": "786861450",
+  "datasCompras": [
+    {
+      "$date": "2018-06-25T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-02T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-05T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 3319,
+  "Nome": "Grant Menes",
+  "DataCriacao": {
+    "$date": "2015-01-23T00:00:00.000Z"
+  },
+  "CodigoPostal": "N/A",
+  "Cidade": "bamberg",
+  "Pais": "DE",
+  "NIF": "708560245",
+  "datasCompras": [
+    {
+      "$date": "2018-06-28T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 2377,
+  "Nome": "Evaristo Gladysiewski",
+  "DataCriacao": {
+    "$date": "2004-03-24T00:00:00.000Z"
+  },
+  "CodigoPostal": "N/A",
+  "Cidade": "west yorkshire",
+  "Pais": "GB",
+  "NIF": "Consumidor Final",
+  "datasCompras": [
+    {
+      "$date": "2007-10-18T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 3294,
+  "Nome": "Dylan Klie",
+  "DataCriacao": {
+    "$date": "2005-05-09T00:00:00.000Z"
+  },
+  "CodigoPostal": "N/A",
+  "Cidade": "muehlhausen",
+  "Pais": "DE",
+  "NIF": "81112404",
+  "datasCompras": [
+    {
+      "$date": "2018-07-10T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 461,
+  "Nome": "Gladyce Yem",
+  "DataCriacao": {
+    "$date": "2017-11-23T00:00:00.000Z"
+  },
+  "CodigoPostal": "3090",
+  "Cidade": "figueira da foz",
+  "Pais": "PT",
+  "NIF": "188840841",
+  "datasCompras": [
+    {
+      "$date": "2018-12-28T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-10T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 3276,
+  "Nome": "Shafiq Magario",
+  "DataCriacao": {
+    "$date": "2013-10-02T00:00:00.000Z"
+  },
+  "CodigoPostal": "N/A",
+  "Cidade": "oberaudorf",
+  "Pais": "DE",
+  "NIF": "504788580",
+  "datasCompras": [
+    {
+      "$date": "2018-07-09T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 520,
+  "Nome": "Gianluigi Burkly",
+  "DataCriacao": {
+    "$date": "2017-07-20T00:00:00.000Z"
+  },
+  "CodigoPostal": "4580",
+  "Cidade": "lordelo",
+  "Pais": "PT",
+  "NIF": "372263560",
+  "datasCompras": [
+    {
+      "$date": "2018-08-01T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 442,
+  "Nome": "Gebbert Wollyung",
+  "DataCriacao": {
+    "$date": "2013-02-20T00:00:00.000Z"
+  },
+  "CodigoPostal": "3100",
+  "Cidade": "pombal",
+  "Pais": "PT",
+  "NIF": "Consumidor Final",
+  "datasCompras": [
+    {
+      "$date": "2019-01-30T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-11-14T00:00:00.000Z"
+    },
+    {
+      "$date": "2018-07-20T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 2971,
+  "Nome": "Larue Cull",
+  "DataCriacao": {
+    "$date": "2005-12-14T00:00:00.000Z"
+  },
+  "CodigoPostal": "D",
+  "Cidade": "bispingen",
+  "Pais": "DE",
+  "NIF": "733516687",
+  "datasCompras": [
+    {
+      "$date": "2018-06-22T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 942,
+  "Nome": "Earlene Salesses",
+  "DataCriacao": {
+    "$date": "2007-06-21T00:00:00.000Z"
+  },
+  "CodigoPostal": "4750",
+  "Cidade": "barcelos",
+  "Pais": "PT",
+  "NIF": "Consumidor Final",
+  "datasCompras": [
+    {
+      "$date": "2018-07-18T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 2156,
+  "Nome": "Veronika Wietbrock",
+  "DataCriacao": {
+    "$date": "2004-03-23T00:00:00.000Z"
+  },
+  "CodigoPostal": "CH",
+  "Cidade": "adliswil - zurich",
+  "Pais": "CH",
+  "NIF": "377153126",
+  "datasCompras": [
+    {
+      "$date": "2018-06-25T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 3135,
+  "Nome": "Colton Henagan",
+  "DataCriacao": {
+    "$date": "2004-03-24T00:00:00.000Z"
+  },
+  "CodigoPostal": "N/A",
+  "Cidade": "detmold",
+  "Pais": "DE",
+  "NIF": "867135440",
+  "datasCompras": [
+    {
+      "$date": "2018-08-01T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 422,
+  "Nome": "Bennie Castellanoz",
+  "DataCriacao": {
+    "$date": "2009-05-07T00:00:00.000Z"
+  },
+  "CodigoPostal": "3360",
+  "Cidade": "penacova",
+  "Pais": "PT",
+  "NIF": "Consumidor Final",
+  "datasCompras": [
+    {
+      "$date": "2018-06-20T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 1037,
+  "Nome": "Achim Cadmus",
+  "DataCriacao": {
+    "$date": "2014-11-05T00:00:00.000Z"
+  },
+  "CodigoPostal": "2350",
+  "Cidade": "torres novas",
+  "Pais": "PT",
+  "NIF": "Consumidor Final",
+  "datasCompras": [
+    {
+      "$date": "2018-07-05T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 337,
+  "Nome": "Deangelo Luellen",
+  "DataCriacao": {
+    "$date": "2016-10-25T00:00:00.000Z"
+  },
+  "CodigoPostal": "4730",
+  "Cidade": "vila verde",
+  "Pais": "PT",
+  "NIF": "548700027",
+  "datasCompras": [
+    {
+      "$date": "2018-06-25T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "id_Cliente": 1022,
+  "Nome": "Geena Onezne",
+  "DataCriacao": {
+    "$date": "2009-05-19T00:00:00.000Z"
+  },
+  "CodigoPostal": "2350",
+  "Cidade": "torres novas",
+  "Pais": "PT",
+  "NIF": "345316530",
+  "datasCompras": [
+    {
+      "$date": "2018-07-06T00:00:00.000Z"
+    }
+  ]
+}]

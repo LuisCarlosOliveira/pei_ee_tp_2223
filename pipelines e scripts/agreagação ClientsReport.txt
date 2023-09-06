@@ -1,0 +1,48 @@
+db.getCollection('SalesHeader').aggregate(
+  [
+    {
+      $lookup: {
+        from: 'Customers',
+        localField: 'id_cliente',
+        foreignField: 'id_Cliente',
+        as: 'clienteInfo'
+      }
+    },
+    {
+      $unwind: {
+        path: '$clienteInfo',
+        preserveNullAndEmptyArrays: false
+      }
+    },
+    {
+      $group: {
+        _id: '$clienteInfo.id_Cliente',
+        nome: { $first: '$clienteInfo.Nome' },
+        dataCriacao: {
+          $first: '$clienteInfo.DataCriacao'
+        },
+        codigoPostal: {
+          $first: '$clienteInfo.CodigoPostal'
+        },
+        cidade: { $first: '$clienteInfo.Cidade' },
+        pais: { $first: '$clienteInfo.Pais' },
+        nif: { $first: '$clienteInfo.NIF' },
+        datasCompras: { $addToSet: '$Data' }
+      }
+    },
+    {
+      $project: {
+        _id: 0,
+        id_Cliente: '$_id',
+        Nome: '$nome',
+        DataCriacao: '$dataCriacao',
+        CodigoPostal: '$codigoPostal',
+        Cidade: '$cidade',
+        Pais: '$pais',
+        NIF: '$nif',
+        datasCompras: '$datasCompras'
+      }
+    }
+  ],
+  { maxTimeMS: 60000, allowDiskUse: true }
+);

@@ -1,0 +1,87 @@
+db.getCollection('SalesHeader').aggregate(
+  [
+    {
+      $lookup: {
+        from: 'Customers',
+        localField: 'id_cliente',
+        foreignField: 'id_Cliente',
+        as: 'clienteInfo'
+      }
+    },
+    {
+      $unwind: {
+        path: '$clienteInfo',
+        preserveNullAndEmptyArrays: false
+      }
+    },
+    {
+      $lookup: {
+        from: 'SalesLines',
+        localField: 'codigoFatura',
+        foreignField: 'codigoFatura',
+        as: 'linhasFatura'
+      }
+    },
+    {
+      $unwind: {
+        path: '$linhasFatura',
+        preserveNullAndEmptyArrays: false
+      }
+    },
+    {
+      $lookup: {
+        from: 'Products',
+        localField: 'linhasFatura.id_Produto',
+        foreignField: 'id_Artigo',
+        as: 'linhasFatura.produtoInfo'
+      }
+    },
+    {
+      $unwind: {
+        path: '$linhasFatura.produtoInfo',
+        preserveNullAndEmptyArrays: false
+      }
+    },
+    {
+      $group: {
+        _id: '$codigoFatura',
+        Data: { $first: '$Data' },
+        IdCliente: {
+          $first: '$clienteInfo.id_Cliente'
+        },
+        NomeCliente: {
+          $first: '$clienteInfo.Nome'
+        },
+        Cidade: { $first: '$clienteInfo.Cidade' },
+        Pais: { $first: '$clienteInfo.Pais' },
+        NIF: { $first: '$clienteInfo.NIF' },
+        CodigoPostal: {
+          $first: '$clienteInfo.CodigoPostal'
+        },
+        linhasFatura: {
+          $push: {
+            IdArtigo:
+              '$linhasFatura.produtoInfo.id_Artigo',
+            DescArtigo:
+              '$linhasFatura.produtoInfo.DescArtigo',
+            Quantidade:
+              '$linhasFatura.quantidade',
+            Valor: '$linhasFatura.valorEUR',
+            Desconto: '$linhasFatura.descontoEUR',
+            StockAtual:
+              '$linhasFatura.produtoInfo.StockAtual'
+          }
+        },
+        totalFatura: {
+          $sum: {
+            $subtract: [
+              '$linhasFatura.valorEUR',
+              '$linhasFatura.descontoEUR'
+            ]
+          }
+        }
+      }
+    }
+  ],
+  { maxTimeMS: 60000, allowDiskUse: true }
+);

@@ -1,0 +1,17 @@
+db.Customers.find({}).forEach(function(doc) {
+    var CodigoPostal = doc.CodigoPostal ? doc.CodigoPostal.toString() : "N/A";
+    var Cidade = doc.Cidade ? doc.Cidade.toString() : "N/A";
+    var NIF = doc.NIF ? doc.NIF.toString() : "Consumidor Final";
+    db.Customers.updateOne({_id: doc._id}, {$set: {CodigoPostal: CodigoPostal, Cidade: Cidade, NIF: NIF}});
+});
+
+db.Products.find({}).forEach(function(doc) {
+    var Dimensao = doc.Dimensao ? doc.Dimensao.toString() : "N/A";
+    db.Products.updateOne({_id: doc._id}, {$set: {Dimensao: Dimensao}});
+});
+
+db.SalesLines.find({}).forEach(function(doc) {
+    var valorEUR = doc.valorEUR && typeof doc.valorEUR === 'string' ? parseFloat(doc.valorEUR.replace(/,/g, '.')) : doc.valorEUR;
+    var descontoEUR = doc.descontoEUR && typeof doc.descontoEUR === 'string' ? parseFloat(doc.descontoEUR.replace(/,/g, '.')) : doc.descontoEUR;
+    db.SalesLines.updateOne({_id: doc._id}, {$set: {valorEUR: valorEUR, descontoEUR: descontoEUR}});
+});

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SalesReport xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+             xsi:noNamespaceSchemaLocation="SalesReport.xsd">
+             
+    <Seller>
+        <VATNumber>509765432</VATNumber>
+        <Name>StepUp Shoes</Name>
+        <Address>Rua Principal, 50</Address>
+        <City>Lousada</City>
+        <Country>Portugal</Country>
+        <PostalCode>4620-001</PostalCode>
+    </Seller>
+    <FiscalYear>2022</FiscalYear>
+    <Month>2</Month>
+    <DistinctProductCount>2</DistinctProductCount>
+    <TotalSalesValue>950.00</TotalSalesValue>
+    <DistinctClientCount>2</DistinctClientCount>
+
+    <SaleDetail>
+        <InvoiceID>FA157200806073338</InvoiceID>
+        <Date>2022-02-10T11:45:00</Date>
+        <Client>
+            <ClientID>111</ClientID>
+            <VATNumber>507654321</VATNumber>
+            <ClientName>António Gomes</ClientName>
+            <City>Coimbra</City>
+            <Country>Portugal</Country>
+            <PostalCode>N/A</PostalCode>
+        </Client>
+        <InvoiceLines>
+            <LineItem>
+                <Product>
+                    <ArticleID>1016</ArticleID>
+                    <ArticleDescription>Sandálias</ArticleDescription>
+                    <CurrentStock>15</CurrentStock>
+                    <Type>Calçado</Type>
+                </Product>
+                <Quantity>3</Quantity>
+                <Value>50.00</Value>
+                <DiscountAmount>0.00</DiscountAmount>
+            </LineItem>
+        </InvoiceLines>
+        <InvoiceTotal>150.00</InvoiceTotal>
+    </SaleDetail>
+
+    <SaleDetail>
+        <InvoiceID>FA157201806073438</InvoiceID>
+        <Date>2022-02-20T14:20:00</Date>
+        <Client>
+            <ClientID>105</ClientID>
+            <VATNumber>Consumidor Final</VATNumber>
+            <ClientName>Francisco Costa</ClientName>
+            <City>Lisboa</City>
+            <Country>Portugal</Country>
+            <PostalCode>1000-200</PostalCode>
+        </Client>
+        <InvoiceLines>
+            <LineItem>
+                <Product>
+                    <ArticleID>1017</ArticleID>
+                    <ArticleDescription>Sapatilhas de Corrida</ArticleDescription>
+                    <CurrentStock>30</CurrentStock>
+                    <Type>Calçado</Type>
+                </Product>
+                <Quantity>4</Quantity>
+                <Value>200.00</Value>
+                <DiscountAmount>20.00</DiscountAmount>
+            </LineItem>
+        </InvoiceLines>
+        <InvoiceTotal>780.00</InvoiceTotal>
+    </SaleDetail>
+
+</SalesReport>

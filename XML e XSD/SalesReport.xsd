@@ -1,0 +1,143 @@
+<?xml version="1.0"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+           elementFormDefault="qualified">
+
+    <!-- Tipo vatNumberType  -->
+    <xs:simpleType name="vatNumberType">
+        <xs:restriction base="xs:string">
+            <xs:pattern value="\d{9}"/>
+        </xs:restriction>
+    </xs:simpleType>
+
+    <!-- Tipo VATNumber do Client -->
+    <xs:simpleType name="clientVATType">
+        <xs:union memberTypes="vatNumberType">
+            <xs:simpleType>
+                <xs:restriction base="xs:string">
+                    <xs:enumeration value="Consumidor Final"/>
+                </xs:restriction>
+            </xs:simpleType>
+        </xs:union>
+    </xs:simpleType>
+
+    <!-- Elemento raiz SalesReport -->
+    <xs:element name="SalesReport">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="Seller"/>
+                <xs:element name="FiscalYear">
+                    <xs:simpleType>
+                        <xs:restriction base="xs:int">
+                            <xs:minInclusive value="2001"/>
+                        </xs:restriction>
+                    </xs:simpleType>
+                </xs:element>
+                <xs:element name="Month">
+                    <xs:simpleType>
+                        <xs:restriction base="xs:int">
+                            <xs:minInclusive value="1"/>
+                            <xs:maxInclusive value="12"/>
+                        </xs:restriction>
+                    </xs:simpleType>
+                </xs:element>
+                <xs:element name="DistinctProductCount" type="xs:int"/>
+                <xs:element name="TotalSalesValue" type="xs:float"/>
+                <xs:element name="DistinctClientCount" type="xs:int"/>
+                <xs:element ref="SaleDetail" minOccurs="1" maxOccurs="unbounded"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+    <!-- Elemento Seller -->
+    <xs:element name="Seller">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="VATNumber" type="vatNumberType"/>
+                <xs:element name="Name" type="xs:string"/>
+                <xs:element name="Address" type="xs:string"/>
+                <xs:element name="City" type="xs:string"/>
+                <xs:element name="Country" type="xs:string"/>
+                <xs:element name="PostalCode">
+                    <xs:simpleType>
+                        <xs:restriction base="xs:string">
+                            <xs:pattern value="\d{4}-\d{3}"/>
+                        </xs:restriction>
+                    </xs:simpleType>
+                </xs:element>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+    <!-- Elemento SaleDetail -->
+    <xs:element name="SaleDetail">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="InvoiceID" type="xs:string"/>
+                <xs:element name="Date" type="xs:dateTime"/>
+                <xs:element ref="Client"/>
+                <xs:element name="InvoiceLines">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element ref="LineItem" minOccurs="1" maxOccurs="unbounded"/>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+                <xs:element name="InvoiceTotal" type="xs:float"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+    <!-- Elemento Client -->
+    <xs:element name="Client">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="ClientID" type="xs:positiveInteger"/>
+                <xs:element name="VATNumber" type="clientVATType"/>
+                <xs:element name="ClientName" type="xs:string"/>
+                <xs:element name="City" type="xs:string"/>
+                <xs:element name="Country" type="xs:string"/>
+                <xs:element name="PostalCode">
+                <xs:simpleType>
+                    <xs:union memberTypes="xs:string">
+                        <xs:simpleType>
+                            <xs:restriction base="xs:string">
+                                <xs:pattern value="\d{4}-\d{3}"/>
+                            </xs:restriction>
+                        </xs:simpleType>
+                        <xs:simpleType>
+                            <xs:restriction base="xs:string">
+                                <xs:enumeration value="N/A"/>
+                            </xs:restriction>
+                        </xs:simpleType>
+                    </xs:union>
+                </xs:simpleType>
+            </xs:element>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+    <!-- Elemento LineItem -->
+    <xs:element name="LineItem">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="Product"/>
+                <xs:element name="Quantity" type="xs:int"/>
+                <xs:element name="Value" type="xs:float"/>
+                <xs:element name="DiscountAmount" type="xs:float"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+    <!-- Elemento Product -->
+    <xs:element name="Product">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="ArticleID" type="xs:int"/>
+                <xs:element name="ArticleDescription" type="xs:string"/>
+                <xs:element name="CurrentStock" type="xs:int"/>
+                <xs:element name="Type" type="xs:string"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+</xs:schema>

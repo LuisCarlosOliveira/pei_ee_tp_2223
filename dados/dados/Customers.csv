@@ -1,0 +1,3548 @@
+﻿id_Cliente,Nome,DataCriacao,CodigoPostal,Cidade,Pais,NIF
+1,Dillon Megan,2004-03-19,4935,viana do castelo,PT,NULL
+2,Giampaolo Cornelson,2004-03-19,4920,vila nova cerveira,PT,NULL
+3,Josefa Cheyne,2005-03-23,4980,ponte da barca,PT,332111816
+4,Asia Dillard,2005-11-18,4935,viana do castelo,PT,054560344
+5,Pamila Vazguez,2005-12-05,4900,viana do castelo,PT,656140217
+6,Gillian Pinckney,2005-12-15,4990,ponte de lima,PT,NULL
+7,Berneice Revelle,2006-01-24,4980,ponte da barca,PT,NULL
+8,Flossie Legath,2006-02-20,4900,viana do castelo,PT,301700427
+9,Gabriele Manker,2006-03-15,,bujalance,ES,027060088
+10,Stuart Bensman,2006-04-27,4990,ponte de lima,PT,750347425
+11,Indira Breyers,2006-05-10,4935,viana do castelo,PT,568712665
+12,Donta Nasca,2007-03-14,4910,vila praia de ancora,PT,157083672
+13,Maxwell Omer,2018-08-24,4990,ponte de lima,PT,107753803
+14,Llewellyn Munari,2019-01-07,4930,valença,PT,564750578
+15,Jose Jorgensen,2019-07-30,4980,ponte da barca,PT,NULL
+16,Velma Manigold,2005-12-16,,guimarães,PT,384732087
+17,Lenna Zaya,2006-01-06,4835,guimarães,PT,214458520
+18,Blanch Mccrumb,2006-01-12,4764,famalicão,PT,788331535
+19,Eladio Vanakin,2006-01-24,4705,braga,PT,677215276
+20,Tucker Kozeyah,2006-02-16,4810,guimarães,PT,383154256
+21,Suresh Spector,2006-02-20,,narbonne,FR,NULL
+22,Lucilla Ketzler,2006-02-20,,vendargues,FR,353137463
+23,Adrian Stoldt,2006-03-30,,saint-aunes,FR,185225586
+24,Florinda Pitka,2006-03-10,4700,braga,PT,852065665
+25,Jelani Crosland,2006-03-10,4755,barcelos,PT,550074342
+26,Irene Vigus,2006-03-15,4705,braga,PT,353357630
+27,Demetris Muresan,2006-04-06,4700,braga,PT,150504537
+28,Yolonda Guffanti,2006-04-10,4810,pinheiro,PT,287073118
+29,Yahya Tiegs,2006-05-26,4815,guimaraes,PT,567763687
+30,Greg Buffin,2006-05-26,,vilaverde,PT,745823316
+31,Randall Gizinski,2006-06-09,4820,fafe,PT,128754874
+32,Glory Cokins,2006-06-28,4800,guimaraes,PT,585610207
+33,Delmer Cassetta,2006-12-21,4810,guimaraes,PT,232070164
+34,Buster Viar,2006-12-21,4820,golães,PT,615316436
+35,Marva Pass,2007-05-11,4970,arcos de veldevez,PT,502016413
+36,Osbourne Dobies,2007-09-17,4920,vila nova de cerveira,PT,460354568
+37,Frederick Scholnick,2007-10-09,4920,vila nova de cerveira,PT,757686005
+38,Melina Eligio,2008-02-12,,viana do castelo,PT,853165333
+39,Roma Malart,2008-05-23,4935,viana do castelo,PT,501626303
+40,Jonquil Nuzzi,2008-10-02,4950,monção,PT,500781443
+41,Felipa Billingslea,2009-07-13,4980,ponte da barca,PT,637661341
+42,Khaleel Trigueros,2010-05-20,4900,viana do castelo,PT,057182081
+43,Janene Mazar,2012-05-18,4935,viana do castelo,PT,024860312
+44,Virgee Caal,2012-08-06,4935,darque,PT,201266200
+45,Rayshawn Tenbrink,2012-11-22,4990,ponte de lima,PT,115188432
+46,Monday Delrosario,2013-02-14,4980,ponte da barca,PT,357332688
+47,Klemens Kubat,2014-02-24,4970,arcos de valdevez,PT,627075766
+48,Muna Koczera,2014-05-06,4925,viana do castelo,PT,488220586
+49,Lynette Korner,2014-06-19,4925,viana do castelo,PT,507670144
+50,Sonya Grimard,2014-10-28,4960,melgaço,PT,878866714
+51,Ashton Zerger,2015-01-14,4970,arcos de valdevez,PT,010076185
+52,Tony Spierling,2015-01-14,4970,arcos de valdevez,PT,137283703
+53,Gisselle Buschow,2015-03-11,4990,"ponte de lima ",PT,562678554
+54,Aleen Disandro,2015-07-06,4930,valença,PT,063106554
+55,Sammy Arvai,2015-07-21,4990,ponte de lima,PT,665158305
+56,Terenzio Blott,2015-10-07,4970,arcos de valdevez,PT,775707635
+57,Cristopher Pinchon,2016-01-08,4990,"ponte de lima ",PT,654603356
+58,Gottfried Nagler,2016-03-03,4900,viana do castelo,PT,130234334
+59,Jacinthe Draxler,2017-01-11,4940,"paredes de coura ",PT,766413385
+60,Liborio Sette,2017-02-09,4970,arcos de valdevez,PT,117787356
+61,Jacinth Ullo,2017-03-27,4935,viana do castelo,PT,362324768
+62,Lazzaro Henne,2017-03-27,4935,viana do castelo,PT,087178683
+63,Kanti Antoniotti,2017-05-15,4990,"ponte de lima ",PT,217312023
+64,Dane Spielvogel,2017-06-07,4920,mentrestido,PT,558805322
+65,Orlo Dragone,2017-10-12,4990,"ponte de lima ",PT,273181108
+66,Kacie Kremmel,2004-03-19,,guimaraes,PT,505605656
+67,Digby Vanson,2005-06-01,4760,ribeirão,PT,717383545
+68,Lammert Valli,2005-06-01,4765,serzedelo,PT,414521122
+69,Cleveland Swedenburg,2005-06-08,4810,guimarães,PT,821780682
+70,Colombain Ducksworth,2005-08-11,,guimarães,PT,548012116
+71,Johnie Spotwood,2004-03-19,4810,guimaraes,PT,223721223
+72,Akeem Wilkers,2004-03-19,,caldas de vizela,PT,070127355
+73,Cletus Zagami,2004-03-19,,guimaraes,PT,107273102
+74,Zelma Phong,2004-03-19,,guimaraes,PT,480324077
+75,Keitha Barmer,2004-03-19,4810,guimaraes,PT,408343153
+76,Juliann Salmonson,2004-03-19,4820,fafe,PT,384727280
+77,Jonathan Dang,2004-03-19,4810,serzedo gmr,PT,480221558
+78,Cherri Bullocks,2004-03-19,,guimaraes,PT,365111120
+79,Talmadge Borba,2005-10-14,4700,braga,PT,788703750
+80,Iris Ehleiter,2004-03-19,,guimaraes,PT,371240545
+81,Kishan Kadis,2004-09-30,4700,braga,PT,211816177
+82,Daquan Volpert,2004-03-19,,guimaraes,PT,873612577
+83,Brunella Ideue,2004-03-19,4810,guimaraes,PT,083647064
+84,Lara Petko,2004-03-19,,fafe,PT,063872262
+85,Georgie Andary,2004-03-19,,felgueiras,PT,274863770
+86,Hafsah Norwood,2004-03-19,4810,guimaraes,PT,708270077
+87,Alvera Feyereisen,2004-03-19,4764,ribeirão,PT,657241511
+88,Bridgett Keate,2004-03-19,,guimarães codex,PT,221626176
+89,Odie Gonnerman,2004-03-19,4810,guimarães,PT,052123703
+90,Mariangela Hunnewell,2004-03-19,4810,guimarães,PT,501584081
+91,Napier Kaempfer,2004-09-29,,braga,PT,666046602
+92,Bryson Frosch,2005-01-24,4705,braga,PT,764252853
+93,Isidor Beidleman,2004-10-25,4810,guimaraes,PT,550514342
+94,Marcello Pabon,2005-02-11,4820,fafe,PT,614027216
+95,Raquel Fitser,2005-02-28,,albacete,ES,002310414
+96,Gottlieb Lulas,2005-06-23,4750,barcelos,PT,616125560
+97,Morven Macinnes,2005-10-18,4730,vila verde,PT,003877133
+98,Olive Trevino,2004-09-29,4720,amares,PT,530626823
+99,Nandy Pipe,2004-03-19,4800,guimarães,PT,533060032
+100,Silas Youngstrom,2004-03-19,4470,maia,PT,774828167
+101,Philippina Emmette,2004-03-19,4810,guimarães,PT,431411640
+102,Hadya Carriaga,2004-03-19,4811,guimarães,PT,181627865
+103,Tanesha Delveechio,2004-03-19,4440,valongo,PT,255232811
+104,Sebastien Avey,2004-03-19,4810,guimarães,PT,033506523
+105,Rosalin Seamster,2004-08-30,,fafe,PT,184860630
+106,Dennie Clewes,2004-11-09,,barcelona,ES,767245773
+107,Napoleon Dahline,2004-03-19,4810,guimarães,PT,863170771
+108,Breann McEwen,2005-03-23,4715,braga,PT,258763855
+109,Adil Vichidvongsa,2004-10-18,4835,guimaraes,PT,223562488
+110,Gillian Pippitt,2005-03-23,,campos del puerto,ES,178848340
+111,Raquel Zanders,2005-11-11,,alcala la real,ES,176866127
+112,Eliane Manion,2004-03-19,,guimarães,PT,587772756
+113,Jocelyn Vandyck,2005-05-24,,navalcarnero,ES,332484585
+114,Katja Huettlin,2005-05-24,,soria,ES,032886854
+115,Sherlock Rima,2005-07-14,,siguenza,ES,083173174
+116,Helen Mazzarino,2005-07-22,,guadalajara,ES,458260716
+117,Raed Stites,2005-11-16,4810,guimarães,PT,330038087
+118,Jonathon Dewyse,2004-03-19,,guimarães,PT,216655120
+119,Vivien Petrucci,2004-03-19,,guimarães,PT,080384784
+120,Lidia Seifarth,2004-03-19,,guimarães,PT,543362746
+121,Bonifaz Mildred,2005-12-05,4720,ferreiros,PT,051813584
+122,Hari Befort,2004-12-29,4715,braga,PT,144672058
+123,Vesta Hornstrom,2004-12-29,,braga,PT,288707742
+124,Anibal Fricker,2004-03-19,,celorico de bastos,PT,758158810
+125,Camron Weitnauer,2004-12-03,4760,vila nova de famalicão,PT,083875371
+126,Doron Jelinski,2004-11-17,,baleares,ES,068871302
+127,Harlan Sancher,2004-11-17,,calonge,ES,601835877
+128,Kaylynn Rietschlin,2004-11-12,4760,vila nova de famalicão,PT,683724271
+129,Lavonne Fury,2004-03-19,,guimarães,PT,421752363
+130,Sigmund Letteer,2004-03-19,4820,fafe,PT,587530138
+131,Alexandria Digirolamo,2004-03-19,,guimarães,PT,270141150
+132,Rameshwar Silveria,2004-11-09,,palma mallorca,ES,NULL
+133,Loreto Siriani,2004-10-22,,solsona,ES,NULL
+134,Hudson Pollo,2004-10-19,,tarragona,ES,070235537
+135,Alethea Benberry,2004-10-19,,arta,ES,NULL
+136,Dudley Favela,2004-10-13,4810,guimaraes,PT,NULL
+137,Hubert Brochure,2004-10-13,,asturias,ES,443552683
+138,Monique Gubler,2004-10-08,,asturias,ES,747330475
+139,Philibert Haroun,2004-09-03,4715,braga,PT,NULL
+140,Sebastien Teitenberg,2004-08-02,4700,braga,PT,025024045
+141,Lynette Spaziani,2004-07-28,4805,guimaraes,PT,178441320
+142,Parsifal Pia,2004-03-19,,guimarães,PT,708006046
+143,Aurelien Sciortino,2004-03-19,,guimarães,PT,562786005
+144,Alwilda Sarratt,2004-03-19,,guimarães,PT,353184158
+145,Allegra Bergey,2004-03-19,4810,guimarães,PT,775355612
+146,Hisein Sifre,2004-03-19,,guimarães,PT,033253315
+147,Rawiya Tissot,2004-03-19,4815,moreira de cónegos,PT,523765678
+148,Coby Fukunaga,2004-03-19,4810,guimarães,PT,347320451
+149,Vernie Dupee,2004-03-19,,fafe,PT,074858058
+150,Ashely Mcaulay,2004-03-19,,guimarães,PT,882366373
+151,Judie Haigh,2004-03-19,4800,guimarães,PT,802372586
+152,Jayanti Buttrel,2004-03-19,,fafe,PT,472811308
+153,Valerie Redondo,2005-12-15,4730,vila verde,PT,527248270
+154,Alessio Baillargeon,2004-03-19,4700,braga,PT,372065360
+155,Berthe Blochberger,2004-03-19,,guimarães,PT,167723786
+156,Gwandoya Palasik,2005-04-11,4800,guimarães,PT,073672761
+157,Lois Timberman,2004-06-15,,braga,PT,651158720
+158,Kojo Kokocinski,2004-03-19,4700,braga,PT,785521371
+159,Meghan Juhl,2004-05-03,4830,povoa de lanhoso,PT,240247304
+160,Candelario Shamsi,2004-04-19,4730,vila verde,PT,801144728
+161,Sabino Crader,2004-03-19,,braga,PT,586560788
+162,Vivian Smithers,2004-03-19,4835,guimarães,PT,447106171
+163,Ottoline Grumet,2004-03-19,,caldas de vizela,PT,151021063
+164,Desdemona Schuyleman,2004-03-19,,guimarães,PT,666868120
+165,Theo Cavalier,2004-03-19,4830,povoa lanhoso,PT,085847820
+166,Judith Bela,2005-07-20,5160,torre de moncorvo,PT,NULL
+167,Elisha Fleer,2006-07-21,,madrid,ES,NULL
+168,Tessie Sizer,2006-07-21,,madrid,ES,NULL
+169,Prosper Jilek,2006-07-25,,madrid,ES,NULL
+170,Nieves Rujawitz,2006-09-11,,madrid,ES,841838706
+171,Mitchel Zahniser,2006-10-10,5370,mirandela,PT,NULL
+172,Garth Campellone,2006-11-28,4550,castelo paiva,PT,674523857
+173,Connor Bianchi,2007-01-02,,almeria,ES,333665413
+174,Mort Mokiao,2007-01-09,,sevilla,ES,886045764
+175,Venita Lefthand,2007-04-10,,mid glamorgan,GB,576121635
+176,Julius Downton,2007-05-11,5300,bragança,PT,NULL
+177,Ethalyn Schuknecht,2007-08-31,,la solana (ciudad real),ES,NULL
+178,Tyrese Bockemehl,2008-01-17,5350,alfandega da fé,PT,NULL
+179,Sibilla Umbrell,2008-04-04,,alcala de henares,ES,NULL
+180,Kato Theden,2008-04-15,,madrid,ES,NULL
+181,Babs Mabb,2008-04-21,,tembleque - toleda,ES,NULL
+182,Chris Yaftali,2008-04-21,,corral de almaguer,ES,NULL
+183,Bambi Aegerter,2008-04-29,,madrid,ES,NULL
+184,Hafza Brunetti,2008-04-30,,madrid,ES,NULL
+185,Denice Pluym,2008-05-09,,madrid,ES,NULL
+186,Santo Bogardus,2008-05-09,,madrid,ES,NULL
+187,Cadence Cessna,2008-05-09,,madrid,ES,NULL
+188,Doreen Merritts,2008-05-23,,madrid,ES,NULL
+189,Baron Vandyke,2008-06-17,,madrid,ES,NULL
+190,Keaton Keehn,2008-09-10,5300,bragança,PT,NULL
+191,Lynn Palmino,2010-04-08,,bressuire,FR,068552562
+192,Tiziano Kardashian,2012-04-19,,tomiño,ES,056460715
+193,Sebastiano Mohre,2012-06-25,5140,carrazeda de ansiães,PT,NULL
+194,Shelbi Latina,2012-10-09,5445,carrazedo de montenegro,PT,NULL
+195,Mattie Summerford,2012-11-05,5300,bragança,PT,NULL
+196,Domenick Srey,2012-11-29,,dorset,GB,167531356
+197,Ford Branaman,2014-01-14,5300,bragança,PT,NULL
+198,Fallon Hendeson,2015-01-22,5140,carrazeda de ansiães,PT,NULL
+199,Abram Mcloone,2016-04-15,5300,bragança,PT,NULL
+200,Catalina Gers,2016-05-09,5370,mirandela,PT,234882755
+201,Gennaro Barocio,2016-09-02,5360,lodões - vila flor,PT,003433850
+202,Kent Mace,2017-01-19,5370,mirandela,PT,NULL
+203,Mikel Sahr,2018-05-09,5200,mogadouro,PT,465513402
+204,Micheal Herbin,2018-10-11,5370,mirandela,PT,406178148
+205,Elric Butterworth,2019-02-22,5370,mirandela,PT,362450086
+206,Claire Yeeloy,2019-02-25,5370,mirandela,PT,312778524
+207,Pitambar Novickis,2019-07-04,,luxemburgo,LU,803721000
+208,Benigno Capilla,2019-07-26,5140,carrazeda de ansiães,PT,842684886
+209,Brittani Huffner,2019-07-26,5360,vila flor,PT,567314726
+210,Jonty Passow,2005-07-27,5000,vila real,PT,440631822
+211,Lorna Bermudez,2005-11-24,5000,vila real,PT,NULL
+212,Elena Livernois,2006-03-28,5450,vila pouca de aguiar,PT,NULL
+213,Francisca Schabert,2006-05-22,5470,montalegre,PT,NULL
+214,Russell Lafavor,2007-05-03,5000,vila real,PT,086176837
+215,Fulton Beene,2012-07-18,5460,boticas,PT,NULL
+216,Walker Spaugh,2004-03-19,5370,mirandela,PT,384004172
+217,Joachim Trevethan,2008-04-17,5445,carrazedo de montenegro,PT,NULL
+218,Jake Laxen,2010-11-29,5070,alijo,PT,NULL
+219,Juliane Hovde,2011-09-22,5400,.,PT,NULL
+220,Iesha Bachelor,2011-09-23,5000,vila real,PT,NULL
+221,Zina Endler,2011-11-04,5470,montalegre,PT,NULL
+222,Scot Yehl,2011-11-04,5430,valpaços,PT,NULL
+223,Rowanne Vyas,2012-01-30,,.,PT,NULL
+224,Priscilla Haisten,2012-10-09,5060,sabrosa,PT,NULL
+225,Karon Caska,2012-11-06,5050,peso da regua,PT,NULL
+226,Clarabelle Carbonneau,2013-10-29,5430,valpaços,PT,530354151
+227,Gunnar Eike,2014-03-06,5000,vila real,PT,NULL
+228,Carissa Limardi,2014-08-27,5000,vila real,PT,NULL
+229,Didier Barcelona,2014-10-01,5000,vila real,PT,NULL
+230,Johanna Mccowen,2015-03-17,5400,chaves,PT,NULL
+231,Lonna Okojie,2015-03-19,4600,amarante,PT,544776433
+232,Lyn Dimpfl,2015-03-20,4870,ribeira de pena,PT,NULL
+233,Chelsey Parrotta,2015-11-23,"5450 ",v. p. aguiar,PT,NULL
+234,Laquita Pindell,2016-03-04,5400,chaves,PT,NULL
+235,Coleen Baldivia,2016-03-29,5000,vila real,PT,NULL
+236,Hartwig Su,2016-10-26,5050,peso da régua,PT,NULL
+237,Tiger Hiestand,2018-05-30,5000,andrães,PT,832771764
+238,Dewey Opichka,2018-10-09,5000,vila real,PT,300832264
+239,Williams Fregoso,2019-05-15,5000,andrães,PT,385503064
+240,Arvilla Schwartzwalde,2019-09-02,5450,pedras salgadas,PT,046625742
+241,Maudie Delosier,2005-01-20,3500,viseu,PT,623508128
+242,Mirembe Welfel,2005-02-11,3600,castro daire,PT,136235883
+243,Esther Gearon,2005-03-23,,vila nova de paiva,PT,281663557
+244,May Sivak,2005-09-20,3230,penela,PT,232260168
+245,Darien Kotara,2005-10-14,3560,satão,PT,021226543
+246,Nataly Kellman,2005-11-21,3510,viseu,PT,NULL
+247,Tamsen Chiarella,2006-01-12,3680,oliveira de frades,PT,NULL
+248,Isador Brentson,2006-01-18,3660,são pedro do sul,PT,NULL
+249,Reynold Schumm,2006-05-24,3430,carregal do sal,PT,NULL
+250,Derren Burmaster,2004-03-19,3510,viseu,PT,NULL
+251,Sanchia Oursler,2004-03-19,3515,viseu,PT,NULL
+252,Agnes Flenaugh,2006-10-13,2725,mem-martins,PT,363858854
+253,Oswald Gohn,2007-01-12,3600,castro daire,PT,NULL
+254,Francisco Mctier,2007-02-28,3500,viseu,PT,280578130
+255,Ervin Lotts,2007-08-09,3660,são pedro do sul,PT,661881323
+256,Ermentraud Mahn,2004-03-19,,viseu,PT,300571881
+257,Mckinley Bees,2007-09-06,3530,mangualde,PT,153321673
+258,Marylou Taiwo,2007-09-26,3510,viseu,PT,235171845
+259,Burton Misura,2007-10-10,3500,viseu,PT,NULL
+260,Ferdie Schepper,2007-10-22,3505,viseu,PT,NULL
+261,Mellisa Beermann,2007-12-19,3450,mortágua,PT,NULL
+262,Heriberto Popovec,2008-01-17,3530,viseu,PT,752043177
+263,Maximillian Milosch,2008-01-28,3520,nelas,PT,NULL
+264,Rosita Gardner,2008-02-14,3460,tondela,PT,NULL
+265,Susanita Datt,2008-04-11,3510,viseu,PT,NULL
+266,Kathryn Schmeisser,2008-04-21,3530,mangualde,PT,NULL
+267,Aric Rubino,2008-06-27,3500,viseu,PT,145856357
+268,Olan Stford,2008-07-02,3520,nelas,PT,NULL
+269,Wally Kepkey,2008-10-02,3510,viseu,PT,NULL
+270,Emerald Selestewa,2008-12-23,4705,braga,PT,142402124
+271,Gwenaelle Pernell,2009-01-28,3440,santa comba dão,PT,NULL
+272,Bernetta Joslin,2009-07-23,3530,mangualde,PT,183653164
+273,Prudenzio Guo,2009-10-26,3510,viseu,PT,NULL
+274,Alisha Mintey,2010-11-22,3534,mangualde,PT,472628143
+275,Shekhar Lale,2011-10-14,3515,viseu,PT,NULL
+276,Norm Candland,2013-03-15,3500,viseu,PT,NULL
+277,Rocio Bridgman,2013-03-25,3650,v.n. de paiva,PT,NULL
+278,Suzy Jaffe,2013-06-14,3475,arca ofr,PT,NULL
+279,Dulce Senseman,2013-06-14,3640,sernancelhe,PT,NULL
+280,Loreto Mackie,2014-04-30,3650,vila nova de paiva,PT,NULL
+281,Driskoll Sabina,2014-05-05,3534,mangualde,PT,528517112
+282,Khayriyya Preuett,2014-06-02,3620,moimenta da beira,PT,NULL
+283,Telly Fillyaw,2014-07-18,4690,nespereira,PT,822880837
+284,Dorian Pomberg,2014-08-20,3510,viseu,PT,510575327
+285,Dock Terhorst,2014-09-22,3510,viseu,PT,NULL
+286,Ignatz Lagerberg,2014-09-30,5120,tabuaço,PT,NULL
+287,Devi Lemere,2015-01-29,3680,oliveira de frades,PT,NULL
+288,Gaetan Cumiskey,2015-02-27,3640,sernancelhe,PT,NULL
+289,Maxine Labove,2015-07-06,3660,são pedro do sul,PT,NULL
+290,Euna Rancifer,2016-05-03,2500,viseu,PT,NULL
+291,Alisha Mahdi,2016-06-20,5100,lamego,PT,NULL
+292,Julian Thu,2016-08-04,3530,mangualde,PT,NULL
+293,Gemma Goudeau,2016-09-08,"3500 ",viseu,PT,472333170
+294,Waneta Hesby,2017-03-14,3660,viseu,PT,NULL
+295,Isaura Buffo,2017-09-21,5130,s. j. da pesqueira,PT,NULL
+296,Maranda Paulos,2017-10-23,3500,viseu,PT,NULL
+297,Melia Shollenberger,2018-10-10,3460,tondela,PT,NULL
+298,Bakr Vanstone,2019-06-05,3640,sarzeda,PT,NULL
+299,Giffard Dryer,2019-06-12,3620,moimenta da beira,PT,NULL
+300,Laci Visel,2019-06-26,3680,oliveira de frades,PT,361876331
+301,Otilia Duren,2019-06-26,3680,oliveira de frades,PT,336603622
+302,Bidelia Schares,2004-03-19,6300,guarda,PT,NULL
+303,Reginal Almengor,2004-04-19,6300,guarda,PT,NULL
+304,Lore Lamarsh,2005-05-12,6200,refugio,PT,406252100
+305,Retha Manza,2006-07-18,6270,guarda,PT,NULL
+306,Gresham Hagaman,2006-09-27,6300,guarda,PT,607456210
+307,Floriano Endersbe,2008-06-27,3800,aveiro,PT,NULL
+308,Xerxes Delmange,2013-01-11,6270,.,PT,NULL
+309,Kami Torbert,2013-03-25,6300,guarda,PT,NULL
+310,Floriana Olthoff,2013-03-28,6360,celorico da beira,PT,NULL
+311,Rawiya Thornborrow,2013-05-31,6400,pinhel,PT,NULL
+312,Lilo Donkle,2014-02-28,3570,aguiar da beira,PT,NULL
+313,Lammert Nonemaker,2014-04-01,6260,NULL,PT,NULL
+314,Sandy Ashbourne,2014-07-09,6300,guarda,PT,083068850
+315,Cyril Mackenthun,2014-09-22,6230,fundão,PT,NULL
+316,Mayte Sciabica,2015-02-23,6270,folgosa salvador,PT,NULL
+317,Cassandra Mabary,2015-03-16,6200,covilhã,PT,026578845
+318,Maryjane Tashiro,2015-10-29,4770,vila nova famalicao,PT,528706766
+319,Montague Safrit,2015-11-18,4800,guimarães,PT,310668307
+320,Isobel Junod,2015-11-20,4760,vilarinho das cambas - v.n.f.,PT,302108662
+321,Maria Ragas,2015-12-14,4800,guimarães,PT,077022077
+322,Itidal Laven,2015-12-15,4730,vila de prado,PT,053880630
+323,Benjamin Mullings,2015-12-21,4810,guimarães,PT,506065203
+324,Shamika Totosz,2016-01-07,4835,pevidém,PT,088807767
+325,Emmitt Kmiotek,2016-01-15,4805,guimarães,PT,602742270
+326,Madonna Koulalis,2016-01-18,4815,s.joão - vizela,PT,520654356
+327,Mo Bessler,2016-03-15,4700,"braga ",PT,068115143
+328,Kristyn Leingang,2016-04-20,4730,vila verde,PT,NULL
+329,Tyree Freman,2016-04-29,4805,guimararães,PT,328663201
+330,Teressa Snair,2016-05-12,4805,guimarães,PT,814710871
+331,Theo Seipp,2016-05-31,4835,guimaraes,PT,422367381
+332,Nicolette Trowery,2016-06-01,4800,s. torcato - guimarães,PT,NULL
+333,Marje Corkins,2016-07-01,4765,riba de ave,PT,060411780
+334,Loriann Sweely,2016-07-07,4730,"vila verde ",PT,160343503
+335,Emmanuel Barone,2016-09-02,4760,v. n. famalicão,PT,802583104
+336,Ashely Bottomly,2016-10-24,4810,guimarães,PT,642135885
+337,Deangelo Luellen,2016-10-25,4730,vila verde,PT,548700027
+338,Lorine Dellano,2016-11-07,4811,guimarães,PT,645872280
+339,Khayriyya Villena,2016-12-06,4740,esposende,PT,NULL
+340,Klemens Mattie,2017-01-20,4805,guimarães,PT,634553121
+341,Loredana Greiser,2017-01-25,4835,guimarães,PT,743053646
+342,Amias Turlich,2017-02-02,4815,vizela,PT,680756212
+343,Alda Vanderslice,2017-02-10,4815,moreira de cónegos,PT,422184860
+344,Ayishah Pernice,2017-02-15,4805,guimarães,PT,721083112
+345,Leesa Aull,2017-03-02,4860,cabeceiras de basto,PT,NULL
+346,Alonza Buzby,2017-03-09,4815,moreira de cónegos,PT,815510734
+347,Elna Dosier,2017-03-09,4830,póvoa de lanhoso,PT,NULL
+348,Piers Swango,2017-03-29,4730,"vila verde ",PT,NULL
+349,Claudia Philibert,2017-04-26,4810,guimarães,PT,NULL
+350,Leocadia Ridgle,2017-05-18,4700,NULL,PT,540445830
+351,Dawud Morrow,2017-06-21,4770,vila nova de famalicão,PT,425800811
+352,Fernande Bouton,2017-09-19,4850,vieira do minho,PT,755368574
+353,Lyman Kenmore,2017-10-18,4760,vila nova de famalicão,PT,800111845
+354,Charley Sarcone,2017-11-17,4805,NULL,PT,748568505
+355,Adelle Mcshane,2017-11-29,4805,guimarães,PT,361627207
+356,Peronel Bennes,2017-12-04,4830,póvoa de lanhoso,PT,476440846
+357,Zachariah Roher,2017-12-14,4804,guimarães,PT,052367060
+358,Leocadio Plata,2017-12-20,4820,fafe,PT,185345663
+359,Venus Bantay,2018-01-19,4805,ronfe - guimarães,PT,203843064
+360,Sybille Salls,2018-02-02,4700,"braga ",PT,NULL
+361,Kristofer Piccillo,2018-03-13,4850,vieira do minho,PT,665816312
+362,Lona Wenker,2018-03-22,4800,guimarães,PT,425750288
+363,Dwain Fergusson,2018-05-08,4730,vila verde,PT,NULL
+364,Rudolf Wischman,2018-05-09,4700,braga,PT,786861450
+365,Klaas Hules,2018-05-11,4805,caldas das taipas,PT,436677335
+366,Nicoletta Tymon,2018-06-04,4770,pousada de saramagos,PT,404481156
+367,Dora Thanpaeng,2018-07-26,4810,mesão frio,PT,NULL
+368,Maureen Lemmond,2018-08-09,4810,guimarães,PT,NULL
+369,Sybella Carbonaro,2018-10-10,4760,v.n.famalicão,PT,400487681
+370,Silvestra Klemp,2018-10-25,4820,fafe,PT,NULL
+371,Dave Drozda,2018-11-12,4860,cabeceiras de basto,PT,NULL
+372,Napier Burchard,2018-12-21,4835,guimarães,PT,646554166
+373,Adelia Dellibovi,2019-02-01,4701,braga,PT,560578064
+374,Iseult Rusko,2019-03-13,4810,guimarães,PT,NULL
+375,Jarod Mielhausen,2019-03-19,4810,guimarães,PT,735376155
+376,Sabeen Delco,2019-04-10,4830,póvoa de lanhoso,PT,NULL
+377,Noel Santellan,2019-04-23,4705,figueiredo - braga,PT,NULL
+378,Mick Bieber,2019-05-13,4805,guimarães,PT,120461016
+379,Zach Gojmerac,2019-05-16,4815,vizela,PT,405343668
+380,Selene Lamblin,2019-05-27,6300,guarda,PT,NULL
+381,Raina Baquiran,2019-06-19,4805,guimarães,PT,850617023
+382,Davida Meggs,2019-07-29,4805,guimarães,PT,183784554
+383,Renate Lenci,2019-09-10,6430,meda,PT,740370544
+384,Halle Schwartzwalde,2004-10-21,3060,cantanhede,PT,NULL
+385,Fifi Anderl,2005-04-08,3060,cantanhede,PT,NULL
+386,Antonino Ryback,2005-05-05,3040,coimbra,PT,062200888
+387,Femie Horstman,2005-06-16,3020,coimbra,PT,NULL
+388,Clarinda Trew,2005-09-20,3220,semide,PT,NULL
+389,Brendon Bavaro,2005-09-20,3450,mortagua,PT,682518002
+390,Lynton Ragus,2005-09-20,3060,cantanhede,PT,144673540
+391,Luana Tsuchida,2005-10-10,3040,coimbra,PT,NULL
+392,Cordie Piere,2005-10-18,3030,ceira,PT,146485486
+393,Brendan Khouri,2005-11-29,3080,figueira da foz,PT,NULL
+394,Kacie Ondo,2006-02-17,3025,são martinho de árvore,PT,NULL
+395,Maryjo Wadlington,2006-03-09,3040,coimbra,PT,101844201
+396,Kailey Burwinkel,2006-03-09,3060,cantanhede,PT,NULL
+397,Lewin Sowell,2004-03-19,3020,coimbra,PT,NULL
+398,Nathan Battin,2004-03-19,3200,lousã,PT,844404846
+399,Denholm Cuffari,2004-03-19,3140,figueira da foz,PT,208581667
+400,Stephenie Glueck,2004-03-19,3140,arazede,PT,281745147
+401,Ludmilla Turrie,2004-08-12,3030,coimbra,PT,NULL
+402,Rodolf Scalia,2004-05-04,3060,coimbra,PT,228051422
+403,Rosemary Ninnemann,2004-05-13,3020,coimbra,PT,322524845
+404,Lutz Shea,2004-06-04,3060,cantanhede,PT,221528778
+405,Niko Toher,2006-05-24,3080,figueira da foz,PT,262481232
+406,Chetana Kiewiet,2006-06-01,3200,soure,PT,NULL
+407,Gamil Carlsten,2006-06-14,3200,lousã,PT,763307654
+408,Armani Vititoe,2006-06-22,3030,coimbra,PT,NULL
+409,Waino Cons,2006-08-31,3040,coimbra,PT,122218457
+410,Noel Honegger,2006-10-06,3700,arrifana,PT,020303460
+411,Aric Ogg,2006-10-27,3150,condeixa a nova,PT,533435641
+412,Baptist Macphail,2007-02-28,3080,figueira da foz,PT,545252671
+413,Charline Losiewski,2007-03-09,3330,gois,PT,NULL
+414,Benigna Dillis,2007-03-09,3020,coimbra,PT,NULL
+415,Mariette Ferbrache,2007-10-18,3090,paiao,PT,NULL
+416,Elenora Sheild,2007-12-06,3040,coimbra,PT,NULL
+417,Solon Koebley,2008-01-09,3040,coimbra,PT,486826517
+418,Garold Vasaure,2008-03-14,3025,s. martinho de arvore,PT,NULL
+419,Dorothy Layton,2008-05-09,3150,condeixa,PT,NULL
+420,Denise Corporan,2009-03-05,3060,cantanhede,PT,NULL
+421,Zahrah Nygaro,2009-04-06,3350,vila nova de poiares,PT,NULL
+422,Bennie Castellanoz,2009-05-07,3360,penacova,PT,NULL
+423,Kari Shukla,2009-05-07,3040,antanhol,PT,526573888
+424,Kathi Bostian,2009-05-22,3400,oliveira do hospital,PT,406382682
+425,Tito Kloiber,2009-11-24,3030,coimbra,PT,NULL
+426,Josefa Bolinsky,2013-08-26,3200,lousã,PT,NULL
+427,Hilde Holsomback,2009-12-04,3080,figueira da foz,PT,NULL
+428,Chanelle Manetta,2010-01-12,3030,coimbra,PT,NULL
+429,Diya Rodenberger,2010-05-06,3140,montemor-o-velho,PT,684403036
+430,Judson Steffey,2010-06-02,3400,oliveira do hospital,PT,077165245
+431,Julian Seto,2010-06-14,3020,souselas,PT,444866251
+432,Nicodemo Pfiel,2010-12-06,3060,tocha,PT,NULL
+433,Enrique McFarlane,2010-12-23,3700,arrifana,PT,652101125
+434,Nerina Lander,2011-01-31,3020,coimbra,PT,NULL
+435,Natasha Febre,2011-04-06,3200,lousã,PT,NULL
+436,Madonna Stieger,2011-05-04,3130,soure,PT,838284478
+437,Oralee Coats,2011-05-12,3360,penacova,PT,NULL
+438,Jovan Bissett,2011-07-19,3150,.,PT,083843725
+439,Pepita Iwashita,2012-01-12,3050,pampilhosa,PT,108755018
+440,Christine Knepshield,2012-02-27,3100,pombal,PT,NULL
+441,Alyse Kruel,2012-08-30,3060,murtede,PT,401541522
+442,Gebbert Wollyung,2013-02-20,3100,pombal,PT,NULL
+443,Sandeep Abdou,2013-04-10,6100,sertã,PT,NULL
+444,Philippa Chaplin,2013-04-10,3025,são martinho de árvore,PT,NULL
+445,Brandy Massaglia,2013-04-17,3100,pombal,PT,NULL
+446,Christy Hufana,2013-10-04,3250,alvaiázere,PT,NULL
+447,Jordyn Razor,2013-10-04,3105,meirinhas,PT,NULL
+448,Zacharias Scavuzzo,2013-10-10,3060,cantanhede,PT,NULL
+449,Jeanie Schweinsberg,2013-11-22,3400,"oliveira do hospital ",PT,NULL
+450,Marilena Tronzo,2014-04-08,3360,NULL,PT,NULL
+451,Terrance Feinstein,2014-09-17,3105,carriço,PT,NULL
+452,Narendra Gales,2014-10-23,3450,mortágua,PT,341875321
+453,Athena Milon,2014-10-24,3040,antanhol,PT,NULL
+454,Morley Hartsough,2015-01-28,3200,lousã,PT,NULL
+455,Ronda Steinacker,2015-02-10,3240,ansião,PT,171035358
+456,Anita Albares,2015-02-27,3130,soure,PT,NULL
+457,Nilsa Hetrick,2016-01-20,3150,anobra,PT,NULL
+458,Selvaggia Yurek,2016-12-20,3080,figueira da foz,PT,NULL
+459,Joe Heu,2017-06-19,3040,coimbra,PT,726166686
+460,Emmerson Caldero,2017-09-21,3060,cantanhede,PT,NULL
+461,Gladyce Yem,2017-11-23,3090,figueira da foz,PT,188840841
+462,Oralia Blinebry,2017-11-27,3000,coimbra,PT,154006871
+463,Fanny McBeath,2018-01-08,3360,coimbra,PT,NULL
+464,Manish Ulabarro,2018-01-08,3330,coimbra,PT,NULL
+465,Elida Chicca,2018-03-22,3350,vila nova de poiares,PT,NULL
+466,Zona Stclair,2019-02-28,3030,coimbra,PT,731506106
+467,Bastien Galper,2019-04-30,3360,figueira de lorvão,PT,NULL
+468,Indra Averette,2004-10-21,9001,funchal,PT,732086766
+469,Christmas Lajaunie,2004-03-19,9060,funchal codex,PT,773302304
+470,Ferdie Delauder,2005-03-03,9000,funchal,PT,NULL
+471,Lilith Gleaves,2006-09-21,,machico,PT,657061527
+472,Sosimo Leuy,2006-09-28,9000,funchal,PT,056772467
+473,Joretta Mazariego,2006-12-11,9000,funchal,PT,NULL
+474,Renzo Pebley,2009-04-06,9000,funchal,PT,354840752
+475,Lesedi Cush,2011-03-31,9300,camara de lobos - madeira,PT,NULL
+476,Wilfredo Gladding,2012-10-23,3730,vale de cambra,PT,673137087
+477,Anacleto Uhrig,2012-12-03,3070,.,PT,NULL
+478,Curtiss Moulton,2012-12-20,3750,.,PT,NULL
+479,Layne Craze,2013-01-25,4535,santa maria da feira,PT,522311635
+480,Beppe Schaubhut,2013-01-28,3700,nogueira do cravo oaz,PT,038480086
+481,Donalda Banford,2013-02-04,4540,arouca,PT,NULL
+482,Meta Timi,2013-02-15,3800,aveiro,PT,576528372
+483,Hildred Meske,2013-03-18,3731,vale de cambra,PT,701317302
+484,Misid Sivills,2013-04-15,4520,são joão de ver,PT,301858522
+485,Leocadia Karge,2013-08-07,4540,mansores arc,PT,NULL
+486,Cristobal Dettra,2013-09-24,4540,mansores,PT,NULL
+487,Cambria Selley,2013-09-27,3800,aveiro,PT,NULL
+488,Pattie Irby,2014-02-13,9000,funchal,PT,488145141
+489,Sheridan Vayon,2014-04-23,3754,aguada de baixo,PT,833286537
+490,Idella Hersh,2014-06-11,3880,NULL,PT,NULL
+491,Eleonora Haxby,2014-07-02,4540,arouca,PT,258008866
+492,Hafeez Camerena,2014-07-03,3885,esmoriz,PT,NULL
+493,Leonzio Buhman,2014-08-20,3800,aveiro,PT,658350535
+494,Rastus Reilly,2014-12-15,3700,s. joão da madeira codex,PT,054103533
+495,Nadir Hunsinger,2015-02-25,4525,canedo,PT,NULL
+496,Biddy Farve,2015-02-27,3850,albergaria a velha,PT,504634055
+497,Loyal Reeb,2015-04-08,3810,aveiro,PT,NULL
+498,Fredy Wala,2015-04-10,3700,santa maria da feira,PT,366255205
+499,Irmtrud Knable,2015-05-15,9020,funchal,PT,NULL
+500,Eldridge Ditucci,2015-07-08,3780,anadia,PT,NULL
+501,Fredrick Stdenis,2016-01-27,3750,águeda,PT,263204525
+502,Suhail Stillwell,2016-02-22,3800,aveiro,PT,853644072
+503,Nestor Plumadore,2016-02-29,4535,lourosa,PT,NULL
+504,Stevie Assalone,2016-03-22,3830,ílhavo,PT,NULL
+505,Benton Shoun,2016-06-01,3810,albergaria-a-velha,PT,311157781
+506,Heath Trembath,2016-06-27,3740,pessegueiro do sobral,PT,NULL
+507,Edna Landor,2016-07-25,4505,santa maria da feira,PT,142872141
+508,Arleen Boensch,2016-09-08,3800,aveiro,PT,287764284
+509,Kishore Sellman,2017-01-24,3880,ovar,PT,NULL
+510,Ercole Lockheart,2017-02-15,3720,são martinho da gândara,PT,NULL
+511,Millicent Sias,2017-03-08,3880,são vicente jusã,PT,747330868
+512,Nicodemo Madron,2017-03-23,4430,oliveira do douro,PT,NULL
+513,Fahd Santacroce,2017-04-04,4400,vila nova de gaia,PT,860161302
+514,Rolande Canipe,2017-04-19,4470,maia,PT,832858122
+515,Durward Hintz,2017-05-17,4430,"vila nova de gaia ",PT,NULL
+516,Emanuel Sutic,2017-06-01,4510,fanzeres -gondomar,PT,114805352
+517,Darold Wineinger,2017-06-13,4570," póvoa do varzim",PT,NULL
+518,Katee Volpa,2017-06-21,9100,funchal,PT,NULL
+519,Jaron Wecker,2017-06-29,4610,felgueiras,PT,751012623
+520,Gianluigi Burkly,2017-07-20,4580,lordelo,PT,372263560
+521,Georges Britton,2017-10-27,4455,matosinhos,PT,788386318
+522,Baldric Brisendine,2017-11-03,4550,castelo de paiva,PT,NULL
+523,Peregrine Chesner,2017-11-09,4580,"lordelo - paredes ",PT,122634172
+524,Joesph Notowich,2017-11-10,3830,gafanha da nazaré,PT,505515363
+525,Shanta Lanfear,2017-11-15,4590,paços de ferreira,PT,867321271
+526,Nasir Naud,2017-11-20,4560,penafiel,PT,NULL
+527,Margaret Jarecke,2017-12-07,9125,"caniço santa cruz - madeira ",PT,NULL
+528,Rati Klimes,2018-01-24,3800,cacia,PT,776680132
+529,Sidony Becket,2018-01-30,4615,felgueiras,PT,141586620
+530,Davina Sorley,2018-02-07,3850,branca,PT,775464576
+531,Elspeth Smurthwaite,2018-03-05,4520,s. joão de ver,PT,NULL
+532,Ricky Wisz,2018-03-13,4780,santo tirso,PT,741572320
+533,Panda Hasbell,2018-03-19,4560,penafiel,PT,NULL
+534,Sapphira Deleo,2018-04-03,4600,amarante,PT,011101714
+535,Remington Urquiza,2018-04-16,3730,aveiro,PT,NULL
+536,Arnie Chomka,2018-04-23,4445,valongo,PT,160700618
+537,Elwin Primozich,2018-07-05,3810,aveiro,PT,733225454
+538,Amyas Preussner,2018-08-28,4440,valongo,PT,143214118
+539,Guiscard Kandel,2018-09-10,4630,marco de canaveses,PT,734418024
+540,Nadja Schwartze,2018-10-09,4560,penafiel,PT,678802716
+541,Genoveffa Honeycott,2018-10-16,4520,são joão de vêr,PT,276252818
+542,Sky Krage,2018-12-04,4425,águas santas,PT,NULL
+543,Royal Hanke,2019-02-28,3730,vale de cambra,PT,NULL
+544,Nedra Brodzik,2019-02-28,4610,felgueiras,PT,025627208
+545,Primitivo Gross,2019-03-26,4780,santo tirso,PT,178175837
+546,Luitgard Tedford,2019-04-23,4520,santa maria da feira,PT,NULL
+547,Iqbal Kastor,2019-05-22,4465,leça do balio,PT,677134253
+548,Kapila Tropea,2019-05-27,4465,leça do balio,PT,NULL
+549,Britni Lyford,2019-07-16,4784,santo tirso,PT,225312424
+550,Cristy Naud,2004-03-19,4520,rio meão,PT,125066624
+551,Cary Aldred,2004-03-19,3850,branca alb,PT,NULL
+552,Roxana Ciani,2004-03-19,3700,arrifana v.f.r.,PT,615804621
+553,Amada Santulli,2004-03-19,3750,águeda,PT,672468230
+554,Kate Hunton,2005-05-05,3810,aveiro,PT,352726384
+555,Lashonda Shoji,2004-05-11,3750,agueda,PT,160682278
+556,Len Kufel,2004-06-04,3810,aveiro,PT,175203536
+557,Dale Botticello,2004-06-09,3750,agueda,PT,NULL
+558,Tetty Laisure,2004-09-16,3800,aveiro,PT,328470311
+559,Vester Ashland,2004-10-18,3750,águeda,PT,NULL
+560,Orvil Roskop,2004-11-02,3750,águeda,PT,NULL
+561,Shauna Wala,2005-06-27,3800,aveiro,PT,172516522
+562,Irwin Haupt,2005-07-08,3830,ílhavo,PT,515614435
+563,Madhu Kinde,2004-03-19,,fermentelos,PT,346346667
+564,Sherie Cocozza,2004-03-19,3830,gafanha da nazaré,PT,638765807
+565,Hattie Sarney,2004-03-19,3800,aveiro,PT,582667547
+566,Willard Mireles,2004-05-11,3850,albergaria a velha,PT,NULL
+567,Dara Hoeg,2005-07-27,3840,ouca,PT,NULL
+568,Mahlon Kosiba,2005-09-29,3810,aveiro,PT,736850334
+569,Cheryle Abrew,2004-03-19,3720,oliveira de azemeis,PT,522735187
+570,Flossie Ohern,2005-10-14,3810,aveiro,PT,NULL
+571,Ralf Ritari,2005-10-19,3770,oia,PT,186117606
+572,Dwight Cronkite,2005-11-16,3770,oiã,PT,842225672
+573,Shobha Popichak,2005-11-21,3770,oliveira do bairro,PT,NULL
+574,Frazier Overall,2005-11-21,3800,cacia,PT,NULL
+575,Adamina Whedon,2005-11-24,3880,ovar codex,PT,571531353
+576,Assunta Turnbo,2005-12-05,3840,ponte de vagos,PT,NULL
+577,Oprah Walkowski,2006-01-12,3830,ilhavo,PT,218217786
+578,Kanti Mcmenimen,2004-03-19,3754,trofa águeda,PT,206386488
+579,Michele Amsley,2006-02-20,3860,estarreja,PT,716846458
+580,Roshanara Gotthardt,2004-09-24,3750,águeda,PT,084515535
+581,Jeffery Lefew,2004-06-04,3850,albergaria a velha,PT,238462635
+582,Jeremiah Hedon,2004-03-19,3700,milheiros de poiares,PT,773047306
+583,Nathanael Testman,2004-03-19,3810,aveiro,PT,NULL
+584,Leandro Netter,2004-08-12,8800,tavira,PT,501038706
+585,Linda Cokeley,2006-02-20,3750,agueda,PT,687261233
+586,Maximino Tausch,2005-05-03,3885,cortegaça ovr,PT,170447131
+587,Eustace Scrobola,2006-03-09,,ovar,PT,756154268
+588,Nolene Fadale,2006-03-10,3810,aveiro,PT,128506125
+589,Davonte Jeane,2006-03-23,4535,santa maria da feira,PT,701448174
+590,Guda Lovely,2006-03-28,3750,agueda,PT,416401064
+591,Deshawn Wilhoit,2006-05-24,3754,águeda,PT,688368136
+592,Lisa Lubinsky,2006-07-12,3770,oliveira do bairro,PT,NULL
+593,Hallam Enis,2006-10-06,3830,gafanha da encarnação,PT,482382150
+594,Morven Francey,2006-10-13,3800,aveiro,PT,807228731
+595,Rani Drehobl,2006-11-23,3750,ameal,PT,632268466
+596,Stephen Craddieth,2007-02-06,3801,aveiro,PT,521260856
+597,Isaac Keppers,2007-03-12,4800,guimarães,PT,107317863
+598,Ermentraud Bence,2007-06-21,3750,agueda,PT,651832553
+599,Anwer Bennetts,2007-07-17,3800,cacia,PT,627201734
+600,Kailey Golson,2007-08-01,3720,pindelo,PT,327010788
+601,Aurea Huffines,2007-10-04,3770,oliveira do bairro,PT,461777647
+602,Pancrazio Hartless,2007-12-04,4520,santa maria da feira,PT,246436530
+603,Shawnda Heuangvilay,2008-01-28,4505,pigeiros - s.m. feira,PT,NULL
+604,Marly Albarracin,2008-01-29,2860,estarreja,PT,378568777
+605,Phillis Transue,2008-02-22,3840,vagos,PT,622810663
+606,Savitri Birnie,2008-02-27,3860,avanca,PT,NULL
+607,Gotthard Canestrini,2008-03-20,3750,trofa-agueda,PT,NULL
+608,Maira Cabera,2008-05-13,3860,estarreja,PT,202817206
+609,Ruby Mulich,2008-05-23,3770,oliveira do bairro,PT,541857332
+610,Kaiser Hintson,2008-06-27,3770,oliveira do bairro,PT,613345240
+611,Latif Marer,2008-07-08,3780,anadia,PT,730874054
+612,Edmund Stuczynski,2008-08-05,3810,aveiro,PT,126783620
+613,Cordelia Cardimino,2008-10-14,3810,s. bernardo - aveiro,PT,NULL
+614,Khadiga Duttry,2009-02-20,3720,vila de cucujães,PT,027675484
+615,Ernesta Batchelor,2009-03-12,1800,lisboa,PT,643260513
+616,Margarett Kostal,2009-03-24,3750,recardães,PT,785851020
+617,Liz Clemen,2009-04-27,3850,albergaria-a-velha,PT,533583232
+618,Cher Marrujo,2009-04-30,4520,s.joão de ver,PT,035622828
+619,Akua Francour,2009-09-11,3885,maceda - ovar,PT,413222773
+620,Farah Laurel,2009-11-12,3754,águeda,PT,528002230
+621,Marquis Prosenick,2010-01-26,3700,romariz,PT,266461583
+622,Veronique Mcgraw,2010-04-13,3770,oliveira do bairro,PT,NULL
+623,Minerva Banducci,2010-05-06,3830,ilhavo,PT,NULL
+624,Melvin Goderich,2010-10-06,3885,esmoriz,PT,NULL
+625,Kristoffer Kalin,2010-12-20,3730,vale de cambra,PT,NULL
+626,Kimberlee Rickey,2011-04-11,3780,sangalhos,PT,335060108
+627,Providenci Dembosky,2011-05-10,4540,arouca,PT,NULL
+628,Wanita Lutkins,2011-05-27,3700,s. joão da madeira,PT,NULL
+629,Karin Gurley,2011-07-19,4535,sta maria de lamas,PT,077366335
+630,Elfrida Vallimont,2011-09-13,3750,águeda,PT,583765654
+631,Thierry Neiderhiser,2011-10-17,4535,mozelos vfr,PT,NULL
+632,Lene Preedom,2011-10-26,3070,mira,PT,NULL
+633,Lonzo Heitzmann,2011-11-02,3070,albergaria-a-vellha,PT,NULL
+634,Kalpana Madeiros,2011-11-17,4525,canedo - vfr,PT,NULL
+635,Karin Branigan,2011-12-21,3750,águeda,PT,615513284
+636,Sinclair Yoon,2012-01-12,3750,águeda,PT,NULL
+637,Ganesh Bossard,2012-01-26,4500,espinho,PT,582278121
+638,Katherine Depew,2012-02-28,3880,.,PT,371782470
+639,Sheena Babin,2012-03-02,3140,arazede,PT,NULL
+640,Dillon Espiritu,2012-03-05,4535,lourosa,PT,NULL
+641,Marly Bordges,2012-03-20,3700,s. joão madeira,PT,NULL
+642,Alfonso Emslander,2012-03-20,3700,s. joão madeira,PT,NULL
+643,Kwesi Goelz,2012-04-17,3840,calvão - vagos,PT,NULL
+644,Amedeus Howison,2012-04-17,3730,vale de cambra,PT,NULL
+645,Kerrie Oloughlin,2012-06-29,3850,albergaria-a-velha,PT,252537272
+646,Olen Loreto,2012-08-03,3720,oliveira de azemeis,PT,NULL
+647,Austyn Mcfall,2012-10-04,4760,vila nova de famalicão,PT,441588352
+648,Ritchie Soratos,2012-10-23,3730,vale de cambra,PT,637741785
+649,Audry Kneuper,2006-04-18,4150,.,PT,041686180
+650,Blanche Hibbitt,2010-03-12,4100,porto,PT,717156457
+651,Rohan Krumme,2004-03-19,4000,porto,PT,881444176
+652,Fabricio Craighead,2004-03-19,4460,maia,PT,011654663
+653,Concha Robichard,2004-03-19,4100,porto,PT,634285402
+654,Adelheid Rahmani,2004-03-19,4470,maia,PT,025813415
+655,Leonor Butorac,2004-03-19,4100,porto,PT,325541026
+656,Enrica Venier,2004-04-19,4560,penafiel,PT,NULL
+657,Dorinda Moulhem,2008-02-11,4050,porto,PT,047103153
+658,Shanda Lowers,2012-10-17,4470,maia,PT,236766216
+659,Nadja Babbin,2013-02-08,4000,porto,PT,774681727
+660,Keren Berbig,2014-03-06,4050,porto,PT,036261721
+661,Novio Dominquez,2015-10-07,4100,porto,PT,632233081
+662,Itala Antrican,2018-10-24,4100,porto,PT,442116340
+663,Giles Palacio,2019-08-12,4150,porto,PT,NULL
+664,Lynwood Gubser,2005-02-11,4250,porto,PT,810580554
+665,Inderpal Haulter,2006-02-20,4200,porto,PT,NULL
+666,Justyn Eskra,2006-03-09,,porto,PT,533885814
+667,Amie Domin,2007-02-16,4300,porto,PT,872322774
+668,Wade Cybart,2007-05-17,4250,porto,PT,636731857
+669,Lovie Coburn,2008-03-26,4300,porto,PT,135070526
+670,Caitlyn Tacderen,2008-11-25,4200,porto,PT,NULL
+671,Creola Tick,2012-08-16,4470,maia,PT,760707125
+672,Harve Camancho,2013-02-18,4350,porto,PT,480444738
+673,Adora Lograsso,2014-09-12,4200,porto,PT,522726660
+674,Selma Pasqua,2015-12-14,4200,porto,PT,NULL
+675,Lorin Wuitschick,2017-12-18,4300,porto,PT,NULL
+676,Fancy Koperski,2004-03-19,4415,grijo,PT,NULL
+677,Bernetta Melillo,2004-03-19,3886,cortegaça,PT,560085228
+678,Burnell Palm,2004-03-19,4740,marinhas esposende,PT,NULL
+679,Nichol Mccaa,2004-03-19,4476,maia,PT,285403060
+680,Giordano Doheny,2004-03-19,4424,gondomar,PT,654468804
+681,Lonny Kaplun,2004-10-15,4416,porto,PT,478641643
+682,Skylar Beas,2004-09-27,4560,penafiel,PT,NULL
+683,Theo Wahdan,2004-09-27,4510,porto,PT,047108430
+684,Onesime Trull,2004-09-29,4470,maia,PT,327340755
+685,Albertina Waterson,2004-11-16,4440,valongo,PT,NULL
+686,Newell Tillman,2004-11-26,4460,porto,PT,NULL
+687,Eryn Romprey,2005-02-11,4490,povoa de varzim,PT,805870011
+688,Sharron Ruf,2005-02-11,4560,penafiel,PT,307678557
+689,Anissa Rodregez,2005-04-28,4560,penafiel,PT,170018543
+690,Peregrine Lehnhoff,2005-05-05,4435,rio tinto,PT,NULL
+691,Jacques Muzzell,2005-05-24,4500,espinho,PT,307326673
+692,Lucas Hebets,2005-07-07,4425,maia,PT,562838744
+693,Novia Bolebruch,2005-07-27,4405,canelas vng,PT,845715007
+694,Consolata Demarcus,2005-10-14,4400,v.n.de gaia,PT,346848650
+695,Madison Heisser,2005-10-14,4535,paços de brandão,PT,NULL
+696,Masood Trott,2004-03-19,4450,leça da palmeira,PT,651836803
+697,Flavie Villaquiran,2005-10-19,4470,moreira maia,PT,432720210
+698,Giovanna Muschett,2005-11-16,4430,vila nova de gaia,PT,353406434
+699,Prema Huxford,2005-11-21,4430,vila nova de gaia,PT,372773468
+700,Lowell Lulewicz,2005-11-24,4445,ermesinde,PT,631841671
+701,Gardenia Cerasi,2005-12-30,4520,santa maria da feira,PT,756235054
+702,Alvie Milz,2006-01-24,4425,maia,PT,NULL
+703,Gwendolyn Bernasconi,2006-02-06," 4465",s.mamede de infesta,PT,701856586
+704,Honey Soldner,2006-02-20,4465,leça do bailio,PT,838673517
+705,Whitley Demoya,2006-03-15,4590,pacos de ferreira,PT,131523274
+706,Cherie Tepper,2006-04-27,4420,gondomar,PT,028773602
+707,Joleen Illiano,2006-05-26,4425,maia,PT,NULL
+708,Virgie Whitton,2004-03-19,4100,porto,PT,006124882
+709,Colbert Konstantinidi,2004-09-20,4200,porto,PT,454243720
+710,Lunete Mckever,2006-05-15,4415,porto,PT,720158871
+711,Rich Darienzo,2006-09-13,4465,s. mamede de infesta,PT,NULL
+712,Marcela Duenow,2009-08-07,4466,leça do balio,PT,114246282
+713,Ssanyu Clift,2012-01-03,4415,"olival - vila nova de gaia ",PT,045750724
+714,Garfield Eugene,2012-01-27,4510,s. pedro da cova,PT,160228274
+715,Fallon Parlet,2004-03-19,4485,vila do conde,PT,008503106
+716,Rasheed Noujaim,2012-02-22,4470,gueifães,PT,304374173
+717,Ornella Seidell,2004-11-12,4580,paredes,PT,NULL
+718,Silke Cerqueira,2004-03-19,,igualada,PT,463110174
+719,Sheherazade Ziegenfuss,2004-03-19,4430,vila nova de gaia,PT,341385101
+720,Delphia Kempkens,2004-03-19,,vila nova de gaia,PT,226615035
+721,Mervyn Wujcik,2004-05-04,4495,povoa de varzim,PT,110256746
+722,Val Mitro,2006-09-28,4430,oliveira do douro - v.n. gaia,PT,853674601
+723,Dolores Gillmer,2006-10-09,4470,outeiro,PT,120453820
+724,Marisela Lammert,2006-11-23,4595,paços de ferreira,PT,151466447
+725,Rueben Fennema,2006-11-24,4405,valadares,PT,585868128
+726,Zayd Takai,2006-12-15,4445,alfena,PT,NULL
+727,Evaline Spadard,2007-02-28,4400,v.n. gaia,PT,NULL
+728,Stacie Dudasik,2007-03-01,4415,pedroso,PT,256554243
+729,Giuliano Hitchman,2007-03-14,4400,vila nova de gaia,PT,582055033
+730,Aroldo Prevo,2007-05-11,4425,maia,PT,384244544
+731,Errol Malecha,2007-06-21,4560,penafiel,PT,835762477
+732,Jeraldine Anes,2007-09-19,4465,leça do balio,PT,852345835
+733,Lauri Blay,2007-09-26,4415,vila nova gaia,PT,NULL
+734,Radames Beaulac,2007-09-26,4575,penafiel,PT,765100366
+735,Lindsey Crusan,2007-10-17,4460,custoias,PT,870270737
+736,Latonya Trobridge,2007-11-06,4485,vila do conde,PT,610786548
+737,Cedar Ghazi,2007-12-19,4480,vila do conde,PT,063636717
+738,Burl Yanchik,2008-01-11,4475,maia,PT,683420818
+739,Kinga Dippery,2008-01-17,4480,vila do conde,PT,153221636
+740,Ranj Applegate,2008-02-01,4409,valadares-v. n. gaia,PT,343151238
+741,Edmondo Siemering,2008-02-15,4405,valadares,PT,NULL
+742,Jeronimo Alborn,2008-04-17,4470,maia,PT,606738877
+743,Giovanny Madrano,2008-04-17,4485,aveleda,PT,187286521
+744,Reuben Niebyl,2008-05-07,,leça da palmeira,PT,133535544
+745,Sasha Lattus,2008-06-18,4470,maia,PT,887657804
+746,Mo Sanseda,2008-10-14,4470,maia,PT,121060614
+747,Anselma Lauri,2008-12-04,4475,maia,PT,848882140
+748,Leander Swanteck,2008-12-16,4570,balasar - póvoa do varzim,PT,NULL
+749,Jeramy Villaplana,2008-12-31,4560,penafiel,PT,616147627
+750,Mammie Glazebrook,2009-04-01,4465,leça do balio,PT,053787511
+751,Thurstan Sichler,2009-05-05,4470,maia,PT,721583428
+752,Lucy Washler,2009-12-30,4465,leça do balio,PT,322726255
+753,Acacia Prebish,2010-08-16,4430,avintes,PT,075657456
+754,Dewey Weichman,2010-11-30,4595,meixomil,PT,202027238
+755,Molly Mcgaha,2010-12-14,4550,castelo paiva,PT,736452055
+756,Jess Astarita,2011-04-18,4595,penamaior - paços de ferreira,PT,706724133
+757,Giada Caho,2011-05-04,4560,penafiel,PT,418074540
+758,Griffin Thrasher,2011-07-05,4474,maia,PT,870856552
+759,Donn Lanier,2011-08-04," 4415",v. n. gaia,PT,674375256
+760,Jacquetta Bunte,2011-08-12,4480,touguinhó,PT,NULL
+761,Evander Ruckdeschel,2011-09-12,4464,matosinhos,PT,014255823
+762,Veda Manual,2011-10-12,4450,.,PT,NULL
+763,Patrizia Feria,2011-10-28,4485,vila do conde,PT,042113330
+764,Dakota Bertoldo,2005-02-11,4615,lixa,PT,063132004
+765,Kriemhild Bonadurer,2004-03-22,4425,s. pedro de fins,PT,841341406
+766,Clair Weick,2005-02-11,4620,nogueira lsd,PT,675001286
+767,Guadalupe Lickfelt,2005-06-16,4600,amarante,PT,805851354
+768,Lexy Rubero,2005-10-03,4595,meixomil - paços de ferreira,PT,782775210
+769,Nicomedo Streat,2005-11-03,4785,trofa,PT,882635327
+770,Chelo Voit,2005-11-18,4780,carreira,PT,526111188
+771,Omar Adickes,2005-12-20,4785,trofa,PT,548184062
+772,Agueda Maccauley,2006-02-14,4825,sto tirso,PT,446107228
+773,Jameson Mcelhannon,2006-03-09,,trofa,PT,815688611
+774,Kipling Vieweg,2006-04-20,4630,marco de canaveses,PT,NULL
+775,Leeann Capron,2006-06-16,4785,trofa,PT,710324465
+776,Kayla Emmert,2016-11-16,4445,ermesinde,PT,NULL
+777,Burl Roumeliotis,2004-03-22,,felgueiras,PT,402867552
+778,Raymund Chenaille,2016-12-06,4575,"penafiel ",PT,103076323
+779,Manfredo Villapando,2004-03-22,4620,torno lsd,PT,521467688
+780,Moreen Drentlaw,2004-03-22,,.,PT,728443153
+781,Mozell Cullers,2004-03-22,4615,lixa,PT,261876078
+782,Arielle Marusiak,2004-03-22,4650,felgueiras,PT,454568480
+783,Arabella Wayne,2004-06-03,4785,trofa,PT,NULL
+784,Ceara Blanchfield,2006-07-12,4650,felgueiras,PT,241545721
+785,Mordecai Vanscooter,2006-10-13,4760,vila nova famalicão,PT,NULL
+786,Cleopatra Nocella,2016-12-27,4650,felgueiras,PT,850757550
+787,Kelby Montague,2016-12-13,4615,borba de godim - lixa,PT,NULL
+788,Dene Deross,2016-12-07,4400,"vila nova de gaia ",PT,NULL
+789,Melton Ettman,2016-11-11,4795,"vila das aves ",PT,NULL
+790,Wendi Patchin,2016-09-02,4470,moreira da maia,PT,133774644
+791,Crissy Bartosz,2016-09-02,4455,perafita - matosinhos,PT,567300462
+792,Grady Carreiro,2016-09-02,4455,perafita - matosinhos,PT,426523723
+793,Cris Suns,2016-08-05,4455,perafita,PT,580220460
+794,Alysha Alcina,2016-07-25,4455,perafita,PT,367773548
+795,Beth Kelson,2016-06-30,4466,"s. mamede de infesta ",PT,NULL
+796,Isaia Beckel,2016-06-08,4575,"sebolide ",PT,NULL
+797,Honorine Tenner,2016-05-09,4470,maia,PT,177288168
+798,Julien Siddens,2004-03-22,,felgueiras,PT,577385813
+799,Rosemonde Crescenti,2007-01-11,4620,lustosa,PT,676385502
+800,Worth Elvey,2007-10-15,4600,amarante,PT,NULL
+801,Isai Whitehill,2008-02-07,4786,trofa,PT,NULL
+802,Ethan Javers,2008-03-14,3860,estarreja,PT,138603380
+803,Nettie Hujer,2009-02-05,4640,santa marinha do zezere,PT,816102083
+804,Ernesto Porreca,2009-03-10,4786,trofa,PT,452756323
+805,Merrill Rosen,2010-03-18,4615,lixa,PT,853472883
+806,Oneida Sperduti,2010-05-19,4614,felgueiras,PT,481728656
+807,Sieghard Garafola,2011-01-11,4760,lousado,PT,727611136
+808,Roch Cirullo,2011-01-21,4780,santo tirso,PT,NULL
+809,Bruna Saide,2011-05-03,4620,lousada,PT,NULL
+810,Beulah Mccomish,2011-06-14,4620,lousada,PT,NULL
+811,Raja Gudaitis,2011-10-28,4610,felgueiras,PT,608507827
+812,Anthony Gesualdi,2011-11-18,4630,marco de canaveses,PT,516527828
+813,Cathie Grapp,2011-11-23,4625,"sande ",PT,227186851
+814,Taryn Blieberger,2012-03-28,4620,.,PT,011185702
+815,Enzo Amabile,2012-06-22,4440,sobrado,PT,631880063
+816,Tranter Annen,2012-08-03,4475,nogueira da maia,PT,383686885
+817,Rigoberto Penman,2012-09-04,4755,barcelos,PT,261536106
+818,Erma Holliman,2012-09-05,4615,caramos,PT,425130742
+819,Raimund Lot,2012-11-16,4510,fânzeres,PT,511128781
+820,Allyson Bullie,2013-01-11,4465,leça do balio,PT,210856716
+821,Muhammed Asquith,2013-01-21,4610,.,PT,584314058
+822,Elvie Arvan,2013-02-05,4400,vila nova de gaia,PT,138486481
+823,Adrianna Barton,2013-02-08,4440,valongo,PT,512423015
+824,Sherisse Meucci,2013-04-19,4450,leça da palmeira,PT,650282580
+825,Kaycee Chadwick,2013-07-02,4455,matosinhos,PT,472225468
+826,Chiara Swager,2013-07-24,4585,paredes,PT,322848155
+827,Grayce Valesquez,2013-08-08,4500,espinho,PT,527627535
+828,Clelia Remmen,2013-08-09,4600,padronelo- amarante,PT,NULL
+829,Reece Huntsman,2013-10-18,4580,paredes,PT,035302605
+830,Ulisse Paulseth,2013-10-18,4425,maia,PT,574047032
+831,Newton Mccoulskey,2013-11-12,4450,matosinhos,PT,NULL
+832,Spike Turke,2013-12-05,4400,vila nova de gaia,PT,061322303
+833,Idell Kovatch,2014-01-16,4400,vila nova de gaia,PT,165017721
+834,Joretta Sautter,2014-02-07,4470,maia,PT,606043267
+835,Josiah Newland,2014-02-21,4431,avintes,PT,NULL
+836,Usama Colestock,2014-03-07,4485,vilar-vila conde,PT,474663571
+837,Marybeth Jakab,2014-04-02,4786,trofa,PT,587550016
+838,Anass Gord,2014-04-03,4425,"aguas santas   - maia ",PT,NULL
+839,Verona Donaghy,2014-04-11,4785,trofa,PT,278463114
+840,Jerrod Aucoin,2014-05-19,4785,trofa,PT,763800463
+841,Raheem Holmes,2014-07-01,4470,"maia ",PT,NULL
+842,Tiziano Hantzarides,2014-10-14,4610,felgueiras,PT,221062218
+843,Zaira Kamerling,2014-10-23,4515,gondomar,PT,155327022
+844,Larkin Clapper,2014-11-05," 4600",amarante,PT,331541366
+845,Katelin Stechuchak,2014-11-21,4550,castelo paiva,PT,331178180
+846,Constantin Cabreros,2014-11-28,4795,vila das aves,PT,327883882
+847,Kevon Varian,2014-11-28,4410,arcozelo vng,PT,631656215
+848,Scotty Cafferty,2014-12-04,4445,"ermesinde ",PT,706824076
+849,Montana Dazzi,2014-12-12,4400,vila nova de gaia,PT,214244454
+850,Adel Chavera,2015-03-17,4495,amorim,PT,624027347
+851,Lauretta Patrowski,2015-04-06,4490,povoa de varzim,PT,NULL
+852,Eliane Sharp,2015-08-31,4471,maia,PT,NULL
+853,Demarco Lefebure,2015-10-02,4600,NULL,PT,677840805
+854,Jedediah Neufville,2015-10-09,4825,santo tirso,PT,742645525
+855,Millie Corsoro,2015-10-23,4430,"vila nova de gaia ",PT,NULL
+856,Veda Dols,2015-10-23,4414,serzedo vng,PT,641044188
+857,Clara Lofwall,2016-01-27,4745,s. romão do coronado,PT,NULL
+858,Shon Wildey,2016-02-05,4615,lixa,PT,212541121
+859,Damian Howell,2016-02-16,4425,s. pedro de fins,PT,241452554
+860,Glynis Geach,2016-03-24,4585,baltar,PT,233028404
+861,Lucero Leavelle,2016-04-07,4475,maia,PT,041418204
+862,Jairo Hamre,2016-04-20,4435,rio tinto-gondomar,PT,741517535
+863,Jyotsana Kobernick,2004-08-25,,castelo branco,PT,NULL
+864,David Mcgrevey,2004-08-26,6200,covilha,PT,NULL
+865,Rahsaan Brokins,2004-10-04,6250,belmonte,PT,153178528
+866,Tania Parrigan,2004-10-27,6230,fundão,PT,NULL
+867,Xaver Templeman,2005-03-22,6001,castelo branco,PT,053660738
+868,Olalla James,2005-04-01,6000,castelo branco,PT,NULL
+869,Nicoletta Mercado,2006-02-06,6030,vila velha de rodão,PT,823665374
+870,Johnson Mataka,2006-11-09,6200,covilhã,PT,387117384
+871,Jettie Mannine,2007-03-06,,covilhã,PT,657337283
+872,Everett Sheltra,2007-11-30,6230,fundão,PT,533022401
+873,Jewel Sanfratello,2008-07-30,6250,colmeal da torre,PT,386202011
+874,Hilde Study,2009-07-14,6060,idanha-a-nova,PT,176751154
+875,Blanch Simmens,2010-02-17,6200,covilhã,PT,NULL
+876,Sadie Schmidt,2011-03-01,6000,castelo branco,PT,NULL
+877,Tyrel Dominik,2012-11-23,6100,.,PT,NULL
+878,Merton Devasier,2013-02-06,6230,.,PT,NULL
+879,Edith Rather,2013-05-30,6100,sertã,PT,NULL
+880,Izzy Blackburn,2013-11-18,6100,sertã,PT,NULL
+881,Royale Mashiah,2014-06-04,6000,castelo branco,PT,NULL
+882,Quanna Seppa,2014-09-03,6150,proença-a-nova,PT,NULL
+883,Walt Rodger,2016-03-24,6030,perais,PT,NULL
+884,Jewel Preskitt,2016-09-21,6100,sertã,PT,NULL
+885,Maurice Roache,2017-02-15,6110,vila de rei,PT,212107423
+886,Clarice Wixted,2018-01-26,6030,vila velha de ródão,PT,518888463
+887,Arvel Jess,2018-02-14,6100,sertã,PT,341441578
+888,Brant Nordmann,2018-04-26,6000,"cebolais de cima ",PT,NULL
+889,Isom Degrace,2018-08-28,6200,tortosendo,PT,800685778
+890,Gerlach Selvester,2018-12-03,6160,oleiros,PT,NULL
+891,Jameela Rauhe,2018-12-03,6100,sertã,PT,NULL
+892,Rikki Longhofer,2019-03-19,6000,cebolais de cima,PT,174780567
+893,Calogero Purcella,2019-07-22,6200,tortosendo,PT,780587144
+894,Ronald Rodtha,2004-03-22,3100,pombal,PT,850007377
+895,Elliot Anguiano,2004-03-22,3100,pombal,PT,NULL
+896,Breann Delapenha,2004-03-22,2475,benedita,PT,543871308
+897,Marcellin Kellett,2004-10-28,2415,leiria,PT,123778337
+898,Darcie Winder,2005-01-20,2415,leiria,PT,614031448
+899,Masood Landrum,2005-02-11,2350,torres novas,PT,326787416
+900,Angelique Gepner,2005-11-29,2405,maceira,PT,NULL
+901,Granville Menge,2005-12-05,2490,ourém,PT,442750467
+902,Tyshawn Blumenstein,2006-01-11,3100,pombal,PT,782554768
+903,Hallie Vanwyck,2006-01-11,2430,marinha grande,PT,NULL
+904,Damon Gurnett,2006-01-24,2500,caldas da rainha,PT,043173857
+905,Rosario Dummer,2006-02-23,2504,caldas da rainha,PT,577852467
+906,Tanja Dampf,2006-03-17,2445,martingança,PT,NULL
+907,Angeline Kohout,2006-03-21,2495,fátima,PT,070414035
+908,Christoper Agustine,2006-03-28,2430,marinha grande,PT,NULL
+909,Floyd Mense,2006-07-12,2425,leiria,PT,NULL
+910,Thane Gerbi,2007-01-31,4770,pousada de saramagos,PT,078166316
+911,Antonello Prunier,2007-03-12,4805,guimarães,PT,NULL
+912,Giuliano Ioli,2007-03-12,4800," guimaraes",PT,872083403
+913,Amador Ledford,2004-03-22,2430,marinha grande,PT,140661247
+914,Benjamin Galin,2004-03-22,2500,caldas da rainha,PT,175038348
+915,Briscoe Kalahiki,2004-03-22,,benedita,PT,851835626
+916,Addy Dickson,2004-03-22,2025,amiais de baixo,PT,245742352
+917,Yorick Kon,2004-03-22,,benedita,PT,437558046
+918,Graham Royce,2004-03-22,2475,benedita,PT,132600360
+919,Alberta Delmage,2004-03-22,2420,leiria,PT,NULL
+920,Shonna Babb,2004-03-22,2495,fatima,PT,NULL
+921,Laverne Defabio,2004-12-13,3240,santiago da guarda,PT,066210805
+922,Leeroy Cantore,2006-08-07,2420,leiria,PT,328300256
+923,Haskell Mclendon,2006-08-14,4810,guimarães,PT,270387052
+924,Vasant Rodkey,2006-09-13,4830,póvoa de lanhoso,PT,NULL
+925,Hatty Drzewiecki,2006-09-22,4801,guimarães,PT,108771731
+926,Janele Musco,2006-10-06,4705,braga,PT,NULL
+927,Washington Rabil,2006-10-09,3100,pombal,PT,606480547
+928,Chloe Stroik,2006-10-24,4750,barcelos,PT,NULL
+929,Jewell Garis,2006-10-25,3240,ansião,PT,213751658
+930,Adelaide Siegwarth,2006-11-07,4770,pousada saramagos,PT,474780120
+931,Sherilyn Dole,2007-01-15,4810,abação,PT,153780607
+932,Sanchia Roddick,2007-02-15,4810,guimarães,PT,837842527
+933,Vickey Backman,2007-02-28,3100,pombal,PT,NULL
+934,Sylvana Carlise,2007-03-23,4760,v. n. famalicão,PT,712418708
+935,Raimund Drehm,2007-04-10,4750,barcelos,PT,266625266
+936,Bishop Touchette,2007-04-18,4710,braga,PT,770123330
+937,Perlie Lewis,2007-04-20,4755,bastuço s. joão - barcelos,PT,NULL
+938,Ayanna Choquette,2007-05-29,4711,braga,PT,NULL
+939,Kanti Marinella,2007-06-01,4835,guimarães,PT,162786142
+940,Bartholomew Westrope,2007-06-01,4835,guimarães,PT,NULL
+941,Githa Baronne,2007-06-08,4770,vila nova famalicão,PT,NULL
+942,Earlene Salesses,2007-06-21,4750,barcelos,PT,NULL
+943,Korbin Rietz,2007-06-27,2500,caldas da rainha,PT,857300763
+944,Lothaire Reau,2007-06-28,4770,pousada de saramagos,PT,762567474
+945,Devika Tornese,2007-07-12,4731,vila verde,PT,837864111
+946,Neta Eckerman,2007-09-03,4700,braga,PT,468765765
+947,Valorie Sauredo,2007-09-06,4760,v.n. famalicão,PT,102354010
+948,Stephane Tidrington,2007-09-27,4805,vila nova de sande,PT,NULL
+949,Lorna Rodtka,2007-10-01,4715,braga,PT,874124053
+950,Tarquin Sinisi,2007-10-04,4801,guimaraes,PT,612837802
+951,Demetrio Rozas,2007-10-08,4810,guimaraes,PT,725827512
+952,Sepp Terrero,2007-10-22,2425,leiria,PT,764485643
+953,Cleopatra Alarcon,2007-10-22,2500,caldas da rainha,PT,185815434
+954,Dempsey Degori,2007-11-28,4835,guimarães,PT,050654166
+955,Ralphie Stolzenberg,2008-02-14,4700,braga,PT,872841020
+956,Julian Vanskike,2008-02-19,2425,leiria,PT,268012641
+957,Caryn Allwood,2008-02-19,4810,guimaraes,PT,401440444
+958,Jimmie Blow,2008-03-21,4700,braga,PT,451533805
+959,Amar Spease,2008-03-27,4700,braga,PT,NULL
+960,Travers Lunz,2008-03-28,4810,guimarães,PT,865473038
+961,Lorenz Ostby,2008-04-01,4764,v.n. famalicão,PT,274232730
+962,Leigh Dubiel,2008-04-02,4810,guimarães,PT,476080778
+963,Gotthard Meschino,2008-05-08,2510,obidos,PT,025444611
+964,Alexa Aldana,2008-06-09,4805,guimarães,PT,775805584
+965,Lorayne Schiffelbein,2008-07-02,4835,guimarães,PT,153153843
+966,Manuela Levites,2008-07-08,2415,leiria,PT,737032627
+967,Claudie Bormet,2008-07-09,3100,pombal,PT,NULL
+968,Kristeen Kakudji,2008-07-29,2460,alcobaça,PT,033230506
+969,Saturnina Loreto,2008-08-07,4805,guimaraes,PT,108380432
+970,Lexia Bergreen,2008-09-18,3100,pombal,PT,512056673
+971,Luca Redfear,2008-09-22,3130," vila nova da rainha",PT,328462275
+972,Bruna Greynolds,2008-10-22,4820,fafe,PT,673621254
+973,Edmundo Antrobus,2008-10-31,2495,fatima,PT,NULL
+974,Lorn Bradshaw,2008-11-10,4805,guimaraes,PT,NULL
+975,Cyan Neiss,2008-11-25,2420,leiria,PT,414364541
+976,Walt Rubright,2008-12-04,4905," barcelos",PT,710304856
+977,Porfirio Kamalii,2008-12-18,2520,peniche,PT,233336776
+978,Marc Friesner,2009-01-29,4750,trofa,PT,NULL
+979,Chandrakanta Dazey,2009-02-20,3130,vinha da rainha,PT,652581782
+980,Elma Nuxoll,2009-02-20,2475,benedita,PT,111023776
+981,Ahmad Spingola,2009-05-08,4760,fradelos,PT,NULL
+982,Cadence Hughston,2009-05-12,4815,vizela,PT,701010518
+983,Heber Laumea,2009-05-21,4740,esposende,PT,NULL
+984,Fawn Butala,2009-10-09,4810,guimarães,PT,511033218
+985,Genevieve Ceballos,2009-10-28,4805,guimarães,PT,308502728
+986,Rebekka Jaworski,2009-10-30,4705,braga,PT,863270008
+987,Lashanda Cancio,2009-11-10,4810,guimaraes,PT,128320611
+988,Sade Boryszewski,2009-11-12,2475,benedita,PT,628066651
+989,Philip Maberry,2009-12-03,2415,leiria,PT,552152030
+990,Renate Demott,2010-01-20,4700,braga,PT,NULL
+991,Antwan Laurino,2010-01-28,1150,lisboa,PT,225343277
+992,Prakash Sirolli,2010-04-14,4806,caldas das taipas - gmr,PT,063864182
+993,Pankraz Mykins,2004-11-12,2080,benfica do ribatejo,PT,NULL
+994,Bryanna Athey,2004-11-25,2070,cartaxo,PT,516531668
+995,Fahd Jochum,2005-01-28,2005,santarém,PT,666447225
+996,Mariella Maywood,2005-02-11,2560,silveira,PT,025588721
+997,Aggie Fadel,2005-05-05,2580,cadafaias,PT,154107455
+998,Lilac Crawley,2005-10-14,2040,rio maior,PT,383413704
+999,Connie Rieger,2005-11-03,2005,santarém,PT,NULL
+1000,Meadow Danielovich,2005-12-05,2300,tomar,PT,NULL
+1001,Jada Pico,2005-12-30,2050,azambuja,PT,012888032
+1002,Madeleine Malicoat,2006-02-06,2070,cartaxo,PT,NULL
+1003,Cecily Hanzlik,2006-04-19,2300,tomar,PT,788144714
+1004,Leoncio Dimpson,2006-07-12,2040,rio maior,PT,874137730
+1005,Obie Tegeler,2007-01-29,2350,torres novas,PT,763080725
+1006,Hilbert Irland,2004-11-05,2001,santarém,PT,732841678
+1007,Amani Denis,2004-09-20,2000,santarem,PT,NULL
+1008,Andrew Ritz,2004-11-05,2055,santarém,PT,NULL
+1009,Irving Clain,2004-03-22,2200,alferrarede,PT,821627171
+1010,Dequan Michelstein,2004-05-18,2080,santarém,PT,NULL
+1011,Jacopo Boenig,2006-07-20,7540,"santiago do cacém ",PT,621473330
+1012,Nadim Konetchy,2006-10-13,2000,santarém,PT,232802773
+1013,Dejuan Lapusnak,2006-12-15,2135,samora correia,PT,548775276
+1014,Sandrine Landan,2007-02-22,2350,torres novas,PT,136680326
+1015,Palmira Nan,2007-06-27,2985,pegoes,PT,657541050
+1016,Shon Victor,2008-02-15,2200,abrantes,PT,703801444
+1017,Cymbeline Neiling,2008-02-27,2200,abrantes,PT,620357524
+1018,Alyssia Yarde,2008-03-17,2200,abrantes,PT,572185210
+1019,Maricela Fiaschetti,2008-04-11,2005,santarém,PT,665155067
+1020,Reese Zakutney,2008-07-22,2495,fátima,PT,717133273
+1021,Curtiss Kilbride,2008-08-13,2040,rio maior,PT,718768005
+1022,Geena Onezne,2009-05-19,2350,torres novas,PT,345316530
+1023,Devon Sansing,2010-06-07,2005,santarém,PT,707058608
+1024,Cristy Molla,2011-02-01,2630,arruda dos vinhos,PT,NULL
+1025,Bethany Extine,2011-11-15,2140,parreira,PT,NULL
+1026,Trista Brodzik,2012-04-24,2300,tomar,PT,677011000
+1027,Gianluca Helgager,2012-07-05,2410,barreira - leiria,PT,476335718
+1028,Hans Havice,2012-10-18,2005,santarém,PT,NULL
+1029,Johnathan Kostek,2013-05-27,2430,marinha grande,PT,NULL
+1030,Rameshwar Mazurek,2013-06-06,2475,benedita,PT,677445653
+1031,Bryant Cosca,2013-08-26,2425,monte redondo lra,PT,562448337
+1032,Marilynn Lotempio,2013-09-04,2205,s. miguel do rio torto,PT,124340605
+1033,Vanessa Stein,2013-09-30,2300,tomar,PT,121175061
+1034,Josephe Vavricek,2013-12-13,2431,marinha grande,PT,715384816
+1035,Patrizia Branham,2014-02-28,2140,parreira,PT,NULL
+1036,Kristoffer Pascarelli,2014-04-03,2425,leiria,PT,NULL
+1037,Achim Cadmus,2014-11-05,2350,torres novas,PT,NULL
+1038,Rabab Cauble,2015-01-29,2580,carregado,PT,NULL
+1039,Edric Raulino,2015-05-05,2420,caranguejeira,PT,550855473
+1040,Alyx Lohnes,2015-05-15,2415,"leiria ",PT,621681675
+1041,Marlon Bari,2015-08-28,2430,marinha grande,PT,NULL
+1042,Kelsi Mcquaid,2015-09-03,2205,s. miguel do rio torto,PT,070721015
+1043,Raza Konecny,2015-11-05,2380,vila moreira (alcanena),PT,710010880
+1044,Arne Kiekbusch,2016-01-21,2415,leiria,PT,NULL
+1045,Orsino Rusich,2016-04-04,2080,almeirim,PT,NULL
+1046,Marjorie Timchula,2016-04-26,3240,ansião,PT,NULL
+1047,Ridley Roik,2016-05-20,2550,cadaval,PT,NULL
+1048,Adalberto Ikard,2016-06-16,2430,marinha grande,PT,687270613
+1049,Valentina Braziel,2016-07-25,2431,marinha-grande,PT,476367861
+1050,Windell Hanzl,2016-09-02,"3240 ",avelar - ansião,PT,011512167
+1051,Tito Scalet,2016-10-11,2490,ourém,PT,NULL
+1052,Munroe Dehoyos,2016-10-14,2500,caldas da rainha,PT,513820136
+1053,Brandyn Sukut,2017-03-16,2460,coz  alcobaça,PT,234241183
+1054,Annetta Lesure,2017-07-11,2500,"caldas da rainha ",PT,NULL
+1055,Horst Celaya,2017-07-13,2405,leiria,PT,545120507
+1056,Suzie Tijernia,2017-11-08,2500,"caldas da rainha ",PT,858136154
+1057,Olalla Hanusey,2017-11-15,2520,peniche,PT,676722200
+1058,Dwain Atta,2018-01-26,2475,benedita,PT,NULL
+1059,Cleve Giulioli,2018-02-16,3105,carriço,PT,NULL
+1060,Robin Mongeau,2018-07-04,2460,alcobaça,PT,541111213
+1061,Odalys Nicolaus,2019-01-16,2480,porto de mós,PT,NULL
+1062,Shaniqua Crossman,2019-04-23,2005,santarém,PT,NULL
+1063,Lexi Leithoff,2019-05-27,3260,figueiró dos vinhos,PT,NULL
+1064,Edwyna Gnagey,2019-08-01,2460,"cela -  alcobaça ",PT,NULL
+1065,Chiumbo Tuman,2004-03-22,7301,portalegre,PT,NULL
+1066,Macario Dooley,2005-11-21,7400,ponte de sor,PT,051185756
+1067,Gomer Deross,2009-02-25,6040,gavião,PT,NULL
+1068,Seward Barabas,2009-11-10,7400,ponte de sor,PT,073087642
+1069,Theobald Cione,2010-02-12,7460,fronteira,PT,NULL
+1070,Arienne Rever,2011-11-09,7400,ponte de sor,PT,NULL
+1071,Philippa Tompson,2013-02-04,7300,.,PT,NULL
+1072,Danette Lichlyter,2014-09-23,2490,ourem,PT,NULL
+1073,Tyra Spruance,2014-10-14,7350,elvas,PT,NULL
+1074,Lodovico Rebolloso,2015-01-29,7350,elvas,PT,NULL
+1075,Selena Brownie,2015-02-13,2130,benavente,PT,071861664
+1076,Shawanda Blitch,2015-02-23,2135,samora correia,PT,827236751
+1077,Salah Kleve,2018-11-26,9500,"ponta delgada ",PT,NULL
+1078,Ermtraud Rist,2019-04-03,7440,alter do chão,PT,NULL
+1079,Maryjo Renwick,2019-05-09,7400,ponte de sor,PT,253274210
+1080,Pran Blachowski,2004-03-22,7520,sines,PT,862288607
+1081,Henrike Peete,2005-06-29,2900,setubal,PT,012253011
+1082,Verda Frankforter,2004-05-18,2910,setubal,PT,601272614
+1083,Hajar Mcloy,2004-06-09,2910,setubal,PT,728735753
+1084,Vincenzo Stamer,2005-02-11,2840,seixal,PT,104484567
+1085,Crocifissa Gutkin,2005-02-11,2970,castelo ssb,PT,658630127
+1086,Saffie Conlon,2005-11-21,2910,setubal,PT,316442058
+1087,Lalage Meneley,2005-11-22,7520,sines,PT,570263571
+1088,Kato McLennan,2006-02-06,2900,setubal,PT,341171046
+1089,Maddison Cheshire,2006-03-10,7565,alvalade,PT,657513553
+1090,Mckinley Neyer,2006-03-23,2950,palmela,PT,436128226
+1091,Donatello Merkus,2006-09-21,,sesimbra,PT,218442257
+1092,Terri Prestley,2006-09-27,2825,almada,PT,755702055
+1093,Emile Schnittker,2006-11-07,2890,alcochete,PT,652081563
+1094,Wynnie Jurgenson,2006-11-21,2830,coina,PT,NULL
+1095,Emil Ximenez,2006-11-23,7500," vila nova de santo andré",PT,NULL
+1096,Catina Santander,2007-03-01,2970,sesimbra,PT,807183426
+1097,Manuel Dilda,2007-04-16,2810,almada,PT,360668142
+1098,Helmut Accosta,2007-04-23,2900,setubal,PT,NULL
+1099,Delmar Halpain,2007-10-25,2904,setubal,PT,NULL
+1100,Lucienne Wichert,2007-12-06,2840,aldeia de paio pires,PT,566036072
+1101,Nicki Pannebaker,2008-04-23,2910,setubal,PT,110040253
+1102,Rueben Charping,2008-07-14,2845,amora,PT,NULL
+1103,Azucena Rettig,2008-10-31,2860,moita,PT,453312078
+1104,Jamel Tango,2009-05-19,2826,caparica,PT,373867707
+1105,Suhail Dapice,2009-06-05,2825,costa da caparica,PT,340032862
+1106,Bryana Waldoch,2009-12-18,7520,sines,PT,356588553
+1107,Ron Snyder,2010-02-04,2840,arrentela,PT,NULL
+1108,Winston Keodalah,2010-03-04,2831,barreiro,PT,042433617
+1109,Jervis Winik,2010-07-14,2855,corroios,PT,NULL
+1110,Madeleine Faulkenbury,2011-02-23,2890,alcochete,PT,378456726
+1111,Leigh Desamito,2011-02-25,2890,alcochete,PT,NULL
+1112,Gaspare Timoteo,2011-07-19,2855,corroios,PT,404352587
+1113,Palmiro Alarid,2011-12-05,2950,palmela,PT,835737537
+1114,Eutropio Vellucci,2011-12-07,2800,almada,PT,NULL
+1115,Evon Muney,2012-01-03,2820,charneca caparica,PT,NULL
+1116,Pierina Crossfield,2012-02-13,2910,setúbal,PT,NULL
+1117,Macie Badey,2012-07-13,2840,aldeia paio pires,PT,NULL
+1118,Marcellin Schiavone,2013-01-28,2835,lavradio,PT,NULL
+1119,Izetta Knipfel,2013-05-07,2910,pontes,PT,310466674
+1120,Keila Cropsey,2013-10-08,2901,setúbal,PT,621051542
+1121,Mirza Simoneaux,2014-07-01,,NULL,PT,373854151
+1122,Trent Measeck,2014-09-16,2910,setúbal,PT,536526818
+1123,Lorne Pavlak,2014-10-14,2820,charneca da caparica,PT,154385027
+1124,Columbano Nilsby,2014-10-22,2870,montijo,PT,125018012
+1125,Murry Oguinn,2015-02-03,2830,barreiro,PT,378678530
+1126,Husayn Marotta,2015-05-04,2840,seixal,PT,376737234
+1127,Larkin Cansino,2015-05-04,7520,sines,PT,NULL
+1128,Donata Deneui,2015-06-04,2870,montijo,PT,NULL
+1129,Bysshe Nydam,2016-05-25,2910,setúbal,PT,086416016
+1130,Bertina Zutell,2016-10-20,2830,barreiro,PT,NULL
+1131,Hussein Kallen,2017-04-13,2910,setúbal,PT,NULL
+1132,Kiara Ferracioli,2017-04-17,3081,figueira da foz,PT,310565575
+1133,April Akhavan,2017-04-27,2951,palmela,PT,022030751
+1134,Trudi Lecaros,2017-05-19,2910,setúbal,PT,NULL
+1135,Nyah Iglehart,2017-12-19,2805,almada,PT,NULL
+1136,Vesta Ferer,2018-01-31,2901,setúbal,PT,757475651
+1137,Linden Reef,2018-03-14,7520,sines,PT,NULL
+1138,Sofia Huereca,2018-09-11,2901,setúbal,PT,210235067
+1139,Guillermin Breitung,2018-09-20,2901,setúbal,PT,343247483
+1140,Frederica Hanan,2018-10-25,2810,almada,PT,381348700
+1141,Brigit Richel,2019-01-08,2901,setúbal,ES,608432603
+1142,Timothee Butkus,2019-02-05,2901,setúbal,PT,026375277
+1143,Viviana Biddix,2019-03-11,2901,setúbal,PT,380825662
+1144,April Tariq,2019-03-28,2985,pegões,PT,642411452
+1145,Rodolfo Pullom,2005-03-23,9500,ponta delgada,PT,534306167
+1146,Rilla Teitsort,2017-08-30,9600,"ribeira grande - açores ",PT,556500447
+1147,Catherina Feehly,2017-09-06,9560,lagoa,PT,856570631
+1148,Aaron Fitzgibbon,2018-04-05,9700,angra do heroísmo,PT,NULL
+1149,Lareyna Rittle,2004-03-22,9500,ponta delgada,PT,358706381
+1150,Chita Nachman,2004-05-11,9760,praia da vitória,PT,NULL
+1151,Valencia Llams,2004-06-09,9900,horta,PT,NULL
+1152,Major Stehly,2007-11-14,9500,livramento,PT,NULL
+1153,Sherwood Bozych,2009-06-05,9560,lagoa - ilha de s.miguel,PT,178417335
+1154,Waymon Varghese,2009-09-30,9504,ponta delgada,PT,158566147
+1155,Nadja Spueler,2010-02-17,9500,acores,PT,523817355
+1156,Bertina Vanderstappen,2010-04-14,4815,vizela,PT,162068867
+1157,Jon Poalino,2010-04-28,4815,vizela,PT,215733181
+1158,Raphael Materna,2010-05-20,4720,lago-amares,PT,178544036
+1159,Tisha Shastri,2010-07-01,9560,açores,PT,813312537
+1160,Gottschalk Mashiah,2010-07-28,4816,guimarães,PT,360570670
+1161,Clifton Spenst,2010-08-16,4431,guimarães,PT,862484784
+1162,Phemie Schriber,2010-08-19,3240,ansião,PT,004752313
+1163,Aldo Emrich,2010-10-12,2415,leiria,PT,744735080
+1164,Maryellen Drebes,2010-10-18,2480,leiria,PT,564366208
+1165,Netta Zollinger,2010-10-25,2350,torres novas,PT,260172646
+1166,Bonnie Sticher,2010-11-12,4805,sande s. lourenço,PT,850304531
+1167,Evelyn Burkhardt,2011-01-26,3240,santiago da guarda,PT,188188477
+1168,Harris Dreyfuss,2011-03-03,4750,barcelos,PT,251481711
+1169,Rafael Imlay,2011-03-11,4700,padim da graça,PT,NULL
+1170,Ranya Kipp,2011-03-22,2425,leiria,PT,NULL
+1171,Godfrey Kasting,2011-03-31,9700,angra do heroismo,PT,767156818
+1172,Landon Mccollough,2011-05-04,4800,guimarães,PT,810407857
+1173,Jered Wetmore,2011-05-10,9500,"ponta delgada - açores ",PT,650547415
+1174,Brielle Montazami,2011-05-27,1800,lisboa,PT,NULL
+1175,Giulio Parham,2011-05-31,4715,braga,PT,006837071
+1176,Diego Thall,2011-06-13,,cabezon de la sal,ES,181624758
+1177,Saundra Barrowman,2011-08-02,2415,leiria,PT,343811307
+1178,Sefton Ericksen,2011-08-18,4610,felgueiras,PT,683352406
+1179,Moreen Drentlaw,2011-11-23,4705,aveleda,PT,NULL
+1180,Judy Burchette,2012-01-05,4820,fafe,PT,253405287
+1181,Loreto Krizek,2012-02-13,3100,pombal,PT,104807102
+1182,Girolamo Maciel,2012-03-21,4730,pico de regalados,PT,280850645
+1183,Romano Redican,2012-03-27,4700,braga,PT,575048008
+1184,Ralphie Mettille,2012-06-14,4755,barcelos,PT,840238511
+1185,Regena Kory,2012-08-21,4770,.,PT,121053004
+1186,Misty Courser,2012-09-27,4800,guimarães,PT,NULL
+1187,Wynne Daubert,2012-11-30,4820,fafe,PT,088858284
+1188,Ginette Milelr,2012-12-21,4835,guimarães,PT,005444415
+1189,Maura Hjalmarson,2013-01-11,4700,braga,PT,271114375
+1190,Armand Palacois,2013-02-15,4815,caldas de vizela,PT,317875218
+1191,Gafar Ausiello,2013-03-25,4715,braga,PT,047045144
+1192,Cinzia Faughnan,2013-04-10,4730,braga,PT,418176651
+1193,Eldred Gross,2013-04-19,4830,taíde,PT,151633780
+1194,Chiquita Andreen,2013-05-15,4760,delães,PT,481840533
+1195,Walt Bonato,2013-05-15,4815,vizela,PT,111218617
+1196,Zechariah Groden,2013-05-15,4805,guimarães,PT,187678737
+1197,Pratap Pachar,2013-05-17,4830,póvoa de lanhoso,PT,804687220
+1198,Marybelle Seajack,2013-05-22,4755,barcelos,PT,312217705
+1199,Sammie Leingang,2013-09-04,4770,joane - vila nova de famalicão,PT,527130573
+1200,Marcelino Poland,2013-09-26,4830,fonte arcada pvl,PT,417360631
+1201,Paola Mcgavock,2013-10-01,4755,"barcelos ",PT,NULL
+1202,Adamo Graybeal,2013-10-01,4750,"barcelos ",PT,NULL
+1203,Rowena Magoon,2013-10-02,4764,vila nova de famalicão,PT,747120228
+1204,Judy Pandya,2013-11-21,4810,guimarães,PT,880456207
+1205,Lynsey Rotella,2013-12-11,4835,guimarães,PT,530305734
+1206,Loreen Chisem,2014-01-06,4730,vila verde,PT,886231086
+1207,Collyn Azzano,2014-01-21,4470,maia,PT,841488420
+1208,Hakim Flewellen,2014-01-21,4805,guimarães,PT,827365286
+1209,Selma Minnich,2014-01-22,4820,arões sº romão -fafe,PT,NULL
+1210,Noelle Stingle,2014-02-06,4810,guimarães,PT,254216803
+1211,Odie Tarter,2014-02-26,4800,"guimaraes ",PT,NULL
+1212,Leonhard Wiggins,2014-03-20,4750,"oliveira - barcelos ",PT,030048064
+1213,Shakti Steege,2014-04-11,4750,sº verissimo - barcelos,PT,713558414
+1214,Norah Klie,2014-04-30,4800,guimarães,PT,781220626
+1215,Dotty Lebarge,2014-05-08,4805,barco - guimaraes,PT,454678871
+1216,Felecia Deglanville,2014-05-22,4730,vila verde,PT,864325472
+1217,Spring Sheil,2014-05-28,4760,lousado,PT,215351214
+1218,Kamal Schurkamp,2014-07-01,4805,vila nova de sande - guimaraes,PT,NULL
+1219,Helmuth Doing,2014-07-16,4810,pinheiro,PT,270870657
+1220,Alberta Zemaitis,2014-07-24,4710,braga,PT,NULL
+1221,Gervaise Kremen,2014-07-25,4801,guimarães,PT,088524217
+1222,Shirley Blice,2014-08-21,4755,barcelos,PT,274015657
+1223,Luitger Streeper,2014-09-12,4720,amares,PT,035332601
+1224,Gilda Simensky,2014-10-09,4820,fafe,PT,370545682
+1225,Timmy Bueckers,2014-10-10,4830,garfe,PT,153652416
+1226,Diethelm Malkowski,2014-11-11,4805,guimaraes,PT,NULL
+1227,Ted Battaglini,2014-11-28,4800,guimarães,PT,325787186
+1228,Barthelemy Lascano,2014-12-04,P,rio meão,PT,882306204
+1229,Lawahiz Shewmake,2014-12-09,4730,NULL,PT,NULL
+1230,Sunday Minnis,2015-01-07,4815,vizela,PT,446734512
+1231,Mamie Mcbrien,2015-01-30,4715,braga,PT,750440561
+1232,Madonna Passini,2015-02-06,4805,vermil-gmr,PT,254154768
+1233,Atilio Mcculley,2015-02-23,4835,guimarães,PT,845670118
+1234,Earline Sourlis,2015-03-24,4810,guimaraes,PT,710621732
+1235,Felisha Dishman,2015-04-06,4710,braga,PT,086671711
+1236,Damon Newmeyer,2015-04-14,4830,povoa de lanhoso,PT,803602885
+1237,Marshal Hackl,2015-05-04,4835,selho sª jorge - guimaraes,PT,511617152
+1238,Nicodeme Loudermilk,2015-05-29,4700,braga,PT,525224828
+1239,Hewie Agrios,2015-06-19,4820,fafe,PT,384341380
+1240,Santiago Rubner,2015-06-25,4830,povoa de lanhoso,PT,116854135
+1241,Tilly Amderson,2015-08-19,4700,braga,PT,275823066
+1242,Nacho Hamper,2015-09-22,4805,NULL,PT,835476124
+1243,Evelyn Ennenga,2015-09-28,4805,guimarães,PT,376888773
+1244,Devika Lagan,2005-06-29,1000,lisboa,PT,622827128
+1245,Samira Dunzelman,2006-01-24,2780,porto salvo,PT,258073307
+1246,Ananda Braegelmann,2006-03-15,1050,lisboa,PT,102473436
+1247,Cesar Mender,2006-04-18,2740,porto salvo,PT,428841306
+1248,Payton Toeller,2007-04-24,1069,lisboa,PT,NULL
+1249,Zaid Alessandroni,2018-10-18,2650,amadora,PT,NULL
+1250,Alexandria Villalobas,2019-01-25,2950,quinta do anjo - palmela,PT,236807353
+1251,Stefani Mega,2019-02-27,1998,lisboa,PT,214123000
+1252,Jyoti Maltbie,2019-08-27,2790,carnaxide,PT,056753785
+1253,Xiang Middlesex,2004-11-23,1050,lisboa,PT,123618574
+1254,Jaylon Schallhorn,2004-09-29,1000,lisboa,PT,NULL
+1255,Kade Standish,2004-03-22,1500,lisboa,PT,NULL
+1256,Mattia Echenique,2007-07-18,1150,lisboa,PT,110518872
+1257,Roch Deckert,2008-03-05,1050,lisboa,PT,384030146
+1258,Rowena Surpris,2008-07-24,1100,lisboa,PT,361375144
+1259,Shon Gleiss,2009-12-23,1100,lisboa,PT,168558050
+1260,Vittorino Gellings,2012-07-24,2564,torres vedras,PT,700606635
+1261,Justin Freeborn,2012-07-30,1169,lisboa,PT,288241763
+1262,Jann Farias,2012-08-06,2780,oeiras,PT,275073615
+1263,Hadi Mcphetridge,2012-08-08,2749,massamá,PT,648315462
+1264,Kallie Lopes,2012-10-11,2785,s.domingos de rana,PT,642812525
+1265,Alvin Blackledge,2012-10-17,2740,porto salvo,PT,NULL
+1266,Kellen Krauter,2012-10-24,4780,carnaxide,PT,NULL
+1267,Fernanda Tushoski,2012-10-29,2626,povoa de santa iria,PT,631681867
+1268,Lynwood Sjaarda,2013-07-02,2790,carnaxide,PT,154315642
+1269,Constantin Hetherington,2013-07-24,9560,lagoa - açores,PT,NULL
+1270,Desire Mostert,2013-09-13,,loures,PT,413367531
+1271,Frieda Tucciarone,2013-10-02,1050,lisboa,PT,435274320
+1272,Khayrat Ercek,2013-10-30,2615,alverca do ribatejo,PT,NULL
+1273,Eryn Crockarell,2013-10-30,2605,casal de cambra,PT,NULL
+1274,Elettra Awalt,2013-11-05,4835,guimarães,PT,456357188
+1275,Candelario Barro,2014-01-07,2740,porto salvo,PT,588134357
+1276,Angelina Betton,2014-01-09,2825,costa da caparica,PT,055713207
+1277,Hoover Hedrick,2014-04-08,2615,NULL,PT,848285615
+1278,Randa Pitta,2014-05-19,2669,vila franca do rosário,PT,257226560
+1279,Manjula Topliss,2014-07-11,2790,"carnaxide ",PT,NULL
+1280,Loriann Pattengale,2014-09-05,4475,nogueira - maia,PT,880075420
+1281,Joelle Paramore,2014-10-14,1700,lisboa,PT,743571850
+1282,Mansel Honeywell,2014-12-05,1950,lisboa,PT,055035727
+1283,Maritza Addie,2015-01-07,2610,amadora,PT,770256156
+1284,Fulvio Tripp,2015-01-28,2665,NULL,PT,515460003
+1285,Verl Botos,2015-01-29,2685,sacavem,PT,NULL
+1286,Wava Barrigan,2015-02-13,2810,almada,PT,360028731
+1287,Neoma Surma,2015-02-18,4476," moreira da maia",PT,NULL
+1288,Jacopo Kienbaum,2015-02-18,4470,"maia ",PT,NULL
+1289,Lawrie Stackpole,2015-02-18,4466,"sº mamede de infesta ",PT,NULL
+1290,Karl Castronova,2015-02-18,4575,termas são vicente,PT,NULL
+1291,Baldassare Hall,2015-03-25,2794,carnaxide,PT,106032862
+1292,Chadd Roles,2015-03-27,2720,amadora,PT,NULL
+1293,Phillipa Fantozzi,2015-04-01,2615,alverca,PT,NULL
+1294,Lynna Brew,2015-04-10,2830,barreiro,PT,NULL
+1295,Laxman Doerle,2015-06-09,2830,barreiro,PT,NULL
+1296,Nawal Alsbury,2015-06-11,1990,"lisboa ",PT,365363148
+1297,Mohamed Chouinard,2016-02-24,2615,alverca do ribatejo,PT,NULL
+1298,Rheta Creitz,2016-04-29,2740,porto salvo,PT,NULL
+1299,Shanita Schuckers,2016-06-08,1200,lisboa,PT,NULL
+1300,Elvia Rotermund,2016-07-11,2686,portela lrs,PT,062723835
+1301,Detlef Salek,2016-09-08,2726,algueirão mem martins,PT,772181666
+1302,Jamey Corrie,2016-09-27,2565,maxial,PT,417622482
+1303,Britton Adriano,2016-10-18,1900,lisboa,PT,178267655
+1304,Nanci Pretti,2017-01-24,2614,NULL,PT,767256650
+1305,Mandeep Rasband,2017-02-10,2770,paço d´arcos,PT,511766863
+1306,Crofton Ayola,2017-02-20,2550,cadaval,PT,647263348
+1307,Sushila Alonge,2017-03-08,2750,cascais,PT,036664626
+1308,Sheridan Kobara,2017-03-14,2530,lourinhã,PT,637425206
+1309,Wilson Gerdts,2017-04-18,2785,são domingos de rana,PT,077053070
+1310,Vivien Groder,2017-06-12,2685,sacavem,PT,NULL
+1311,Antwan Rash,2017-07-03,2785,são domingos de rana,PT,627184175
+1312,Carrol Caccavale,2017-10-12,2785,são domingos de rana,PT,651211147
+1313,Leonce Bigford,2017-10-12,2785,são domingos de rana,PT,036023334
+1314,Julie Brandstetter,2017-10-27,2670,NULL,PT,815476881
+1315,Placida Puhuyaoma,2017-11-21,2560,torres vedras,PT,NULL
+1316,Sitara Sterritt,2018-01-08,2714,sintra,PT,343288020
+1317,Sinclair Maholmes,2018-02-14,2620,ramada,PT,NULL
+1318,Lyndon Shambo,2018-04-23,2670,loures,PT,NULL
+1319,Doris Cucchiaro,2018-05-08,2794,carnaxide,PT,834051030
+1320,Brian Juliana,2018-06-07,2770,paço de arcos,PT,345072810
+1321,Urbi Sauveur,2018-06-08,2689,prior velho,PT,524850386
+1322,Yahya Flaum,2018-06-08,2630,arruda dos vinhos,PT,352183375
+1323,Zena Stcyr,2018-06-22,2530,lourinhã,PT,771462107
+1324,Mcarthur Shiloh,2018-07-11,2770,paço de arcos,PT,814044870
+1325,Roswitha Amancio,2018-09-24,2735,agualva-cacém,PT,187162818
+1326,Isbel Micheals,2018-10-17,2715,pero pinheiro,PT,NULL
+1327,Horace Deprato,2005-01-11,1200,lisboa,PT,507868106
+1328,Brady Gosda,2005-06-03,2700,amadora,PT,374702724
+1329,Ralf Gestether,2004-03-22,2700,amadora,PT,624001673
+1330,Jean Mabee,2004-06-08,1250,lisboa,PT,NULL
+1331,Sigurd Measom,2006-09-21,1300,lisboa,PT,380576888
+1332,Fulke Tonai,2004-03-22,2710,sintra,PT,237530158
+1333,Quincey Coolahan,2008-09-15,1600,lisboa,PT,765606580
+1334,Daquan Maicus,2014-01-13,1250,lisboa,PT,831062155
+1335,Archibald Kalaf,2016-05-03,1200,lisboa,PT,NULL
+1336,Nicostrato Birdine,2017-06-22,1200,lisboa,PT,NULL
+1337,Florine Innerst,2017-12-07,1399,lisboa,PT,NULL
+1338,Candelario Pruess,2008-03-20,1400,lisboa,PT,343025205
+1339,Howard Staples,2008-03-28,1400,lisboa,PT,157050200
+1340,Corrine Smellie,2008-06-19,4470,maia,PT,784162850
+1341,Maitland Hinks,2008-10-07,1500,lisboa,PT,206071236
+1342,Alejandro Bruk,2013-09-20,1400,lisboa,PT,477457140
+1343,Adalberto Wisecup,2013-02-01,2690,.,PT,NULL
+1344,Francesco Depina,2004-03-22,2790,carnaxide,PT,382602516
+1345,Cebrian Byard,2004-03-22,1700,lisboa,PT,671506638
+1346,Lambert Helmick,2004-03-22,1700,lisboa,PT,304711014
+1347,Franco Colapinto,2004-03-22,1700,lisboa,PT,556783033
+1348,Lexa Cahoon,2004-03-22,1500,lisboa,PT,NULL
+1349,Frazier Overall,2004-08-12,1685,lisboa,PT,280883885
+1350,Nerissa Goldsmith,2007-04-18,1600,lisboa,PT,118644763
+1351,Tenisha Tsosie,2007-07-11,1700,lisboa,PT,NULL
+1352,Perla Winchell,2007-11-13,1600,lisboa,PT,272878347
+1353,Vico Rowman,2009-03-10,1700,lisboa,PT,353232137
+1354,Gazbiyya Tarella,2009-10-14,1600,lisboa,PT,730720677
+1355,Manuel Higney,2010-09-10,1685,famoes,PT,063121622
+1356,Roosevelt Dedeaux,2010-09-24,1700,lisboa,PT,824764131
+1357,Sandi Dargavel,2011-07-18,1750,.,PT,654817141
+1358,Kieran Mccolm,2011-09-12,1900,lisboa,PT,616155774
+1359,Mutasim Kreitz,2011-10-12,2565,torres vedras,PT,586225382
+1360,Mammie Volner,2012-06-14,1700,lisboa,PT,787451851
+1361,Marly Chalupa,2013-05-31,1100,lisboa,PT,023560232
+1362,Ebrahim Klaver,2013-06-13,2810,almada,PT,375471136
+1363,Jutta Mondloch,2014-07-01,1600,lisboa,PT,212814646
+1364,Rocky Terazes,2014-07-17,1600,lisboa,PT,804270380
+1365,Kyran Churchville,2014-07-24,4610,felgueiras,PT,876445718
+1366,Kumar Tenor,2015-03-11,1685,caneças,PT,321015564
+1367,Stephani Nabritt,2015-12-02,1600,lisboa,PT,165283236
+1368,Eduard Bloch,2010-02-09,2770,paço de arcos,PT,304464565
+1369,Porfirio Ginocchio,2004-03-22,2861,moita,PT,667566135
+1370,Hazel Luquin,2004-03-22,2605,casal de cambra,PT,126084373
+1371,Halle Westrum,2004-03-22,2665,mafra,PT,478012224
+1372,Jitinder Simmens,2004-03-22,2635,rio mouro,PT,414010172
+1373,Asma Coopper,2004-03-22,2740,porto salvo,PT,333606676
+1374,Arron Shifman,2004-03-22,2670,loures,PT,112472248
+1375,Fleuretta Gabehart,2004-04-22,1070,lisboa,PT,113050334
+1376,Manfredo Steinle,2004-09-23,2790,carnaxide,PT,361547840
+1377,Paulene Pexton,2005-05-06,2715,pero pinheiro,PT,078563253
+1378,Desire Mostert,2004-06-04,2685,lisboa,PT,NULL
+1379,Doretha Guttenberg,2004-05-12,2740,porto salvo,PT,657732308
+1380,Shekhar Poppel,2004-10-04,2670,loures,PT,463082742
+1381,Waldemar Meaden,2004-09-24,2705,sintra,PT,141776788
+1382,Idelle Reeser,2004-09-29,,mem martins,PT,006070333
+1383,Adriane Adger,2004-10-08,2745,massamá,PT,468830173
+1384,Tatiana Doyle,2004-10-28,2635,rio de mouro,PT,421314562
+1385,Montana Rung,2004-12-29,,lisboa,PT,858648638
+1386,Fabien Petross,2005-02-11,2580,carnota,PT,287432718
+1387,Gerhard Gumprecht,2005-05-12,2625,forte da casa,PT,NULL
+1388,Jenna Hummons,2005-09-20,2615,alverca do ribatejo,PT,NULL
+1389,Kishori Reagey,2005-10-19,2560,torres vedras,PT,481753331
+1390,Romolo Ra,2004-03-22,,sintra,PT,036780387
+1391,Gisella Heinzelman,2005-04-07,2710,sintra,PT,304855844
+1392,Blaise Trebbe,2005-10-24,2785,são domingos de rana,PT,428457315
+1393,Buster Ashbaugh,2005-10-28,2665,malveira,PT,148523124
+1394,Basim Bour,2005-11-16,2705,várzea de colares,PT,258447635
+1395,Isidora Matsushita,2005-12-05,2780,oeiras,PT,831013063
+1396,Hipolito Vostal,2006-01-19,2635,rio de mouro,PT,055357327
+1397,Brandie Langman,2006-02-06,2830,barreiro,PT,805256718
+1398,Elbert Micklos,2006-02-06,2700,amadora,PT,200623165
+1399,Rafaela Horman,2006-02-06,2640,mafra,PT,171887766
+1400,Wekesa Abrom,2006-02-20,2530,lourinhã,PT,083437826
+1401,Curro MacKay,2006-02-20,2736,cacem,PT,161268406
+1402,Ernesto Vuturo,2006-02-20,2560,a dos cunhados,PT,562636736
+1403,Missie Outlaw,2006-02-20,2745,massama,PT,NULL
+1404,Emiliano Dicaro,2006-02-20,2580,alenquer,PT,166118857
+1405,Chandrakanta Fuell,2006-03-10,2785,sao domingos de rana,PT,271106155
+1406,Swaran Chruch,2004-03-22,2815,charneca da caparica,PT,686051456
+1407,Mansoor Tagg,2006-05-09,2750,cascais,PT,428137868
+1408,Osmond Pfrogner,2006-05-18,2750,cascais,PT,083486353
+1409,Erlene Decock,2006-05-18,2750,cascais,PT,541067312
+1410,Hortense Rife,2006-05-23,2750,cascais,PT,473867133
+1411,Alma Deckard,2006-06-01,2625,póvoa de santa iria,PT,NULL
+1412,Henriette Balvanz,2006-06-22,2750,cascais,PT,656882213
+1413,Retha Ciskowski,2006-08-03,,lisboa,PT,827482650
+1414,Natasha Slack,2007-01-19,,estoril,PT,177650854
+1415,Domitilla Munyer,2007-02-08,2740,porto salvo,PT,NULL
+1416,Phil Appel,2007-03-09,2780,oeiras,PT,NULL
+1417,Gregory Schertz,2007-03-30,2740,porto salvo,PT,117470040
+1418,Lazaro Kaelker,2007-11-06,2620,povoa de santo adrião,PT,468660855
+1419,Carter Wyke,2007-11-15,2695,vale figueira-são joao talha,PT,406824826
+1420,Haydee Leri,2007-11-16,2530,lourinhã,PT,114005300
+1421,Dillan Ziebold,2007-12-04,2640,encarnação,PT,NULL
+1422,Gustave Tritt,2008-01-28,2645,alcabideche,PT,725253454
+1423,Lavern Locking,2008-03-14,2665,lisboa,PT,607847272
+1424,Charisse Poux,2008-05-02,2695,s. joão da talha,PT,518408065
+1425,Carmella Hemmings,2008-09-10,1700,lisboa,PT,461087303
+1426,Kvrbl Tripp,2008-10-03,2740,porto salvo,PT,631271805
+1427,Rigoberto Gojmerac,2009-01-07,2696,bobadela,PT,158080512
+1428,Ernie Hohaia,2009-06-05,2725,men martins,PT,278306852
+1429,Christopher Delossanto,2009-06-09,2785,s. domingos de rana,PT,725164701
+1430,Guinevere Mceachron,2009-08-18,2735,agualva - cacém,PT,000632661
+1431,Berneice Plume,2009-09-10,1749,lisboa,PT,132676616
+1432,Kristoffer Prinkey,2009-11-25,2820,charneca da caparica,PT,254822155
+1433,Clement Reeder,2010-01-26,2650,amadora,PT,300174665
+1434,Kegan Vainio,2010-02-12,2745,queluz,PT,061802616
+1435,Telly Niedermaier,2010-03-04,2790,carnaxide,PT,803204081
+1436,Erica Forsyth,2010-04-28,2685,bobadela,PT,360665123
+1437,Carry Hoffmeyer,2010-10-22,2660,santo antónio dos cavaleiros,PT,301016324
+1438,Muhsin Raimundo,2010-11-22,2790,carnaxide,PT,625615156
+1439,Macario Fauteux,2011-03-31,2671,loures,PT,NULL
+1440,Marcelline Kough,2004-03-22,1170,lisboa,PT,111450265
+1441,Justin Roethel,2010-10-29,2760,caxias,PT,404448263
+1442,Trever Pidgeon,2010-12-15,2809,cova da piedade,PT,777205411
+1443,Kandice Hoen,2011-04-12,1849,"lisboa ",PT,684576358
+1444,Meryl Morand,2011-05-10,2710,sintra,PT,714658453
+1445,Jagannath Vining,2016-02-10,2630,arruda dos vinhos,PT,NULL
+1446,Seeta Klan,2004-03-22,,lisboa,PT,750038856
+1447,Kerena Spruance,2008-07-14,2790,carnaxide,PT,272147735
+1448,Zulekha Truelove,2004-03-22,2670,loures,PT,164361373
+1449,Linnie Helmert,2004-03-22,2670,loures,PT,NULL
+1450,Michelangelo Ramlall,2004-03-22,2745,belas,PT,NULL
+1451,Frederique Withee,2004-08-24,2740,porto salvo,PT,NULL
+1452,Aaron Dughi,2004-06-25,2685,sacavem,PT,NULL
+1453,Fortune Guthmiller,2005-04-01,2951,quinta do anjo,PT,632374600
+1454,Hanaa Morger,2005-04-01,2825,caparica,PT,236336730
+1455,Khaliq Zolla,2006-07-28,2610,amadora,PT,723604387
+1456,Giambattista Lalinde,2006-09-15,2530,lourinhã,PT,072313525
+1457,Brendan Heverin,2006-09-27,2714,sintra,PT,615117868
+1458,Phyllida Jory,2006-10-10,2750,cascais,PT,441315340
+1459,Cicero Paywa,2006-10-13,2580,"torres vedras ",PT,568733844
+1460,Joselyn Womeldorff,2006-10-25,2620,olival de basto,PT,034584050
+1461,Reinhard Stassen,2006-12-27,2655,ericeira,PT,244878141
+1462,Firoz Weyhrauch,2007-02-06,2635,rio de mouro,PT,050806446
+1463,Nero Markevich,2007-04-20,2600,castanheira do ribatejo,PT,NULL
+1464,Kalyani Gianunzio,2007-06-27,2700,amadora,PT,001846832
+1465,Carole Duverney,2007-06-27,2725,mem martins,PT,NULL
+1466,Cherish Fyke,2007-07-03,2750,cascais,PT,732264155
+1467,Sixto Milfort,2007-09-13,2780,oeiras,PT,566831442
+1468,Crofton Rands,2004-08-25,7100,estremoz,PT,NULL
+1469,Cornell Micthell,2004-11-09,7000,evora,PT,NULL
+1470,Celeste Piirto,2005-05-13,7050,montemor o novo,PT,NULL
+1471,Keely Salaza,2005-06-01,7000,évora,PT,665200150
+1472,Britany Pontes,2005-06-27,7150,borba,PT,NULL
+1473,Angelique Dine,2006-09-21,7000,evora,PT,202825843
+1474,Keven Marsolais,2006-10-02,7150,borba,PT,NULL
+1475,Micah Suma,2007-04-16,7005,évora,PT,NULL
+1476,Aaliyah Combs,2008-03-20,7005,evora,PT,067277461
+1477,Juliette Dardis,2008-05-02,7160,vila viçosa,PT,NULL
+1478,Michela Henningson,2010-02-04,7005,evora,PT,115141108
+1479,Lorenza Moellman,2011-01-27,7100,estremoz,PT,NULL
+1480,Jimi Peed,2011-02-25,7350,elvas,PT,NULL
+1481,Gregory Ballew,2017-11-20,7080,vendas novas,PT,687543624
+1482,Everette Senese,2004-11-05,7220,portel,PT,NULL
+1483,Peers Tookes,2004-11-05,7200,reguengos de monsaraz,PT,NULL
+1484,Alfred Mirkovich,2004-11-05,7960,vidigueira,PT,NULL
+1485,Yusuf Rathmanner,2004-11-09,7830,vila nova de s. bento,PT,NULL
+1486,Rafaela Fougere,2005-02-11,2135,samora correia,PT,746060508
+1487,Estevan Pelton,2006-01-11,7780,castro verde,PT,NULL
+1488,Renate Holliday,2004-03-22,7520,sines,PT,NULL
+1489,Bahiga Akard,2004-03-22,2135,samora correia,PT,688331113
+1490,Andra Mellefont,2004-03-22,7540,santiago do cacem,PT,NULL
+1491,Suse Canida,2004-03-22,7350,elvas,PT,NULL
+1492,Nonie Abedelah,2004-03-22,2594,sobral de montagraço,PT,323124642
+1493,Giacinta Salgado,2004-03-22,7800,beja,PT,257567330
+1494,Florinda Jody,2008-06-03,7800,beja,PT,NULL
+1495,Sumayya Koffler,2013-08-20,7830,serpa,PT,358064322
+1496,Florencio Hector,2013-10-30,7600,aljustrel,PT,NULL
+1497,Marje Corkins,2014-08-12,7830,serpa,PT,NULL
+1498,Rahsaan Wormack,2015-07-27,7780,castro verde,PT,NULL
+1499,Cinzia Thurmond,2016-07-13,7630,são teotónio,PT,NULL
+1500,Lalit Ribble,2017-05-19,7860,moura,PT,NULL
+1501,Lavinia Lammon,2017-08-02,7800,beja,PT,NULL
+1502,Amethyst Bouwens,2017-08-29,7800,beja,PT,NULL
+1503,Poncio Chute,2018-07-19,7700,almodôvar,PT,NULL
+1504,Alisha Russel,2018-11-19,7670,ourique,PT,NULL
+1505,Skylar Lanois,2019-06-12,7600,messejana,PT,NULL
+1506,Austin Ondersma,2004-03-22,,albufeira,PT,337125043
+1507,Rafael Devora,2004-03-22,8100,loulé,PT,315070432
+1508,Iago Fidsky,2004-03-22,8100,loulé,PT,541803180
+1509,Adamina Abuel,2004-03-22,8200,albufeira,PT,NULL
+1510,Myrna Dasch,2004-03-22,8100,loule,PT,NULL
+1511,Dayo Kapur,2004-03-22,8800,tavira,PT,NULL
+1512,Fern Strausner,2005-01-10,8135,almancil,PT,526236806
+1513,Lola Sporich,2004-09-22,8100,loulé,PT,201045317
+1514,Blair Fellers,2004-11-05,8135,almancil,PT,281423466
+1515,Sethunya Suddith,2004-11-05,8600,lagos,PT,708586050
+1516,Dell Cordona,2004-11-05,,faro,PT,242333081
+1517,Rexanne Singo,2004-11-05,,loulé,PT,421210807
+1518,Derek Mcglone,2004-11-05,8501,portimão,PT,NULL
+1519,Annelie Mcconathy,2004-11-09,8000,estoi,PT,416331572
+1520,Keren Villalovos,2005-01-20,,quarteira,PT,683231782
+1521,Kristeen Calixte,2005-02-11,8500,portimão,PT,301086476
+1522,Shukriyya Scafuri,2005-02-14,8500,alvor,PT,861741354
+1523,Marcial Quest,2005-03-23,,lagos,PT,076252742
+1524,Patricia Zevenbergen,2005-05-05,8135,almancil,PT,177608602
+1525,Merry Ketteringham,2005-05-05,8100,loulé,PT,NULL
+1526,Llewellyn Unterkofler,2005-05-19,8400,lagoa,PT,018547346
+1527,Shelagh Chiarelli,2005-06-01,8125,vilamoura,PT,866008882
+1528,Lacy Mota,2005-06-01,8100,loulé,PT,687143511
+1529,Marylin Eisenbrandt,2005-06-29,8600,lagos,PT,371677002
+1530,Melia Manne,2005-07-08,8400,porches,PT,215717868
+1531,Ananth Macinnis,2005-07-27,4135,almancil,PT,358717807
+1532,Gernot Mcguinnes,2005-11-16,8400,lagoa,PT,NULL
+1533,Federigo Nam,2005-11-23,8035,almancil,PT,540034180
+1534,Silvestro Schlipf,2006-03-09,,olhão,PT,064737210
+1535,Davon Bonetti,2006-03-15,8000,faro,PT,615311857
+1536,Humphrey Lychwala,2006-03-15,8500,portimao,PT,724121722
+1537,Nino Luzuriaga,2006-03-15,8005,faro,PT,NULL
+1538,Deniece Rubenstein,2006-05-03,8500,portimao,PT,382508287
+1539,Toinette Walby,2006-06-08,8200,albufeira,PT,042710855
+1540,Ottavio Torstrick,2004-03-22,8100,loule,PT,NULL
+1541,Mimi Lorentz,2006-11-28,8100,loulé,PT,NULL
+1542,Kristopher Tilsley,2007-03-30,8000,faro,PT,NULL
+1543,Jarrell Borgeson,2007-05-16,8400,porches,PT,324733748
+1544,Diamond Kopis,2007-05-18,8500,portimao,PT,382255718
+1545,Mireia Seemer,2007-07-02,8700,olhão,PT,842022756
+1546,Gregoire Vives,2007-07-02,8601,lagos,PT,NULL
+1547,Elmo Hele,2007-07-13,8500,portimao,PT,320660428
+1548,Jessi Courtemanche,2008-07-21,8000,faro,PT,851756807
+1549,Chaya Prochak,2008-11-06,8400,lagoa,PT,276318186
+1550,Johar Portor,2012-11-13,8006,.,PT,NULL
+1551,Kermit Rengel,2013-03-26,8100,NULL,PT,NULL
+1552,Wolf Farid,2014-10-24,7630,s. teotónio,PT,NULL
+1553,Norah Klie,2015-07-27,8100,loulé,PT,NULL
+1554,Ornella Heberlein,2015-07-28,8005,faro,PT,NULL
+1555,Vivyan Leeker,2015-07-28,8400,lagoa,PT,758228770
+1556,Grete Jeannette,2016-09-09,8100,loulé,PT,NULL
+1557,Gall Vannest,2016-09-30,8005,faro,PT,NULL
+1558,Casimer Gentery,2017-05-25,8375,s.b. messines,PT,NULL
+1559,Shon Lesiak,2017-07-05,8950,vila real de santo antónio,PT,604542058
+1560,Tamala Gerst,2017-07-05,8900,vila real de santo antónio,PT,148325762
+1561,Kali Denslow,2018-01-26,8500,portimão,PT,NULL
+1562,Thierry Greuel,2018-07-19,8800,tavira,PT,NULL
+1563,Mansur Ruyter,2018-10-22,8500,portimão,PT,NULL
+1564,Elsdon Kha,2018-10-29,8400,lagoa,PT,NULL
+1565,Kshitij Golan,2006-12-11,,.,FI,NULL
+1566,Natanaele Looby,2007-10-23,,kankaanpaa,FI,NULL
+1567,Malia Monteleone,2008-02-22,,hirsilä,FI,316173218
+1568,Kaspar Gausman,2008-03-12,,kuopio,FI,NULL
+1569,Sergio Picozzi,2008-03-31,,"jyaskyla ",FI,NULL
+1570,Pierce Krikorian,2009-01-23,,turku,FI,NULL
+1571,Lucinde Posthuma,2014-11-24,,lappeenranta,FI,NULL
+1572,Hildred Tepley,2014-11-24,,lahti,FI,NULL
+1573,Pennie Feiertag,2014-11-25,,laskut,FI,NULL
+1574,Valentin Bevans,2015-04-21,,lappenranta,FI,NULL
+1575,Ibtisam Laffitte,2015-04-20,,orivesi,FI,376720441
+1576,Remi Fus,2015-09-22,,finland,FI,NULL
+1577,Will Houghtelling,2015-11-12,,vantaa,FI,NULL
+1578,Rike Mcdermid,2016-03-17,,kotka,FI,NULL
+1579,Lore Conrad,2016-03-18,,espoo,FI,131027643
+1580,Kaleb Aspegren,2016-03-21,,NULL,FI,NULL
+1581,Nevio Mckeithan,2016-11-14,,turku,FI,NULL
+1582,Madhu Easker,2017-05-30,,hyvinkää,FI,NULL
+1583,Linda Scheib,2017-09-18,,jyväskyla,FI,NULL
+1584,Nolan Ethier,2017-09-18,,sipoo,FI,NULL
+1585,Serafino Hill,2018-09-19,,helsinki,FI,NULL
+1586,Driscoll Mcgunnigle,2018-10-24,,finland,FI,056620408
+1587,Aaliyah Gradias,2018-12-21,,imatra,FI,538070748
+1588,Adelle Fullerton,2019-06-12,,taavetti,FI,445844014
+1589,Alannah Cake,2019-09-10,,finland,FI,830270177
+1590,Maryjane Mollo,2011-09-27,,akureyri,IS,252342520
+1591,Octavia Budesa,2013-11-15,,"eschen ",LI,644317883
+1592,Iqbal Gans,2004-09-20,,huelva,ES,NULL
+1593,Trenton Hurtgen,2004-03-22,,tremañes,ES,641611834
+1594,Luise Lopresto,2004-03-22,,"sevilla ",ES,NULL
+1595,Barclay Sincebaugh,2004-03-22,,castellon,ES,NULL
+1596,Faraj Schnelle,2004-03-22,,zaragoza,ES,205153014
+1597,Ginevra Klavon,2004-03-22,,montilla (cordoba),ES,723073046
+1598,Tammi Wilhite,2004-03-22,,caceres,ES,NULL
+1599,Finis Townsley,2004-03-22,,huelva,ES,NULL
+1600,Jennie Dunning,2004-03-22,,madrid,ES,NULL
+1601,Fakhri Willes,2004-03-22,,sevilla,ES,NULL
+1602,Kizzy Vanosdol,2004-03-22,,plasencia,ES,NULL
+1603,Jeffrey Cavanagh,2004-03-22,,perillo,ES,NULL
+1604,Danial Hofer,2004-03-22,,pasajes san pedro,ES,378574657
+1605,Jerad Scafuto,2004-03-22,,lugo,ES,NULL
+1606,Vasant Shaddox,2004-03-22,," benavente (zamora)",ES,NULL
+1607,Suha Winkenwerder,2004-03-22,,santiago de compostela,ES,NULL
+1608,Surendra Avant,2004-03-22,,(cordoba),ES,NULL
+1609,Eberhard Harral,2004-03-22,,santiago de compostela (la coruna),ES,216610426
+1610,Maryjo Monden,2004-03-22,,fuensalida / toledo,ES,NULL
+1611,Julienne Bruna,2004-03-22,,pantoja / toledo,ES,NULL
+1612,Geraldo Schiffman,2004-03-22,,pontevedra,ES,622078073
+1613,Davion Ancel,2004-03-22,,san ciprian de vinas,ES,NULL
+1614,Bryson Dotterer,2004-03-22,,madrid,ES,NULL
+1615,Lita Hamric,2004-03-22,,alcala la real (jaen),ES,NULL
+1616,Sulaiman Stefanick,2004-03-22,,zaragoza,ES,NULL
+1617,Raelene Raychard,2004-03-22,,merida - badajoz,ES,NULL
+1618,Mahavir Montanez,2004-03-22,,barcelona,ES,702043301
+1619,Sieghard Donhoe,2004-03-22,,burgos,ES,NULL
+1620,Randall Kembley,2004-03-22,,barcelona,ES,278417716
+1621,Armond Kordowski,2004-03-22,,barcelona,ES,NULL
+1622,Celino Tabion,2004-03-22,,"barcelona ",ES,013235813
+1623,Stefano Losh,2004-03-22,,cambre,ES,564876455
+1624,Roswitha Bomer,2004-03-22,,miguelturra - ciudad real,ES,NULL
+1625,Sahar Kisler,2004-03-22,,valencia,ES,NULL
+1626,Blake Klimczyk,2004-03-22,,ciudad real,ES,687682106
+1627,Ally Filippo,2004-03-22,,arteixo,ES,NULL
+1628,Fleur Euber,2004-03-22,,ciudade real,ES,NULL
+1629,Read Shahbaz,2004-03-22,,gijón,ES,820771272
+1630,Arno Neace,2004-03-22,,madrid,ES,NULL
+1631,Juan Heffler,2004-03-22,,valencia,ES,NULL
+1632,Steph Geris,2004-03-22,,valencia,ES,NULL
+1633,Perry Sarro,2004-03-22,,valencia,ES,NULL
+1634,Adolf Spira,2004-03-22,,valencia,ES,NULL
+1635,Cayla Brunsden,2004-03-22,,valencia,ES,NULL
+1636,Mahavir Schadel,2004-03-22,,vitoria,ES,NULL
+1637,Baldric Hurston,2004-03-22,,arteixo,ES,571840443
+1638,Jemma Terrel,2004-03-22,,huelva,ES,NULL
+1639,Sian Schussler,2004-03-22,,sevilla,ES,123118444
+1640,Satish Kurr,2004-03-22,,sevilla,ES,802142387
+1641,Clementina Cotilla,2004-03-22,,chiclana (cádiz),ES,NULL
+1642,Lovie Owen,2004-03-22,,malaga,ES,048361466
+1643,Stoney Bates,2004-03-22,,mollerussa,ES,NULL
+1644,Francisco Cairo,2004-05-13,,castellon,ES,NULL
+1645,Felix Nozicka,2004-05-13,,salamanca,ES,771320852
+1646,Espiridion Soverns,2004-05-17,,palma de mallorca,ES,443010882
+1647,Jill Georgopoulos,2004-05-13,,huelva,ES,705533425
+1648,Caren Quispe,2004-05-14,,mataro,ES,520843666
+1649,Chet Absher,2004-05-14,,porriño,ES,NULL
+1650,Geronimo Lafarga,2004-05-14,,elche,ES,504880238
+1651,Doloris Spaar,2004-10-13,,cordoba,ES,NULL
+1652,Parsifal Mittelstedt,2004-09-17,,algecinas,ES,NULL
+1653,Isidor Lader,2004-05-27,,requena,ES,NULL
+1654,Ludie Burling,2004-05-14,,las palmas de gran canaria,ES,267525548
+1655,Vikki Cockett,2004-05-18,,padrón,ES,NULL
+1656,Morris Strebe,2004-05-18,,boiro,ES,873611047
+1657,Scarlett Specchio,2004-05-26,,barcelona,ES,608868761
+1658,Jordanne Yarish,2004-06-02,,elche,ES,NULL
+1659,Madoline Sully,2004-07-01,,salamanca,ES,NULL
+1660,Percival Aurora,2004-06-30,,sevilla,ES,NULL
+1661,Gamila Buccieri,2004-06-17,,torre del campo,ES,NULL
+1662,Jackie Schmauder,2004-06-16,,albacete,ES,NULL
+1663,Clarine Whetstone,2004-06-14,,barcelona,ES,NULL
+1664,Niko Stoud,2004-07-01,,jaen,ES,NULL
+1665,Mellissa Larve,2004-08-05,,córdoba,ES,NULL
+1666,Raymundo Crognale,2004-07-01,,palma mallorca,ES,730874765
+1667,Joretta Mazariego,2004-07-01,,sevilla,ES,NULL
+1668,Arlette Doughtie,2004-07-01,,vic,ES,723258606
+1669,Vivian Peper,2004-07-08,,chiclana de la frontera-cadiz,ES,NULL
+1670,Luitgard Gimse,2004-07-07,,cadiz,ES,NULL
+1671,Harish Angelino,2004-07-08,,cádiz,ES,NULL
+1672,Butch Duttinger,2004-07-08,,zafra (badajoz),ES,NULL
+1673,Craig Latin,2004-07-08,,sevilla,ES,NULL
+1674,Merideth Attaway,2004-09-30,,córdoba,ES,NULL
+1675,Antonella Sladick,2004-09-21,,nueva carteya - cordoba,ES,NULL
+1676,Randal Stichter,2004-07-08,,sevilla,ES,NULL
+1677,Edda Schember,2004-07-09,,torre pacheco,ES,NULL
+1678,Lilac Shepley,2004-07-13,,pontevedra,ES,NULL
+1679,Corina Donelson,2004-07-13,,la selva del campo,ES,452855665
+1680,Hipolito Surdam,2004-09-23,,jaen,ES,NULL
+1681,Javier Riccio,2004-07-26,,sevilla,ES,100178365
+1682,Rosetta Buttrel,2004-07-29,,fuenlabrada,ES,NULL
+1683,Dayton Dupass,2004-08-05,,málaga,ES,NULL
+1684,Emery Connelley,2005-06-29,,portet sur garonne,FR,606871148
+1685,Judge Descoteau,2005-07-20,,billere cedex,FR,586532313
+1686,Eberardo Stumer,2006-03-30,,gradignan,FR,712871618
+1687,Rickie Sandifer,2006-04-11,,cahors,FR,850783867
+1688,Gaye Trinidad,2006-04-11,,marmande,FR,501041387
+1689,Venceslas Bessone,2006-04-13,,pau,FR,241410832
+1690,Sharif Vizard,2006-06-22,,castres,FR,251332715
+1691,Demetria Goeing,2006-07-17,,castelsarrasin,FR,NULL
+1692,Bijoy Stum,2006-07-18,,perigueux,FR,466017373
+1693,Fihr Kuilan,2006-07-18,,bergerac,FR,853656624
+1694,Carolee Tamez,2006-09-14,,jatxou,FR,NULL
+1695,Suhail Mixon,2006-09-18,,issoire,FR,NULL
+1696,Hellen Crummedyo,2007-01-29,,thiers,FR,048833327
+1697,Urbain Katcsmorak,2016-05-03,,somain,FR,NULL
+1698,Fanny Offenbacker,2004-03-22,,limoges cedex 09,FR,266717664
+1699,Keegan McKenzie,2007-02-06,,objat,FR,726160316
+1700,Phillipa Castellanos,2007-03-05,,perpignan,FR,736755112
+1701,Pearlie Denapoli,2007-03-06,,ales,FR,580820568
+1702,Candelaria Levin,2007-05-10,,la bahtie,FR,861346283
+1703,Kishori Pitfield,2009-04-16,,quetigny,FR,NULL
+1704,Sharyn Kuban,2015-04-30,,la madeleine,FR,647354587
+1705,Idella Dancoes,2015-08-24,,le plessis-bouchard,FR,387313640
+1706,Sydney Pellom,2015-12-15,,lagny sur marne,FR,371566313
+1707,Mandi Madry,2015-12-15,,saint-priest,FR,128045351
+1708,Elois Rodgers,2015-12-15,,nantes,FR,NULL
+1709,Harish Nealon,2015-12-22,,genas cedex,FR,045005344
+1710,Fuad Schweinsberg,2016-04-05,,chartres,FR,532703432
+1711,Raul Kirsopp,2016-04-05,,orleans,FR,NULL
+1712,Timothee Richburg,2016-05-12,,sens,FR,NULL
+1713,Birdie Clammer,2016-05-19,,gannat,FR,NULL
+1714,Christian Kuhlmann,2016-05-31,,brignais,FR,NULL
+1715,Sethunya Hiltner,2016-06-13,,combs la ville,FR,NULL
+1716,Anita Kiili,2016-06-13,,auxerre,FR,NULL
+1717,Earline Seminara,2016-06-13,,amiens,FR,782538085
+1718,Telly Fillyaw,2016-07-11,,florange,FR,NULL
+1719,Elicia Boissonneault,2016-08-01,,saint-soupplets,FR,NULL
+1720,Miracle Galloway,2016-08-30,,pierre bénité,FR,NULL
+1721,Tyrel Jarvinen,2016-09-07,,vienne,FR,NULL
+1722,Olivier Formichelli,2016-09-13,,saint martin d´hères,FR,045485618
+1723,Hafiz Congress,2004-03-22,,mundolsheim,FR,847871873
+1724,Sashi Purves,2016-09-29,,colomiers,FR,NULL
+1725,Nikki Haulk,2016-09-29,,bornel,FR,NULL
+1726,Shani Guerrido,2004-03-22,,auxerre,FR,746511037
+1727,Eulalie Panakos,2004-03-22,,bordeaux,FR,184446220
+1728,Lalo Weavil,2016-10-10,,vingrau,FR,203342234
+1729,Madeleine Lavatch,2016-10-24,,cucq,FR,071528405
+1730,Bruno Shupe,2016-11-18,,malataverne,FR,300481380
+1731,Rike Morishita,2016-11-18,,genas cedex,FR,637007261
+1732,Opaline Siwik,2017-01-04,,lorette,FR,NULL
+1733,Coty Orzell,2017-02-16,,clermont ferrand,FR,NULL
+1734,Stephania Harbach,2017-02-16,,orange,FR,148784311
+1735,Tina Stueck,2017-03-20,,saint - ouen - l´aumone,FR,NULL
+1736,Gaetana Rosbough,2004-03-22,,pouzauges,FR,758362448
+1737,Janet Henion,2017-04-04,,paris,FR,NULL
+1738,Baptist Altmark,2004-03-22,,borderes sur echez,FR,064421017
+1739,Ibraheem Rohrwild,2017-04-07,,sainte sigolène,FR,NULL
+1740,Chadd Burba,2017-04-19,,chenove,FR,535030874
+1741,Silke Monge,2016-03-11,,amberieu en bugey,FR,NULL
+1742,Crocetta Petty,2004-03-22,,le chambon-sur-lignon,FR,706672757
+1743,Nathanial Holcomb,2004-03-22,,paris,FR,428061876
+1744,Shahira Layton,2004-03-22,,perignat es allier,FR,727081301
+1745,Jame Stakes,2004-03-22,,la chambre,FR,574313321
+1746,Alfreda Villalobos,2006-12-15,,bordeaux,FR,352758844
+1747,Jagjit Galinol,2006-12-22,,charleville mezieres,FR,644707624
+1748,Raymund Mezzanotte,2007-07-26,,saint sauveur,FR,483082611
+1749,Aleah Kamerling,2007-11-21,,limoges,FR,NULL
+1750,Anunciacion Loud,2007-11-23,,boulazac,FR,173042226
+1751,Fakhriyya Wydo,2016-02-24,,chambly,FR,757605163
+1752,Xena Vitera,2007-11-27,,chelles,FR,554211663
+1753,Jacobo Munyer,2007-11-27,,marseille,FR,NULL
+1754,Patrizio Calcara,2007-12-12,,valence,FR,304320350
+1755,Tanja Vignola,2007-12-12,,domerat,FR,NULL
+1756,Maryam Tuckey,2008-01-09,,auxerre,FR,220467678
+1757,Dana Cregger,2008-04-02,,bordeaux,FR,NULL
+1758,Wilf Branen,2008-07-16,,tarbes,FR,542140151
+1759,Kuno Amirian,2008-10-16,,clermont ferrand cedex 1,FR,375254100
+1760,Sherley Baugh,2008-10-16,,lugrin,FR,NULL
+1761,Adelia Bungay,2009-08-06,,saint herblain cedex,FR,605751267
+1762,Remigio Villiard,2009-09-22,,pralong,FR,NULL
+1763,Willa Carine,2009-11-19,,bonneuil sur marne cedex,FR,663504055
+1764,Elvera Rovell,2010-04-13,,toulon,FR,715478071
+1765,Muhammed Costine,2010-04-13,,lyon,FR,740813886
+1766,Lucile Lestor,2010-04-14,,beaucaire,FR,NULL
+1767,Tyrrell Menser,2010-05-05,,nice,FR,668165515
+1768,Jolanta Locus,2010-07-13,,erstein,FR,077160041
+1769,Brandan Infantino,2011-09-14,,saint sauveur,FR,NULL
+1770,Anissa Veitz,2012-03-14,,montpellier cedex 02,FR,520415345
+1771,Jamaal Simple,2012-09-12,,chantillon,FR,832814778
+1772,Maybell Helie,2012-10-17,,marin,FR,614776234
+1773,Milan Reemer,2012-10-31,,poitiers,FR,685881607
+1774,Floyd Worosz,2012-11-09,,malataverne,FR,406467345
+1775,Lacie Wiersteiner,2012-12-21,,luzy sur marne,FR,NULL
+1776,Franchesca Wunderle,2013-10-18,,penchard,FR,NULL
+1777,Leigh Purves,2013-10-23,,marne la vallée cedex 3,FR,NULL
+1778,Jairo Pettyjohn,2014-01-30,,etouy,FR,NULL
+1779,Mirta Kofler,2014-02-27,,deuil-la-barre,FR,208401841
+1780,Dorotea Birely,2014-07-17,,rungis,FR,NULL
+1781,Girish Mitter,2014-11-21,,ales,FR,NULL
+1782,Ines Lapsley,2015-03-27,,six fours les plages,FR,NULL
+1783,Lakshman Lannigan,2015-09-11,,lagny sur marne,FR,NULL
+1784,Philippe Neris,2015-11-05,,wasselonne,FR,NULL
+1785,Vincenza Bonnette,2015-12-09,,nantes,FR,NULL
+1786,Susanita Poncio,2004-03-22,,saeby,DK,186757481
+1787,Cleopatra Guiffre,2004-03-22,,faaborg,DK,167536173
+1788,Reba Leischner,2004-03-22,,gadbjerg,DK,257578757
+1789,Elpidio Hultquist,2004-03-22,,hillerod,DK,NULL
+1790,Nova Kleyman,2004-03-22,,vejle ost,DK,NULL
+1791,Robert Dutch,2004-03-22,,middelfart,DK,177831105
+1792,Kate Ulberg,2004-03-22,," silkeborg",DK,NULL
+1793,Pietrina Sidman,2004-03-22,,esbjerg n,DK,331404845
+1794,Iris Seegar,2004-03-22,,brorup,DK,NULL
+1795,Myron Ramsaroop,2004-03-22,,vibor 6,DK,117806260
+1796,Marcelo Monday,2004-03-22,,holbaek,DK,NULL
+1797,Moira Peller,2004-03-22,,maribo,DK,NULL
+1798,Susan Offenbacker,2004-03-22,,gjern,DK,482537823
+1799,Vmctor Tonzi,2004-03-22,,grenaa,DK,NULL
+1800,Eliezer Rondinelli,2004-03-22,,hjorring,DK,NULL
+1801,Jaye Lopera,2004-03-22,,esbjerg,DK,836720814
+1802,Ceara Lewczyk,2004-03-22,,.,DK,524514851
+1803,Jeraldine Weyrauch,2005-03-31,,roskild,DK,NULL
+1804,Santiago Guildford,2006-09-27,,jystrup,DK,NULL
+1805,Kristeen Fresh,2006-11-03,,havdrup,DK,NULL
+1806,Johan Bawany,2006-11-09,,kolding,DK,731478136
+1807,Jerry Helfenbein,2006-11-15,,.,DK,NULL
+1808,Chrysanta Oesterle,2006-11-16,,odense,DK,NULL
+1809,Leeroy Lowd,2007-04-04,,denmark,DK,684383206
+1810,Zona Kimbrough,2007-06-01,,hellrup,DK,127283848
+1811,Abbey Lovato,2007-06-14,,hedehusene,DK,704562536
+1812,Les Daisy,2007-10-08,,esbjerg,DK,NULL
+1813,Jalal Strevell,2007-11-09,,koge,DK,NULL
+1814,Shakir Sonny,2007-11-19,,randers,DK,NULL
+1815,Matilda Delker,2007-11-21,,vejle,DK,NULL
+1816,Douglas Moye,2007-12-04,,naestved,DK,560157188
+1817,Annabella Darjean,2008-03-10,,randers sv,DK,531337075
+1818,Donnell Batalona,2009-09-29,,ikast,DK,745700228
+1819,Helmfrid Stien,2009-12-11,,gudbjerg,DK,NULL
+1820,Deforrest Parrish,2009-12-15,,randers,DK,NULL
+1821,Juan Blinks,2009-12-16,,helsingor,DK,NULL
+1822,Garett Straughn,2010-02-17,,helsingor,DK,NULL
+1823,Jamison Wolchesky,2010-02-17,,odense,DK,NULL
+1824,Georgene Welechenko,2010-03-01,,arden,DK,NULL
+1825,Raoul Kuchta,2010-03-01,,brovst,DK,NULL
+1826,Misti Kantarian,2010-11-19,,abyhoj,DK,NULL
+1827,Shelley Nicolozakes,2010-12-20,,ikast,DK,245284780
+1828,Elodie Wykes,2011-06-21,,.,DK,NULL
+1829,Prasad Wubbena,2011-10-31,,norre alsvev,DK,NULL
+1830,Lafayette Ballowe,2012-11-13,,lejre,DK,NULL
+1831,Tobias Wackenheim,2013-05-08,," hjørring",DK,NULL
+1832,Brandy Padron,2013-07-01,,nastved,DK,NULL
+1833,Willene Sweeney,2014-01-28,,charlottenlund,DK,854384761
+1834,Mart Vergeer,2014-11-14,,korsor,DK,NULL
+1835,Corentin Mizwicki,2015-02-03,,bronderslev,DK,NULL
+1836,Niki Dorne,2015-11-18,,ikast,DK,NULL
+1837,Gabir Debona,2016-04-18,,kvistgaard,DK,NULL
+1838,Kennard Wardon,2017-10-02,,NULL,DK,NULL
+1839,Jacqueline Roseborough,2018-03-01,,slagelse,DK,NULL
+1840,Trixie Delosh,2018-08-29,,vejle,DK,NULL
+1841,Ashlie Braucht,2019-04-30,,odense,DK,617322155
+1842,Moses Geimer,2019-05-29,,denmark,DK,NULL
+1843,Edweena Frock,2019-05-30,,hundested,DK,NULL
+1844,Donnell Fillare,2004-03-22,,trondheim,NO,742477653
+1845,Kyle Brodin,2005-12-07,,sunndalsora,NO,008078542
+1846,Fawziyya Andere,2006-01-17,,skedsmokorset,NO,NULL
+1847,Trever Vauter,2006-08-17,N,norway,NO,174253781
+1848,Leesa Bigalk,2007-11-14,,kristiansand s,NO,181056060
+1849,Saxon Rickerl,2007-11-14,,kristiansand s,NO,631536478
+1850,Lennon Branscum,2004-03-22,,halden,NO,617723768
+1851,Battista Lenton,2007-11-27,,gjovic,NO,681025043
+1852,Timoteo Tippen,2007-11-27,,oslo,NO,861242080
+1853,Gabir Baloy,2009-05-19,,kristiansand,NO,NULL
+1854,Lumusi Grof,2011-10-28,,ski,NO,065024343
+1855,Demario Akard,2011-11-23,,bergen,NO,NULL
+1856,Koby Gullett,2011-12-13,,sandnes,NO,NULL
+1857,Laverna Crocker,2012-09-06,,alen,NO,NULL
+1858,Kasey Blank,2013-06-12,,NULL,NO,NULL
+1859,Allegria Kirschman,2014-06-20,,kristiansand s,NO,NULL
+1860,Kane Kaplin,2019-05-08,," måndelen",NO,884007474
+1861,Florianne Castro,2019-07-25,,norway,NO,143352208
+1862,Darrick Overlie,2004-03-22,,bastad,SE,671752870
+1863,Vasco Carrecter,2005-09-23,,orsa,SE,784357658
+1864,Jeronimo Adessa,2005-09-23,,.,SE,703014704
+1865,Valarie Matheu,2005-11-08,,sodertalie,SE,411245871
+1866,Lukas Bradica,2005-11-09,,tierp,SE,886331317
+1867,Jacquelin Siebel,2004-03-22,,bastad,SE,062871702
+1868,Dedra Novielli,2005-11-09,,hallstavik,SE,142728401
+1869,Gottfried Nagler,2005-11-28,,broby,SE,621274103
+1870,Ignatius Turla,2005-12-21,,östersund,SE,NULL
+1871,Kasey Stoutamyer,2006-02-14,,mjolby,SE,573766302
+1872,Upton Saephan,2006-02-16,,västeras,SE,564128764
+1873,Shevon Osayande,2006-02-16,,skinnskattebe,SE,021371502
+1874,Cindy Edeker,2007-12-21,,helsingborg,SE,800453450
+1875,Inga Swedeen,2008-05-13,SE,norsborg,SE,447513266
+1876,Vanesa Sedtal,2012-02-27,,gothenburg,SE,710553530
+1877,Sherman Grajales,2013-09-11,S,hisings backa,SE,NULL
+1878,Uthman Vuillemot,2014-02-28,,strangnas,SE,NULL
+1879,Brittanie Anzai,2014-05-15,,boras,SE,NULL
+1880,Dina Daniel,2014-05-29,,varberg,SE,NULL
+1881,Eugene Soroka,2014-06-03,,motala,SE,NULL
+1882,Kandice Shillings,2014-11-18,,langhem,SE,NULL
+1883,Candida Duemmel,2015-09-14,,hagersten,SE,NULL
+1884,Ayishah Nam,2015-09-25,,helsinborg,SE,NULL
+1885,Algar Sabio,2015-10-16,,askim,SE,NULL
+1886,Firmino Roginson,2015-10-20,,skå,SE,NULL
+1887,Verlie Natt,2015-11-04,,stockholm,SE,863486082
+1888,Ethelene Phillippy,2015-11-17,,olofström,SE,NULL
+1889,Hollie Mildred,2015-11-25,,NULL,SE,473038164
+1890,Zachariah Haggerton,2015-12-14,,mölndal,SE,NULL
+1891,Cher Wakham,2015-12-16,,NULL,SE,NULL
+1892,Devontae Folland,2016-01-15,,johanneshov,SE,NULL
+1893,Elodia Charves,2016-01-26,,hassleholm,SE,NULL
+1894,Samuel Cinque,2016-02-03,,stockholm,SE,673525825
+1895,Amedea Kapoi,2016-02-17,,göteborg,SE,NULL
+1896,Shane Geraldo,2016-02-18,,emmaboda,SE,NULL
+1897,Lara Coote,2016-03-18,,vasteras,SE,NULL
+1898,Kira Bartko,2016-04-11,,NULL,SE,NULL
+1899,Isbel Olufson,2016-04-18,,sweden,SE,011613427
+1900,Hebe Wittrup,2016-06-01,,täby,SE,NULL
+1901,Enola Beckes,2016-06-15,,sundsvall,SE,NULL
+1902,Archie Drafall,2016-06-21,,NULL,SE,323048711
+1903,Zaid Lambey,2016-09-01,,almhult,SE,NULL
+1904,Hamilton Alway,2016-09-01,,laholm,SE,NULL
+1905,Fatma Tremelling,2016-09-14,,"uppsala   ",SE,463562236
+1906,Korbin Burras,2016-11-28,,"langsele			",SE,NULL
+1907,Sheron Kozloff,2016-11-30,,bergsjo,SE,848735658
+1908,Calanthia Singeltary,2017-01-03,,söderköping,SE,NULL
+1909,Rubin Ude,2017-01-25,,karlskoga,SE,NULL
+1910,Read Friehe,2017-04-26,,västeras,SE,NULL
+1911,Sue Heersink,2017-05-11,,NULL,SE,NULL
+1912,Sanjeev Kawashima,2017-05-18,,enskededalen,SE,NULL
+1913,Aretha Weemes,2017-10-02,,"sala	",SE,262557614
+1914,Alannah Salta,2017-10-02,,soderhamn,SE,NULL
+1915,Aloisia Kaur,2017-11-08,,NULL,SE,NULL
+1916,Gioacchino Roelfs,2017-11-08,,gnosjö,SE,432361000
+1917,Ramona Konarik,2017-11-10,,sundsvall,SE,NULL
+1918,Myrtle Yoquelet,2017-11-20,,bollnäs,SE,NULL
+1919,Roosevelt Stegemann,2018-01-23,,eskilstuna,SE,NULL
+1920,Ramsey Trokey,2018-02-26,,bromolla,SE,NULL
+1921,Lisbeth Minert,2018-02-26,,NULL,SE,NULL
+1922,Tiara Schomacker,2018-03-20,,älvsbyn,SE,NULL
+1923,Florette Kolke,2018-03-26,,solna,SE,NULL
+1924,Chiquita Bryar,2018-05-16,,avesta,SE,173511824
+1925,Hewie Cornet,2018-05-25,,mariefred,SE,565572881
+1926,Eckehard Rieff,2018-06-05,,söderköping,SE,825388317
+1927,Alexandria Dannard,2018-06-25,,filipstad,SE,026436664
+1928,Blanche Schilawski,2018-09-11,,boden,SE,NULL
+1929,Brett Oppenheim,2018-10-02,,mjolby,SE,NULL
+1930,Tomasa Cato,2018-10-25,,bromma,SE,657070068
+1931,Kolby Giangrosso,2018-11-13,,herrljunga,SE,NULL
+1932,Donella Menitz,2019-02-04,,stockholm,SE,NULL
+1933,Betty Iannucci,2019-03-11,,lidkoping,SE,171042832
+1934,Reiner Gosman,2019-04-29,,jönköping,SE,717282784
+1935,Alessandra Magil,2019-09-11,,sweden,SE,734712078
+1936,Demond Pinnix,2004-03-22,,trossingen,DE,557644177
+1937,Wally Drennen,2004-03-22,,stuttgart,DE,315481568
+1938,Calvin Lundborg,2004-03-22,,balingen-erzingen,DE,631508555
+1939,Hiltrud Mcelreath,2004-03-22,,lennestadt,DE,NULL
+1940,Boniface Cashion,2004-03-22,,norderstedt,DE,544285338
+1941,Chaya Berardo,2004-03-22,D,ismaning,DE,NULL
+1942,Devonte Mccleave,2004-03-22,,berlin,DE,550114075
+1943,Myriam McQuaid,2004-03-22,,buxtehude,DE,071576266
+1944,Ivette Mashni,2004-03-22,,münchen,DE,353768271
+1945,Shadi Higbie,2004-03-22,D,raschau,DE,358621807
+1946,Missie Tamburro,2004-03-22,,coswig,DE,361614540
+1947,Hank Byram,2004-03-22,,singen,DE,382212027
+1948,Afia Maryott,2004-03-22,,marktredwitz,DE,538640218
+1949,Malaika Vassil,2004-03-22,,"kornwestheim ",DE,117126624
+1950,Gita Bensman,2004-03-22,,grobenzell,DE,NULL
+1951,Gabriela Grev,2004-03-22,,bergkamne - ruenthe,DE,445221888
+1952,Shobha Grilley,2004-03-22,D,berlin,DE,370731454
+1953,Wardell Netters,2004-03-22,,bremen,DE,NULL
+1954,Drake Warmbrodt,2004-03-22,,ludwigsburg,DE,447660378
+1955,Salud Vecchione,2004-03-22,,bremen,DE,413687386
+1956,Galal Lamborne,2004-03-22,D,münchen,DE,872886885
+1957,Justyn Call,2004-03-22,,plauen,DE,NULL
+1958,Manuel Beguhl,2004-03-22,,wilnsdorf,DE,727573010
+1959,Courtney Manchini,2004-03-22,D,"gelsenkirchen ",DE,345631033
+1960,Garth Delancy,2004-03-22,,bremen,DE,355302684
+1961,Kennedy Priestley,2004-03-22,,mühlheim,DE,738477057
+1962,Gathbiyya Bertels,2004-03-22,,bremerhaven,DE,358173307
+1963,Quinton Champlin,2004-03-22,,beilngries,DE,844781667
+1964,Tayler Dsaachs,2004-03-22,,stuttgart,DE,107741650
+1965,Seeta Thalheimer,2004-03-22,,huenfeld,DE,145401630
+1966,Laverne Macer,2004-03-22,,langenhagen,DE,781753518
+1967,Lucie Zummach,2004-03-23,D,hagen,DE,671537172
+1968,Ratnam Sierras,2004-03-23,,eppingen,DE,553285427
+1969,Destini Kluz,2004-03-23,,lm offheim,DE,877335035
+1970,Leocadio Garstka,2004-03-23,,frakfurt,DE,670055862
+1971,Meinard Hedeen,2004-03-23,,frankfurt am main,DE,348433232
+1972,Hillard Salge,2004-03-23,,st. ingbert,DE,NULL
+1973,Suzy Thoen,2004-03-23,,kiel,DE,740238445
+1974,Madhu Troff,2004-03-23,,lich,DE,542164344
+1975,Loyce Anzalone,2004-03-23,D,augsburg,DE,460573772
+1976,Mervin Tameron,2004-03-23,,pfullingen,DE,NULL
+1977,Haniyya Gerrits,2004-03-23,,toenning,DE,536638237
+1978,Dillan Seidler,2004-03-23,,konigsbrunn,DE,847830206
+1979,Derwin Canary,2004-03-23,,appenweier,DE,601121674
+1980,Shonda Duonola,2004-03-23,,fuerth,DE,624006011
+1981,Eloi Gulbraa,2004-03-23,D,ratekau,DE,853717605
+1982,Leroy Mumford,2004-03-23,,lemgo,DE,121424712
+1983,Akhil Petrilla,2004-03-23,,soltau,DE,276506702
+1984,Sampson Zarrineh,2004-03-23,,bucholz / nordheide,DE,481150268
+1985,Jaye Weismiller,2004-03-23,,mühlheim an der ruhr,DE,116137240
+1986,Chiumbo Regans,2004-03-23,,ehingen,DE,NULL
+1987,Rajnish Smither,2004-03-23,,haale saale,DE,502853141
+1988,Nilsa Vandevere,2004-03-23,,selbitz,DE,170033116
+1989,Pam Earnhart,2004-03-23,,duisburg,DE,733351084
+1990,Richendra Shampine,2004-03-23,," northeim",DE,784303380
+1991,Sheard Kunstlinger,2004-03-23,,nienhagen,DE,345545458
+1992,Kade Kenaga,2004-03-23,,tiefenort,DE,066343217
+1993,Jumanah Tote,2004-03-23,,osnabruck,DE,423548066
+1994,Henning Panameno,2004-03-23,," zusmarshausen",DE,670286221
+1995,Margo Borrello,2004-03-23,,weiden - rothnstadt,DE,260746617
+1996,Florrie Galliher,2004-03-23,,quedenburg,DE,677802271
+1997,Vijaya Salsberg,2004-03-23,,crailsheim,DE,543854522
+1998,Ghayth Schwarzlose,2004-03-23,,mannheim,DE,847503402
+1999,Babirye Halbershtam,2004-03-23,,bitburg,DE,646566320
+2000,Ayishah Myrie,2004-03-23,,kassel,DE,077402464
+2001,Bernardino Crisp,2004-03-23,,senden-bösensell,DE,215658878
+2002,Ayla Mesa,2004-03-23,,hamm (rheynern),DE,785832114
+2003,Lalage Racanelli,2004-03-23,,altena,DE,016701045
+2004,Pauleen Upole,2004-03-23,,passau,DE,826864406
+2005,Adamina Abuel,2004-03-23,,immenhausen,DE,440877053
+2006,Herbert Benbenek,2004-03-23,D,coswig,DE,584462224
+2007,Sabella Mirabile,2004-03-23,,wuppertal - vohwinkel,DE,567301465
+2008,Elicia Zeccardi,2004-03-23,,bergisch gladbach 2,DE,342524826
+2009,Jeannette Piatek,2004-03-23,,neuss,DE,811584760
+2010,Sitara Kolodziej,2004-03-23,,speicher,DE,NULL
+2011,Kali Jeffkins,2004-03-23,,kaufbeuren,DE,847817827
+2012,Ronny Timper,2004-03-23,,tuttlingen,DE,558405002
+2013,Bienvenido Pamer,2004-03-23,,wuppertal,DE,748752751
+2014,Oskar Schoemer,2004-03-23,,siegen-langenholdinghausen,DE,410243711
+2015,Jazmine Tomasic,2004-03-23,,berlin,DE,814020025
+2016,Allie Peasley,2004-03-23,,berlin,DE,668833766
+2017,Idonea Brakebill,2004-03-23,,berlin,DE,057288688
+2018,Lorelle Montaque,2004-03-23,,frankfurt,DE,241805432
+2019,Alisha Matkowsky,2004-03-23,,wirges,DE,457166574
+2020,Maximilienne Pohl,2004-03-23,,rainz finthen,DE,015742777
+2021,Scott Embs,2004-03-23,,metzingen,DE,003531177
+2022,Suzanna Lugar,2004-03-23,,velbert,DE,283653100
+2023,Amaranta Shulte,2004-03-23,,heilbronn,DE,NULL
+2024,Ewell Kamstra,2004-03-23,,backnang waldrens,DE,321242456
+2025,Lumusi Sutfin,2004-03-23,,fulda,DE,814202405
+2026,Colt Griblin,2004-03-23,,schlierbach,DE,246742878
+2027,Bart Arnsworth,2004-03-23,,itzehoe,DE,213588874
+2028,Osvaldo Berney,2004-03-23,,granau-epi,DE,802472375
+2029,Burton Cartmill,2004-03-23,D,siegen,DE,801757074
+2030,Kelsi Weathersbee,2004-03-23,,kunzelsau-gaisbach,DE,851428271
+2031,Maxwell Segur,2004-03-23,,lippstadt-rixbeck,DE,764671330
+2032,Honour Mehr,2004-03-23,,hamburg,DE,317051772
+2033,Maury Miland,2004-03-23,,heilbraun,DE,NULL
+2034,Franklin Yearta,2004-03-23,,zc best,NL,331532188
+2035,Crescenzo Takala,2019-01-24,,dc eindhoven,NL,074780005
+2036,Eustache Loewen,2004-03-23,,pb zwolle,NL,055602523
+2037,Jayson Tebo,2004-03-23,,ae zwanenburg,NL,435254845
+2038,Olympe Shibley,2018-11-20,,schipol,NL,225522646
+2039,Cherie Tepper,2004-03-23,,"bj apeldoorn ",NL,245103118
+2040,Randa Pitta,2018-03-22,,hengelo,NL,673053264
+2041,Janele Pry,2004-03-23,,ka alkmaar,NL,104026351
+2042,Esmail Kolesnik,2004-03-23,,"kt geldrop ",NL,361077324
+2043,Otis Tehan,2018-03-05,,zwanenburg,NL,NULL
+2044,Lettice Verrelli,2004-03-23,,gn eindhoven,NL,112562016
+2045,Rosaleen Wilmes,2004-03-23,,nieuwegein,NL,426455430
+2046,Karenza Ritenour,2004-12-02,,hertogenbosch,NL,370830312
+2047,Kunibert Henschke,2005-03-16,,be tilburg,NL,787147342
+2048,Vinnie Pavloski,2006-12-28,,breda,NL,525562262
+2049,Keri Stemmler,2007-10-16,,hengelo (ov),NL,747170207
+2050,Ilaria Haase,2008-02-14,,riel,NL,623416835
+2051,Goldia Pellom,2009-11-23,," heesch",NL,405577872
+2052,Viviana Petronis,2010-02-03,,den haag,NL,424067674
+2053,Miracle Galloway,2010-03-19,,montfoort,NL,658200784
+2054,Lorenz Philben,2010-08-17,,den haag,NL,550240503
+2055,Catina Poskitt,2010-10-12,,schiphol,NL,NULL
+2056,Orion Fusha,2012-01-26,,heesch,NL,NULL
+2057,Columbano Guidi,2012-02-01,,barneveld,NL,830514650
+2058,Trish Babish,2012-02-03,,rotterdam,NL,732202373
+2059,Lalage Thoran,2012-02-23,,assendelft,NL,826433222
+2060,Teodoro Bormann,2012-03-02,,vroomshoop,NL,804617211
+2061,Alexandro Voytek,2012-03-12,,wognum,NL,147828843
+2062,Karli Skupski,2012-05-04,,schiedam,NL,NULL
+2063,Sumantra Ewart,2012-06-15,,breda,BE,707470152
+2064,Giosue Herod,2012-06-25,,hoogeveen,NL,NULL
+2065,Feroze Canaan,2012-06-29,,den haag,NL,287008825
+2066,Millard Boevers,2012-07-13,,wijk bij duurstede,NL,NULL
+2067,Chandrakant Batis,2012-10-01,,rotterdam,NL,255682280
+2068,Felicia Anslinger,2012-10-02,,emmen,NL,046855578
+2069,Maryvonne Belnas,2012-10-23,,zwolle,NL,410211153
+2070,Darcie Burwell,2012-10-23,,groningen,NL,434341586
+2071,Ouida Weigman,2012-10-23,,bunschoten,NL,884800440
+2072,Velma Lytell,2012-10-25,,meppel,NL,625820857
+2073,Sheridan Vayon,2012-10-31,,ag rotterdam,NL,151027752
+2074,Etta Chantos,2012-11-15,,venlo,NL,630716785
+2075,Maximiano Murzycki,2012-11-21,,leek,NL,510400485
+2076,Pat Hudek,2013-02-07,,groningen,NL,806173486
+2077,Aida Kaluna,2013-02-26,,loon op zand,NL,NULL
+2078,Rafe Demeris,2013-03-05,,rotterdam,NL,NULL
+2079,Marjorie Stratter,2013-03-05,,al rotterdam,NL,335046015
+2080,Kaleb Kruebbe,2013-03-06,,eb ochten,NL,635721211
+2081,Terrill Muzquiz,2013-03-11,,pw -  gilze,NL,170188123
+2082,Armel Feliciano,2013-03-25,,gd naalwijk,NL,146315313
+2083,Janele Ly,2013-07-17,,dongen,NL,660530760
+2084,Micaela Toya,2013-09-10,,westerbork,NL,NULL
+2085,Celandine Stahoski,2013-10-30,,rijen,NL,576758441
+2086,Ilse Krigbaum,2013-11-12,,NULL,NL,NULL
+2087,Melina Freifeld,2013-11-19,,ochten,NL,230536388
+2088,Doug Mikko,2013-11-19,,groningen,NL,820747772
+2089,Dale Podmore,2013-12-10,,den haag,NL,NULL
+2090,Veda Hoshaw,2014-01-28,,NULL,NL,311478447
+2091,Korbin Patchell,2014-04-23,,NULL,NL,NULL
+2092,Britni Langsam,2014-06-03,,NULL,NL,NULL
+2093,Celso Lacrosse,2014-09-05,,batenburg,NL,NULL
+2094,Tate Robitaille,2014-09-22,,tilburg,NL,453477621
+2095,Amber Herstad,2014-11-14,,alblasserdam,NL,163173211
+2096,Lisette Larose,2015-04-24,,den haag,NL,NULL
+2097,Reno Stehlin,2015-05-07,,dongen,NL,402675760
+2098,Tiffanie Stroebel,2015-05-27,,ae oisterwijk,NL,784466388
+2099,Fayruz Mangis,2015-05-28,,ea heerenveen,NL,002172637
+2100,Devante Sain,2015-06-26,,europoort rotterdam,NL,270130401
+2101,Gage Bowels,2015-07-02,,amsterdam,NL,NULL
+2102,Giuliana Trilt,2015-09-04,,rotterdam,NL,NULL
+2103,Florrie Stumpff,2015-09-28,,NULL,NL,334181318
+2104,Travis Lafaver,2016-01-14,,zwanenburg,NL,NULL
+2105,Sanjeet Schneller,2016-02-02,,alblasserdam,NL,177261867
+2106,Shakir Brzuchalski,2016-04-11,,zuidbroek,NL,NULL
+2107,Mechtilde Favaron,2016-05-02,,haarlem,NL,NULL
+2108,Nagib Pollack,2016-05-13,,velsen-noord,NL,246682512
+2109,Carissa Krammes,2016-08-19,,nijmegen,NL,018547053
+2110,Marshal Nevills,2017-01-18,,breukelen ut,NL,NULL
+2111,Westley Duldulao,2017-04-19,,tilburg,NL,NULL
+2112,Marshal Whitt,2017-08-01,,vinkeveen,NL,NULL
+2113,Terrie Balda,2004-03-23,,bruxelles,BE,542366018
+2114,Stephan Alspaugh,2004-03-23,,kalmthout,BE,306474648
+2115,Pran Sandquist,2004-03-23,,sterrebeek,BE,564537873
+2116,Adelmar Armagh,2004-03-23,,diest,BE,332111177
+2117,Chrysanta Cellini,2004-03-23,,bonlez,BE,537232003
+2118,Maxine Flick,2017-11-21,,chartres,FR,670512655
+2119,Jean Garlington,2017-11-21,,saint julien de concelles,FR,NULL
+2120,Alain Niedecken,2018-01-11,,longjumeau cedex,FR,NULL
+2121,Zena Brissett,2018-05-16,,montigny le bretonneux,FR,885458778
+2122,Gratia Osazuwa,2018-05-17,,nice,FR,308532724
+2123,Raven Carda,2019-07-11,,mazamet,FR,841453034
+2124,Lauren Niermann,2019-07-17,L,luxembourg,LU,484008818
+2125,Florida Furcron,2004-03-23,,hohenems,AT,162256823
+2126,Loz Pascua,2004-03-23,,aich assach,AT,336283780
+2127,Dixie Scanio,2004-03-23,,linz,AT,030760570
+2128,Alannah Lantry,2004-03-23,,klaus,AT,686612510
+2129,Sandi Cortis,2006-11-28,,hainfeld,AT,236386347
+2130,Nanda Sabino,2007-09-25,A,blasenstein,AT,778511475
+2131,Mary Carico,2007-10-10,,klaus,AT,053006812
+2132,Colton Colombo,2007-10-30,,aich assach,AT,138485318
+2133,Madelyn Lawver,2007-12-12,A,wien,AT,086723127
+2134,Letty Vara,2008-03-10,A,graz,AT,136077336
+2135,Tristand Dombek,2008-04-17,A,hohe brücke,AT,665152007
+2136,Hagan Houghtelling,2008-04-30,,wien,AT,NULL
+2137,Omayra Volinsky,2009-02-27,,donnerskirchen,AT,NULL
+2138,Blythe Girdley,2009-04-28,A,leonding,AT,766262242
+2139,Conrad Jackso,2010-05-27,A,zeltweg,AT,250273370
+2140,Geoffrey Heery,2011-01-14,A,payerbach,AT,405306678
+2141,Myra Hofe,2011-09-12,,.,AT,430264351
+2142,Sayyid Mcnee,2011-09-09,,.,AT,666286678
+2143,Aretha Offenberger,2011-10-24,,.,AT,626604374
+2144,Beckah Cernansky,2012-04-18,,.,AT,740076702
+2145,Abeni Goldkamp,2012-04-18,,.,AT,NULL
+2146,Keven Satoe,2013-03-25,,graz - seiersberg,AT,730254662
+2147,Euphemia Waskow,2014-03-20,,neuzeug,AT,088170138
+2148,Herman Burchett,2016-10-06,,schlierbach,AT,056175018
+2149,Gisella Heinzelman,2006-01-19,,geneve,CH,687850025
+2150,Gregoire Rothstein,2006-03-14,CH,burgdorf,CH,302062623
+2151,Roseanna Scigliano,2004-03-23,CH,ebikon,CH,814255633
+2152,Leopold Kekahuna,2004-03-23,CH,burgdorf,CH,051812272
+2153,Wilfrid Moscovic,2004-03-23,,lotzwill,CH,302810755
+2154,Stephon Shane,2004-03-23,,weinfelden,CH,170438700
+2155,Carlitos Crandell,2004-03-23,,wallisellen,CH,557185076
+2156,Veronika Wietbrock,2004-03-23,CH,adliswil - zurich,CH,377153126
+2157,Lexa Marionneaux,2007-10-01,CH,fahrwangen,CH,275057832
+2158,Camillo Minium,2007-10-03,CH,ipsach,CH,071377603
+2159,Parvati Sovie,2008-02-08,CH,chur,CH,133582712
+2160,Orion Laflame,2008-02-27,CH,runenberg,CH,531751347
+2161,Shaina Bohlinger,2008-07-14,CH,zwingen,CH,252244814
+2162,Jolanda Landsberg,2008-10-09,,meyrin,CH,285567646
+2163,Carrie Faix,2010-01-22,CH,niederwangen,CH,131443507
+2164,Manlio Sheck,2011-03-03,CH,sursee,CH,766604181
+2165,Erlinda Stachowicz,2012-11-15,,.,CH,346338370
+2166,Clemence Earnshaw,2013-01-29,,givisiez,CH,825738404
+2167,Lakisha Salvador,2013-09-17,,lausanne,CH,427615766
+2168,Anderson Levesgue,2013-11-20,,niederbipp,CH,257574313
+2169,Judd Zissler,2014-02-26,,urdorf,CH,353611660
+2170,Timmothy Ocallahan,2017-07-14,,spreitenbach,CH,005754574
+2171,Olene Pasley,2017-10-10,,ballens,CH,562208485
+2172,Haylie Esworthy,2017-12-21,,geneve,CH,748875047
+2173,Monique Lastiri,2018-02-21,,cossonay,CH,845167278
+2174,Ebba Phramany,2018-03-20,,netstal,CH,583052803
+2175,Bryanna Arena,2018-06-11,,la chaux-de-fonds,CH,484230688
+2176,Khatijah Sollors,2019-08-23,,paudex - suisse,CH,035427443
+2177,Rajnish Brechbiel,2004-03-23,,.,IE,554862121
+2178,Rahim Conrod,2004-03-23,,cork,IE,052042642
+2179,Evelyn Gangi,2004-03-23,,co. monaghan,IE,813881753
+2180,Winfred Hanshaw,2004-03-23,,county cork,IE,671577508
+2181,Valary Possinger,2004-03-23,,dublin 8,IE,281565074
+2182,Mckinley Exel,2005-09-23,,dublin 11,IE,787118075
+2183,Earle Alosa,2004-03-23,,co. mayo,IE,642324403
+2184,Buford Walby,2004-03-23,,dublin 2,IE,864040411
+2185,Cloyd Bolitho,2004-03-23,,dublin 5,IE,060752058
+2186,Wenona Sandstede,2004-03-23,,co. dublin,IE,145462462
+2187,Tiera Casparis,2004-03-23,,co. monaghan,IE,067186104
+2188,Iesha Czolba,2004-03-23,,cork,IE,513456433
+2189,Cora Pedri,2004-03-23,,limerick,IE,678576826
+2190,Laureen Calin,2004-03-23,,co. wicklow,IE,006540533
+2191,Gloria Ozaki,2004-03-23,,dublin 24,IE,825801531
+2192,Leonce Allbritten,2004-03-23,,co. donegal,IE,542430252
+2193,Raymund Stansel,2004-03-23,,co dublin,IE,331216655
+2194,Jewel Anzaldua,2004-03-23,,co. wexford,IE,272888746
+2195,Remy Holmquist,2004-03-23,,county wexford,IE,614530548
+2196,Vena Jamal,2004-03-23,,dublin 24,IE,826278576
+2197,Kerr Sauceda,2004-05-24,,dublin 15,IE,123501221
+2198,Ottis Schapp,2004-10-14,,co. monaghan,IE,134843125
+2199,Hamid Edinger,2005-05-18,,co. cork,IE,514880277
+2200,Giulietta Leaphart,2007-02-01,,galway,IE,444263773
+2201,Wilford Stodgell,2007-10-08,,galway,IE,462108206
+2202,Lucasta Aanderud,2007-10-15,,co. mayo,IE,282133785
+2203,Keila Szmidt,2008-06-04,,co. dublin,IE,623820183
+2204,Tara Elke,2011-02-22,,county cork,IE,275712042
+2205,Jeana Domino,2011-03-31,,co. dublin,IE,444671741
+2206,Selwyn Stoudymire,2011-08-02,,dublin 24,IE,457557047
+2207,Rocio Kiko,2011-10-28,,cork,IE,138601756
+2208,Kolby Kingen,2011-11-10,,.,IE,845076085
+2209,Kenrick Schlotthauer,2011-11-29,,dublin 12,IE,708774544
+2210,Tate Mariano,2012-04-18,,limerick,IE,321287545
+2211,Johannes Rothfuss,2012-11-22,,co. carlow,IE,124201577
+2212,Pete Tepler,2012-11-22,,co. roscommon,IE,307068043
+2213,Shelbie Dhar,2019-05-17,,dublin,IE,013772363
+2214,Judd Harrill,2004-03-23,,athens,EL,428350305
+2215,Conrado Gaier,2004-03-23,,n. halkidona att.,EL,236057761
+2216,Diodore Kraack,2004-12-27,,athens,EL,062507174
+2217,Yashmine Tappin,2005-01-26,,athens,EL,031536671
+2218,Sashi Laude,2005-01-26,,athens,EL,582433846
+2219,Milburn Whilden,2005-02-03,,rethymno,EL,426274880
+2220,Mathilda Rius,2005-02-14,,achaia,EL,716550342
+2221,Chet Kutella,2005-09-22,,athens,EL,802626404
+2222,Katina Rinebold,2005-09-28,,.,EL,168467246
+2223,Deena Oursler,2006-02-20,,patras,EL,627048061
+2224,Berneice Mlinar,2006-04-04,,piraeus,EL,680815061
+2225,Fatima Elwick,2006-04-04,,piraeus,EL,202056346
+2226,Barret Schriber,2006-04-05,,acharnai,EL,856831111
+2227,Janele Gitt,2006-06-20,,thessaloniki,EL,636567182
+2228,Rosalba Sengbusch,2006-09-27,,abelonas laris,EL,104152076
+2229,Vasu Quick,2006-10-27,,piraeus,EL,345516755
+2230,Indira Critz,2007-02-15,,thessaloniki,EL,410260168
+2231,Rainier Bellar,2007-06-26,,athens,EL,624110744
+2232,Giulietta Burling,2007-10-24,,athens,EL,183417273
+2233,Korey Sogge,2007-12-07,,thessaloniki,EL,250436262
+2234,Yorick Vidas,2009-12-11,,athens,EL,214710647
+2235,Sebastiano Seifts,2004-03-23,,litija,SI,304288733
+2236,Berenice Humpert,2008-04-16,,slovenska bistrica,SI,517853675
+2237,Moreen Banowetz,2008-12-04,,ptuj,SI,380074274
+2238,Demetris Custard,2011-09-26,,"ljubljana         ",SI,175730538
+2239,Rosa Leftwich,2018-10-09,,ljubljana-sentvid,SI,280318306
+2240,Gaylord Poli,2015-07-06,,"kiev ",UA,018285024
+2241,Kami Slackman,2004-07-05,,tenerife,ES,NULL
+2242,Dora Zomer,2006-01-24,,vecindario-gran canaria,ES,NULL
+2243,Sheela Eberling,2004-11-23,,las palmas,ES,NULL
+2244,Nonie Jacome,2004-11-23,,las palmas de gran canaria,ES,NULL
+2245,Esmund Thielemann,2004-11-23,,las palmas de gran canaria,ES,NULL
+2246,Orie Cipro,2005-04-22,,vecindario,ES,NULL
+2247,Keir Sedrakyan,2005-04-22,,arrecife,ES,NULL
+2248,Margery Watsky,2005-04-22,,arrecife,ES,NULL
+2249,Micah Cardella,2005-04-22,,las palmas de gran canaria,ES,NULL
+2250,Marybelle Lance,2006-02-07,,puerto del rosario (las palmas),ES,NULL
+2251,Barton Hogan,2014-05-28,,la laguna,ES,NULL
+2252,Suha Zambo,2010-04-09,,visoko,BA,368482403
+2253,Macaria Ishmael,2019-04-08,,zemun,RS,508114675
+2254,Juan Elgen,2004-03-23,,"toronto, ontario",CA,512815607
+2255,Parris Gauna,2004-03-23,,quebec,CA,706544827
+2256,Matthieu Mecannic,2004-03-23,,quebec,CA,128881246
+2257,Ferruccio Wendelberger,2016-07-05,,"calgary, ab",CA,500301500
+2258,Filippo Tritt,2015-02-18,,NULL,US,421144138
+2259,Frank Rabassa,2015-04-20,,pensilvania,US,675543345
+2260,Ninon Ledezma,2009-12-15,,doha,QA,155367724
+2261,Primo Galasso,2010-09-03,,.,QA,155005721
+2262,Naveed Rinderle,2013-07-17,,kuwait city,KW,101735622
+2263,Houda Rupprecht,2004-03-23,,north humberside,GB,578714052
+2264,Hellen Unangst,2004-03-23,,west midlands,GB,776763378
+2265,Firoz Cleaver,2004-03-23,,flintshire,GB,581114771
+2266,Phillida Menon,2005-10-13,,co.londonderry,GB,616652441
+2267,Saturnino Ameling,2004-03-23,,londonderry (northern ireland),GB,102266867
+2268,Rebecca Donlyuk,2004-03-23,,derbyshire,GB,164533322
+2269,Sophy Cosselman,2004-03-23,,sttafordshire,GB,377705410
+2270,Jenaro Docherty,2004-03-23,,leicestershire,GB,615403780
+2271,Beauregard Wiant,2004-03-23,,wiltshire,GB,343838200
+2272,Curt Kniefel,2004-03-23,,west midlands,GB,631260173
+2273,Detta Laaker,2004-03-23,,leicestershire,GB,443660853
+2274,Rafa Elkins,2004-03-23,,avon,GB,055653436
+2275,Novio Meinecke,2004-03-23,,norfork,GB,736255741
+2276,Jalisa Lemarr,2004-03-23,,west midlands,GB,183234600
+2277,Ermete Hofer,2005-04-08,,.,GB,852737885
+2278,Brittani Gatto,2007-06-21,,south yorkshire,GB,843470047
+2279,Tevin Paponetti,2007-07-26,,wednesbury,GB,382887100
+2280,Berry Suss,2007-07-27,,belfast,GB,225271585
+2281,Khloe Sass,2007-11-07,,"co antrim ",GB,036223801
+2282,Darold Hollack,2007-12-12,,nottinghamshire,GB,142100607
+2283,Adisa Sellek,2009-03-05,,staffordshire,GB,284530012
+2284,Susan Bath,2011-03-14,,staffordshire,GB,035407267
+2285,Olivier Boben,2012-01-26,,derry,GB,478327000
+2286,Kareem Rieser,2014-03-26,,l/derry (northern ireland),GB,515612077
+2287,Velia Redler,2015-09-16,,belfast,GB,517286637
+2288,Shelby Duchon,2016-08-09,,belfast,GB,542355126
+2289,Ezequiel Bornhorst,2012-02-07,,oggiono,IT,718145860
+2290,Humphry Bartus,2004-03-23,,buccinasco (mi),IT,NULL
+2291,Peace Lander,2004-03-23,,quarto (na),IT,860326172
+2292,Zhen Lyles,2006-11-14,,albizzate (varese) italia,IT,863021050
+2293,Leandra Barner,2007-10-01,,termeno,IT,358737521
+2294,Horst Laubhan,2007-10-03,,borgosatollo (bs),IT,041085065
+2295,Fabiano Bjella,2007-10-09,,busto garolfo (mi),IT,321866424
+2296,Simonetta Vandehey,2007-10-18,,bucine (arezzo),IT,235727485
+2297,Kiera Gegenheimer,2007-12-12,,cornuda(tv),IT,188865328
+2298,Alfredo Glaab,2008-01-09,,ravenna,IT,622645716
+2299,Johan Trosen,2008-01-17,,massanzago (pd),IT,137033451
+2300,Vada Okel,2008-01-23,,parma,IT,674342145
+2301,Brittney Cruey,2008-01-29,,pavia-broni,IT,823704877
+2302,Eduard Font,2008-01-29,,italy,IT,313838256
+2303,Ebba Morrical,2008-02-12,,casale monferrato,IT,NULL
+2304,Hisham Sveum,2008-03-10,,reggio emilia,IT,737866087
+2305,Coleen Wittnebel,2011-02-08,,san giovanni lupatoto,IT,134673546
+2306,Queen Christophel,2013-04-09,,italy,IT,182672628
+2307,Anissa Wetz,2014-07-16,,cambiago (mi),IT,137282387
+2308,Britany Trevisan,2015-11-26,,la spezia (sp),IT,186528537
+2309,Esta Scheiderer,2018-05-16,,modena,IT,187122858
+2310,Derik Papen,2019-07-03,,brescia,IT,NULL
+2311,Rashida Decesare,2004-03-23,,tel aviv,IL,775457546
+2312,Devdas Herout,2004-03-23,,"tel aviv ",IL,618448243
+2313,Anton Ondo,2009-02-26,,tel aviv,IL,727402270
+2314,Leland Fredlund,2010-05-27,,singapore,SG,120802850
+2315,Fabian Melkert,2019-07-08,,holon,IL,NULL
+2316,Pitambar Ornstein,2004-03-23,,shetland isles,GB,721026628
+2317,Pierina Dusek,2004-03-23,,morayshire,GB,NULL
+2318,Jordyn Groceman,2004-03-23,,north lanarkshire,GB,343083028
+2319,Lorelei Carreiro,2004-03-23,,aberdeenshire,GB,338652875
+2320,Lotus Dicaprio,2004-03-23,,inverness-shire,GB,263636664
+2321,Arianne Pearce,2004-03-23,,aberdeenshire,GB,NULL
+2322,Obie Schwarcz,2004-03-23,,leicester,GB,273331326
+2323,Melchor Mcgregory,2004-03-23,,glasgow,GB,NULL
+2324,Adelaide Siegwarth,2004-03-23,,.,GB,503006731
+2325,Suellen Eastlick,2004-03-23,,grangemouth,GB,NULL
+2326,Zacarmas Medich,2004-03-23,,kinross,GB,366068376
+2327,Hailey Doing,2004-03-23,,.,GB,104320361
+2328,Rosemarie Alhambra,2004-03-23,,.,GB,035156180
+2329,Loreen Keatley,2004-10-19,,edinbourgh,GB,782764348
+2330,Tristian Slaney,2004-10-19,,aberdeen,GB,NULL
+2331,Dema Hallo,2008-02-12,,argyll,GB,NULL
+2332,Jerrold Lindemann,2008-08-11,,maryport,GB,862828866
+2333,Romy Koblick,2009-05-21,,dumfries,GB,NULL
+2334,Mcarthur Kupfer,2009-11-17,,blantyre,GB,656665647
+2335,Johnathon Bialek,2012-09-11,,swansea,GB,NULL
+2336,Belle Readinger,2012-09-14,,wales,GB,NULL
+2337,Xaviera Heinly,2012-09-24,,cardiff,GB,200231737
+2338,Simona Genco,2012-09-26,,west lothian,GB,385614164
+2339,Neely Gorius,2012-10-12,,gwent,GB,NULL
+2340,Evelyne Delaremore,2012-10-18,,powys,GB,NULL
+2341,Lovel Aycock,2014-07-07,,denbighshire,GB,NULL
+2342,Kelcie Talsma,2015-02-10,,dundee,GB,NULL
+2343,Nathaniel Fousek,2015-03-09,,NULL,GB,NULL
+2344,Pamela Tumminia,2015-05-19,,falkirk,GB,NULL
+2345,Sesto Ripinbark,2016-04-29,,NULL,GB,NULL
+2346,Jasen Beaton,2016-07-05,,"cardiff ",GB,575620432
+2347,Rheta McLachlin,2017-02-15,,denbighshire,GB,NULL
+2348,Idell Cleal,2018-02-21,,"newport, south wales",GB,NULL
+2349,Zora McFadden,2019-04-23,,cumbria,GB,NULL
+2350,Vitale Kovich,2004-03-23,,.,GB,NULL
+2351,Grazia Gernert,2004-03-23,,cumbria,GB,261382378
+2352,Bev Hemon,2004-03-24,,.,GB,311645734
+2353,Glenda Glatt,2004-03-24,,lancashire,GB,NULL
+2354,Dewey Petrakis,2004-03-24,,stock-on-tees,GB,866851837
+2355,Ermentraude Wettlaufer,2004-03-24,,lancashire,GB,616836280
+2356,Whitaker Tokunaga,2004-03-24,,lancashire,GB,NULL
+2357,Jasmin Branz,2004-03-24,,cestria,GB,378457238
+2358,Rob Hosbach,2004-03-24,,.,GB,126758000
+2359,Larue Schierenbeck,2004-03-24,,.,GB,434170334
+2360,Quentin Wolfensperger,2004-03-24,,preston,GB,NULL
+2361,Rawya Seyal,2004-03-24,,.,GB,444655878
+2362,Lakshmi Sharpton,2004-10-28,,colne,GB,051130470
+2363,Nicolle Hughley,2008-04-21,,stoke-on-trent,GB,035065535
+2364,Candelas Ori,2009-09-09,,queensferry,GB,317883818
+2365,Camillo Minium,2010-01-21,,billingham,GB,NULL
+2366,Vernice Claro,2011-03-22,,burscough,GB,208454310
+2367,Rainer Tysseling,2013-09-10,,lancashire,GB,NULL
+2368,Kunal Stolzenburg,2016-02-22,,newcastle upon tyne,GB,NULL
+2369,Dominique Prestwich,2004-03-24,,.,GB,886527427
+2370,Gottschalk Oka,2004-03-24,,.,GB,370678648
+2371,Eloise Haper,2004-03-24,,.,GB,467028274
+2372,Tremaine Matrone,2004-03-24,,north yorkshire,GB,714586534
+2373,Reiner Calrins,2004-03-24,,lanarkshire,GB,NULL
+2374,Tristian Mapa,2004-03-24,,.,GB,445480454
+2375,Enitan Vetri,2004-03-24,,.,GB,274342212
+2376,Joselyn Mina,2004-03-24,,.,GB,075542820
+2377,Evaristo Gladysiewski,2004-03-24,,west yorkshire,GB,NULL
+2378,Francine Frisino,2004-03-24,,.,GB,705453542
+2379,Anastasio Gocke,2004-03-24,,.,GB,714247204
+2380,Hortencia Kirtdoll,2004-03-24,,.,GB,876058364
+2381,Cherish Ruud,2004-03-24,,.,GB,018806030
+2382,Allegria Mugrage,2004-03-24,,.,GB,647322541
+2383,Ethelyn Hogon,2004-03-24,,livingston,GB,NULL
+2384,Cassandra Lammert,2004-03-24,,.,GB,338304747
+2385,Tatienne Kurkowski,2004-03-24,,.,GB,635038164
+2386,Kayetan Ghoston,2004-03-24,,.,GB,555818841
+2387,Clark Elderidge,2004-03-24,,barton-upon-humber,GB,NULL
+2388,Mickey Arrizola,2004-03-24,,.,GB,560143836
+2389,Prudencio Schak,2004-05-24,,west yorkshire,GB,888576813
+2390,Candy Tear,2004-06-01,,doncaster,GB,453345465
+2391,Friedhold Lasley,2004-08-19,,kettering,GB,030435115
+2392,Sariah Mettee,2004-07-20,,lincoln,GB,853680511
+2393,Adelard Rempe,2004-11-17,,goole,GB,650248565
+2394,Natille Langfitt,2006-07-14,,.,GB,570578270
+2395,Topsy Tippey,2006-07-27,,.,GB,NULL
+2396,Ruggero Fandel,2006-12-11,,liverpool,GB,087510342
+2397,Deforrest Langrum,2007-04-02,,leeds,GB,876120482
+2398,Guillaume Rob,2007-11-06,,glasgow,GB,NULL
+2399,Lupe Paire,2008-02-12,,tyne and wear,GB,557284664
+2400,Ciara Cuneio,2008-02-21,,east yorkshire,GB,773571506
+2401,Chelle Oehring,2010-01-07,,sheffield,GB,526422741
+2402,Ignazio Klenke,2012-09-07,,lincolnshire,GB,452380457
+2403,Husam Hiott,2013-01-29,,teeside,GB,NULL
+2404,Genie Cluckey,2013-03-11,,lincolnshire,GB,516228416
+2405,Zaria Mizner,2013-07-12,,NULL,GB,NULL
+2406,Phebe Cassem,2013-07-12,,tyne and wear,GB,NULL
+2407,Eustace Palhegyi,2014-07-25,,cumbernauld,GB,550470277
+2408,Giulietta Constantini,2014-07-31,,tullibody,GB,465837671
+2409,Doloris Bohn,2015-07-22,,north yorkshire,GB,768007482
+2410,Lucia Callas,2015-08-11,,gwent,GB,NULL
+2411,Nirvana Neuburger,2015-09-18,,glasgow,GB,NULL
+2412,Estell Iliff,2016-02-11,," east kilbride",GB,NULL
+2413,Kyler Dimarzo,2019-04-11,,south yorkshire,GB,NULL
+2414,Sam Delouise,2004-03-24,,.,GB,038782188
+2415,Danyelle Kerkman,2004-03-24,,widnes,GB,NULL
+2416,Jemima Minari,2004-03-24,,.,GB,NULL
+2417,Severina Pruit,2004-03-24,,cheshire,GB,NULL
+2418,Wright Leckington,2004-03-24,,.,GB,617088857
+2419,Maurice Schabel,2006-03-23,,.,GB,566462010
+2420,Merle Pardue,2006-12-13,,st helens merseyside,GB,832765088
+2421,Alanna Grandos,2010-02-12,,west yorkshire,GB,184277068
+2422,Terrell Foor,2012-11-08,,blackwood,GB,NULL
+2423,Monifa Lungren,2013-11-15,,NULL,GB,233275082
+2424,Ezequiel Sturgis,2013-12-11,,NULL,GB,NULL
+2425,Trish Depriest,2014-02-28,,lancashire,GB,NULL
+2426,Kishan Cote,2014-04-01,,cardigan,GB,NULL
+2427,Clarisse Villamar,2014-10-27,,NULL,GB,NULL
+2428,Alexander Applegarth,2016-03-31,,liverpool,GB,NULL
+2429,Tiana Russon,2016-10-24,,west midlands,GB,854375253
+2430,Kiana Nau,2017-05-22,,liverpool,GB,NULL
+2431,Haven Basquez,2019-02-15,,west midlands,GB,276461025
+2432,Siddhartha Balo,2019-03-06,,gales,GB,405832701
+2433,Hisein Randt,2004-03-24,,.,GB,025077081
+2434,Quentin Danley,2004-03-24,,.,GB,087155282
+2435,Wilton Posusta,2004-03-24,,.,GB,033312287
+2436,Catalina Piere,2004-03-24,,.,GB,704354076
+2437,Velma Manigold,2004-03-24,,.,GB,237038560
+2438,Rhianna Cini,2004-03-24,,.,GB,070024414
+2439,Ravindra Tajima,2004-03-24,,northampton,GB,775780423
+2440,Jabbar Kernodle,2004-03-24,,leicester,GB,NULL
+2441,Kelsey Mase,2004-03-24,,.,GB,682605785
+2442,Esmond Erlanson,2004-03-24,,.,GB,814006637
+2443,Kerwin Nickodem,2004-03-24,,nothingham,GB,222842028
+2444,Dafne Behan,2004-03-24,,.,GB,626657437
+2445,Indira Zawicki,2004-03-24,,leicester,GB,847583713
+2446,Spike Boshnack,2004-03-24,,.,GB,227801352
+2447,Jacky Coffin,2004-03-24,,.,GB,470704325
+2448,Domenick Feltman,2004-03-24,,huddersfield,GB,057326606
+2449,Marina Valois,2005-06-21,,nottingham,GB,038663828
+2450,Sherill Bate,2004-03-24,,nottingham,GB,NULL
+2451,Gino Hossfeld,2004-03-24,,leicestershire,GB,477484578
+2452,Kwesi Goelz,2004-03-24,,.,GB,483871127
+2453,Donal Consoli,2004-03-24,,derbyshire,GB,636845816
+2454,Imma Rhinebolt,2004-03-24,,derby,GB,NULL
+2455,Orie Jaworsky,2004-05-26,,leicester,GB,036145026
+2456,Selwyn Pettus,2004-11-16,,wigan,GB,844214844
+2457,Wiley Davick,2006-04-04,,.,GB,434780865
+2458,Jutte Verdugo,2004-03-24,,cambridge,GB,273423060
+2459,Reynaud Chenot,2006-04-11,,west midlands,GB,768661283
+2460,Kris Toddy,2006-05-10,,northampton,GB,630255601
+2461,Nero Jarosh,2007-04-20,,west midlands,GB,NULL
+2462,Ghufran Keystone,2007-11-14,,west midlands,GB,233741435
+2463,Taddeo Basta,2007-12-12,,leicester,GB,478445035
+2464,Caitlin Cantell,2009-04-16,,west midlands,GB,406731828
+2465,Travis Bedgood,2009-05-27,,nottingham,GB,NULL
+2466,Althea Lucian,2009-07-28,,shropshire,GB,NULL
+2467,Aura Demorizi,2010-02-04,,northamptonshire,GB,882882618
+2468,Zilla Moomaw,2011-10-12,,west midlands,GB,706001640
+2469,Hermon Selders,2012-04-11,,leicestershire,GB,NULL
+2470,Shahrizad Nath,2012-04-24,,leicestershire,GB,453751031
+2471,Osama Aipopo,2012-10-23,,buckinghamshire,GB,NULL
+2472,Herschel Laduc,2012-10-24,,west midlands,GB,430666672
+2473,Arvin Nellum,2012-11-05,,northamptonshire,GB,NULL
+2474,Yasmeen Marcusen,2014-08-22,,worcester,GB,NULL
+2475,Fleur Burby,2015-06-11,,west midlands,GB,405700544
+2476,Rhianna Houck,2016-08-11,,coventry,GB,NULL
+2477,Pascale Hopton,2018-06-06,,brackley,GB,624150450
+2478,Philipp Crogan,2004-03-24,,.,GB,375301851
+2479,Osmund Tartamella,2004-03-24,,.,GB,504613820
+2480,Aimee Wieman,2004-03-24,,norfolk,GB,737721228
+2481,Stef Richan,2004-03-24,,.,GB,NULL
+2482,Elly Dupes,2004-03-24,,ystrad mynach,GB,NULL
+2483,Amilcar Corriveau,2004-03-24,,.,GB,152558118
+2484,Debdan Elam,2004-03-24,,.,GB,075545827
+2485,Adell Parma,2004-03-24,,suffolk,GB,NULL
+2486,Adrienne Maga,2004-03-24,,.,GB,844356100
+2487,Tamara Ybarbo,2004-03-24,,norfolk,GB,305221747
+2488,Marcio Goll,2004-03-24,,.,GB,NULL
+2489,Vesta Lyles,2004-03-24,,.,GB,NULL
+2490,Shonna Delia,2007-10-08,,suffolk,GB,NULL
+2491,Sana Darsow,2007-11-09,,cambridgeshire,GB,888608705
+2492,Alfreda Banegas,2010-05-11,,cambridgeshire,GB,NULL
+2493,Lourdes Boros,2010-07-01,,lincolnshire,GB,NULL
+2494,Lotus Lasch,2012-11-08,,cardiff,GB,NULL
+2495,Jochim Szoc,2004-03-24,,.,GB,028663200
+2496,Kezia Bellish,2004-03-24,,avon,GB,243116320
+2497,Edric Hores,2004-03-24,,avon,GB,112673647
+2498,Camille Rastorfer,2004-03-24,,devon,GB,088422567
+2499,Giordano Barreto,2004-03-24,,dorset,GB,708544718
+2500,Mercy Gibes,2004-03-24,,cornwall,GB,NULL
+2501,Judah Trapper,2004-03-24,,dorset,GB,468576178
+2502,Owen Sandgren,2004-03-24,,devon,GB,NULL
+2503,Erna Barten,2004-03-24,,.,GB,NULL
+2504,Larrie Shalwani,2004-03-24,,devon,GB,NULL
+2505,Serafino Macauley,2005-05-05,,south wales,GB,883833624
+2506,Orlando Gandy,2005-07-28,,hampshire,GB,NULL
+2507,Valentine Langhorne,2006-03-13,,avon,GB,050167812
+2508,Harlen Szumny,2007-02-19,,monmouthshire,GB,NULL
+2509,Aimee Shamonsky,2007-02-22,,wiltshire,GB,613516211
+2510,Addison Pagliuca,2007-03-07,,gloucester,GB,570281331
+2511,Arianna Vanorsdol,2007-03-29,,wales,GB,NULL
+2512,Gertrud Lintz,2007-04-18,,somerset,GB,280250668
+2513,Erik Teeples,2007-06-28,,"newport, gwent",GB,303468844
+2514,Marjolaine Abts,2007-12-12,,somerset,GB,NULL
+2515,Eshe Rollow,2008-04-24,,gloucestershire,GB,NULL
+2516,Bryanna Chesterfield,2008-12-04,,prontypridd,GB,NULL
+2517,Thane Forsgren,2009-10-20,,somerset,GB,NULL
+2518,Lucasta Lacayo,2011-01-21,,devon,GB,NULL
+2519,Celeste Coulas,2011-09-20,,gloucestershire,GB,NULL
+2520,Dylon Underdue,2013-03-26,,dorset,GB,068052254
+2521,Scheherazade Mcillwain,2013-08-26,,dorset,GB,NULL
+2522,Margarita Whetten,2014-02-27,,dorset,GB,NULL
+2523,Gernot Comoletti,2015-02-27,,devon,GB,NULL
+2524,Clarance Mezera,2015-05-06,,NULL,GB,207182701
+2525,Jera Viano,2016-04-29,,cardiff,GB,NULL
+2526,Jawahir Bazarte,2016-11-14,,NULL,GB,NULL
+2527,Friedemann Friou,2017-01-24,,somerset,GB,NULL
+2528,Shelva Engberg,2017-01-24,,devon,GB,NULL
+2529,Bartolome Sobrowski,2018-09-26,,bristol,GB,658023862
+2530,Andrina Fordham,2004-03-24,,.,GB,455144027
+2531,Claudine Dense,2004-03-24,,oxfordshire,GB,303230677
+2532,Cassidy Montell,2004-03-24,,middlessex,GB,176542056
+2533,Alexandro Friis,2004-03-24,,hampshire,GB,NULL
+2534,Headley Abdella,2004-03-24,,.,GB,631106668
+2535,Gisbert Haskamp,2004-03-24,,.,GB,444715345
+2536,Stephane Vanhove,2004-03-24,,.,GB,567835777
+2537,Helmuth Cloe,2004-03-24,,middlesey,GB,765313860
+2538,Jameel Mount,2004-03-24,,.,GB,160852261
+2539,Abner Attleson,2004-03-24,,.,GB,215345432
+2540,Corbin Tacconi,2004-03-24,,.,GB,406078157
+2541,Indra Medich,2004-03-24,,.,GB,167686135
+2542,Britton Eska,2004-03-24,,.,GB,313302224
+2543,Ormond Brugh,2004-03-24,,.,GB,438266081
+2544,Daren Buchetto,2004-03-24,,wokingham,GB,848525512
+2545,Sheridan Devall,2004-03-24,,surrey,GB,423027554
+2546,Basile Ajello,2005-11-23,,west sussex,GB,533877340
+2547,Perla Conchado,2007-01-15,,.,GB,026864462
+2548,Shakir Durnin,2007-01-16,,surrey,GB,171471036
+2549,Fathiyya Gainer,2007-05-11,,west sussex,GB,667000328
+2550,Gowri Appleton,2007-07-04,,hampshire,GB,NULL
+2551,Dori Burce,2008-02-04,,wiltshire,GB,NULL
+2552,Sulaiman Glanville,2008-07-09,,buckinghamshire,GB,NULL
+2553,Yasmina Hoeper,2008-07-24,,.,GB,182531720
+2554,Jaffer Jackosn,2009-05-19,,surrey,GB,NULL
+2555,Ferruccio Sessums,2009-10-09,," haslemere",GB,NULL
+2556,Imamu Wilkosz,2009-12-10,,hampshire,GB,538124437
+2557,Jeramy Villaplana,2010-02-02,,west sussex,GB,NULL
+2558,Ardith Depuy,2010-02-09,,hampshire,GB,047018711
+2559,Nanette Lardieri,2012-03-20,,"hove, east sussex",GB,NULL
+2560,Ariana Olberding,2012-03-29,,hampshire,GB,NULL
+2561,Deja Munzer,2013-06-14,,west sussex,GB,NULL
+2562,Hans Aungst,2013-10-14,,southampton,GB,NULL
+2563,Leonie Kokubun,2013-12-13,,hampshire,GB,274657168
+2564,Nydia Mittelstadt,2014-03-20,,uk,GB,485642388
+2565,Gracia Vanderwyk,2015-06-01,,oxfordshire,GB,NULL
+2566,Bernita Lepera,2018-07-06,,hampshire,GB,166121352
+2567,Rich Hoyos,2004-03-24,,surrey,GB,137473837
+2568,Prissy Brillinger,2004-03-24,,.,GB,470752783
+2569,Read Aharon,2004-03-24,,kent,GB,NULL
+2570,Chuck Linnen,2004-03-24,,.,GB,280724508
+2571,Tena Spotts,2004-03-24,,west sussex,GB,372088373
+2572,Robbin Pitcavage,2004-03-24,,chatam,GB,NULL
+2573,Todd Schoell,2004-03-24,,.,GB,584757388
+2574,Tarek Costlow,2004-03-24,,berkshire,GB,485185577
+2575,Verna Demarrais,2004-03-24,,.,GB,123880040
+2576,Kendra Comly,2007-03-23,,essex,GB,NULL
+2577,Reba Voeller,2007-03-23,,west sussex,GB,NULL
+2578,Crissy Steffenhagen,2009-09-09,,kent,GB,NULL
+2579,Katy Kooken,2010-01-12,,west molesey,GB,686147746
+2580,James Gowin,2010-09-14,," kent",GB,726234824
+2581,Sabino Selvidge,2012-05-18,,crawley,GB,312448156
+2582,Maverick Maxberry,2014-01-09,,east sussex,GB,234464267
+2583,Carmel Ison,2014-02-11,,bridge,GB,NULL
+2584,Sebastien Teitenberg,2014-10-16,,london,GB,NULL
+2585,Jathibiyya Gauntner,2015-06-30,,essex,GB,NULL
+2586,Marjolaine Payant,2016-11-23,,surrey,GB,575364214
+2587,Magnus Muscott,2017-11-14,,kent,GB,NULL
+2588,Renzo Sposito,2004-03-24,,london,GB,307748880
+2589,Asma Stoney,2004-03-24,,.,GB,NULL
+2590,Zuberi Alessi,2004-03-24,,hertfordshire,GB,345511307
+2591,Bassam Ihnen,2004-03-24,,.,GB,668425405
+2592,Swanhilde Plamondin,2004-03-24,,"hertfordshire ",GB,514380081
+2593,Brandan Sweeley,2004-03-24,,.,GB,457375185
+2594,Scotty Dorr,2004-05-14,,hertfordshire,GB,577230081
+2595,Randell Heskett,2006-09-15,,watford,GB,NULL
+2596,Ghada Wages,2007-01-24,,london,GB,205742544
+2597,Leone Henagan,2013-06-12,,london,GB,NULL
+2598,Sethunya Seeholzer,2018-02-20,,london,GB,NULL
+2599,Mani Kanner,2018-03-26,,watford,GB,NULL
+2600,Justo Survant,2004-10-20,,carballo,ES,NULL
+2601,Dustin Telesco,2004-10-26,,poio,ES,NULL
+2602,Elijah Yanni,2005-01-24,,barcelona,ES,NULL
+2603,Waldemar Girman,2005-02-03,,ponferrada,ES,NULL
+2604,Donalda Doonan,2005-03-29,,león,ES,662148026
+2605,Brant Bieman,2006-02-08,,avilés,ES,NULL
+2606,Giampaolo Gamache,2006-03-16,,ourense,ES,213243686
+2607,Kennith Labeots,2006-06-21,,ourense,ES,885324434
+2608,Hanke Krenek,2006-10-24,,gijon,ES,241057087
+2609,Guda Zerko,2006-10-25,,leon,ES,NULL
+2610,Arnold Villani,2006-11-10,,langreo,ES,431700682
+2611,Chadwick Dipasquale,2007-02-22,,leon,ES,452161420
+2612,Dinesh Comden,2007-07-20,,granda - siero,ES,210888632
+2613,Jacinto Mclarty,2007-10-16,,vigo,ES,437200751
+2614,Edwige Palisano,2007-11-27,,la coruña,ES,288063608
+2615,Pratap Papp,2008-01-17,,milladoiro - ames,ES,547337101
+2616,Kathy Iniestra,2008-03-10,,sigueiro oroso (a coruña),ES,NULL
+2617,Jerel Watsky,2008-03-12,,ourense,ES,542704227
+2618,Ebba Pointdexter,2008-06-03,,lugo,ES,838613012
+2619,Susannah Mannchen,2008-06-06,,onzonilla,ES,NULL
+2620,Evaristo Quagliano,2008-09-19,,cambados,ES,057226554
+2621,Rosaline Hove,2008-12-12,,sigüeiro - oroso,ES,416342267
+2622,Rafiq Vallette,2009-12-09,,cambre,ES,NULL
+2623,Madhur Ludke,2010-03-24,,carballo,ES,NULL
+2624,Wilf Sumida,2010-05-14,,cambados,ES,753805267
+2625,Rashawn Nightlinger,2010-10-15,,pontevedra,ES,222125611
+2626,Clyde Blaker,2011-09-19,,arteixo,ES,527126475
+2627,Skyler Bhola,2014-01-17,,tomino,ES,628263715
+2628,Izdihar Vegetabile,2015-02-04,,vilalba,ES,NULL
+2629,Mitch Printz,2015-05-06,,veguellina de órbigo léon,ES,NULL
+2630,Tallulah Locke,2015-07-16,,santa cruz - oleiros,ES,416342767
+2631,Bettie Enomoto,2015-08-03,,noia,ES,NULL
+2632,Sylvia Tyszko,2015-10-21,,la virgen del camino,ES,NULL
+2633,Kate Prial,2015-11-26,,vigo,ES,NULL
+2634,Kirstin Mcginn,2016-01-26,,"san salvador de tebra ",ES,NULL
+2635,Shonna Dorschner,2016-03-04,,orense,ES,NULL
+2636,Caden Preciado,2016-03-30,,"redondela ",ES,515473046
+2637,Donatello Steppe,2016-06-09,,baiona,ES,NULL
+2638,Chanda Arlington,2016-06-29,,raices nuevo - castrillón,ES,NULL
+2639,Floyd Wangberg,2016-08-01,,lugo,ES,NULL
+2640,Carolyn Gaal,2016-09-15,,pontevedra,ES,NULL
+2641,Aurelien Gajeski,2016-09-16,,ponteareas,ES,NULL
+2642,Pierre Paoletti,2016-10-11,,onzanilla,ES,NULL
+2643,Phemie Stady,2017-01-18,,el temple-cambre,ES,NULL
+2644,Aurelio Stitt,2017-02-17,,ferrol,ES,NULL
+2645,Calanthia Bernoski,2017-04-07,,bergondo,ES,NULL
+2646,Will Agner,2017-04-07,,lugo,ES,NULL
+2647,Louis Monter,2017-04-11,,"caldas de reis ",ES,NULL
+2648,Sabrina Kaushiva,2017-05-23,,"silleda ",ES,NULL
+2649,Konstantin Kalbach,2017-06-01,,xinzo de limia,ES,NULL
+2650,Quincey Sandridge,2017-06-30,,vigo,ES,NULL
+2651,Lonny Vanbeveren,2017-07-13,,pontevedra,ES,NULL
+2652,Gioconda Vence,2017-07-25,,o barco de valdeorras,ES,NULL
+2653,Liz Ahrns,2017-07-28,,a guarda,ES,323071881
+2654,Melinda Inglis,2017-08-22,,barbadas -  ourense,ES,NULL
+2655,Dorothy Scrichfield,2017-10-26,,cangas do morrazo,ES,344411424
+2656,Lieselotte Hooks,2018-04-16,,cee,ES,NULL
+2657,Loredana Lindwall,2018-04-16,,villagarcia de arosa,ES,NULL
+2658,Pansy Quattrini,2018-05-15,,león,ES,NULL
+2659,Janie Kagey,2004-10-22,,bilbao,ES,NULL
+2660,Laurita Ganga,2004-12-06,,santander,ES,NULL
+2661,Cathie Ugolini,2005-02-11,,guecho,ES,NULL
+2662,Lyndsey Wowk,2005-02-11,,bilbao,ES,NULL
+2663,Maxene Pevez,2005-05-10,,bilbao,ES,NULL
+2664,Renata Porrazzo,2005-06-01,,ortuella,ES,NULL
+2665,Jemima Bernosky,2005-11-22,,bilbao,ES,NULL
+2666,Sequoia Cresencio,2006-06-05,,hondarribia,ES,NULL
+2667,Jamie Fornicola,2006-10-06,,amorebieta - vizcaya,ES,070555858
+2668,Lannie Penning,2007-02-27,,santander,ES,120572083
+2669,Deonte Yarris,2008-03-12,,guarzino,ES,NULL
+2670,Robb Ackley,2010-08-05,,torrelavega,ES,NULL
+2671,Rueben Dietsche,2012-01-31,,vitoria,ES,NULL
+2672,Vincenzo Hoey,2012-06-11,,amorebieta (viscaya),ES,NULL
+2673,Odell Amuso,2012-09-27,,pielagos - cantabria,ES,826101417
+2674,Blaine Recht,2012-11-27,,barakaldo,ES,NULL
+2675,Kieran Quinlivan,2013-10-18,,donostia - san sebastián,ES,153682307
+2676,Francisco Konger,2014-01-24,,oiartzun - gipuzkoa,ES,NULL
+2677,Keegan Widerski,2015-11-16,,zamudio,ES,NULL
+2678,Suzann Grapp,2016-04-15,,torrelavega,ES,NULL
+2679,Aravinda Guadagno,2016-11-29,,guadalajara,ES,NULL
+2680,Mason Sant,2017-03-01,,peñacastillo,ES,505868086
+2681,Niles Merkwan,2018-04-20,,durango,ES,NULL
+2682,Reanna Cabot,2018-10-09,,trapagaran,ES,854254051
+2683,Adelbert Favreau,2018-10-24,,guadalajara,ES,132006837
+2684,Ramsey Purnell,2019-09-16,,mungia,ES,785018037
+2685,Columbano Guerena,2004-11-03,,navarra,ES,NULL
+2686,Willa Pillitteri,2004-11-03,,la rioja,ES,NULL
+2687,Oprah Laforrest,2004-11-26,,navarra,ES,814547830
+2688,Liboria Titcomb,2005-04-01,,logrono,ES,NULL
+2689,Love Nulph,2006-02-06,,ricon de soto,ES,NULL
+2690,Alfred Komatz,2007-07-17,,logroño,ES,237646118
+2691,Minnie Midyett,2008-06-13,,alsasua,ES,NULL
+2692,Kendrick Schwemmer,2010-03-09,,zaragoza,ES,NULL
+2693,Norina Palmucci,2011-04-06,,navarra,ES,NULL
+2694,Waheeda Ramcharan,2012-05-10,,huesca,ES,NULL
+2695,Penelope Kruk,2015-05-26,,pamplona,ES,NULL
+2696,Jaffar Magallan,2015-07-30,,zaragoza,ES,831734464
+2697,Michele Goldkamp,2015-09-15,,huesca,ES,NULL
+2698,Kaley Durelli,2015-10-23,,la muela,ES,046362215
+2699,Micheline Jarmon,2016-04-26,,orkoien,ES,761457401
+2700,Kerensa Iannone,2019-03-29,,zaragoza,ES,NULL
+2701,Emilia Piccinini,2005-08-31,,burgos,ES,446572142
+2702,Adora Rameres,2005-09-09,,villagonzalo pedernales,ES,NULL
+2703,Duha Tidrington,2006-02-13,,segovia,ES,277712814
+2704,Raymond Tremore,2006-05-19,,cuellar,ES,NULL
+2705,Aidan Suchan,2006-09-08,,burgos,ES,NULL
+2706,Rosalyn Viti,2006-10-06,,salamanca,ES,NULL
+2707,Gamila Cepas,2007-01-22,,morales del vino,ES,NULL
+2708,Pratap Gulsvig,2007-05-09,,burgos,ES,NULL
+2709,Dora Gennarelli,2008-03-14,,palencia,ES,NULL
+2710,Marcelino Poland,2010-03-09,,valladolid,ES,313762771
+2711,Jeanna Tinsdale,2014-06-13,,salamanca,ES,NULL
+2712,Madeleine Althiser,2014-06-13,,zamora,ES,NULL
+2713,Donta Sugar,2004-10-22,,rivas vaciamadrid,ES,NULL
+2714,Winter Wittkop,2004-11-17,,madrid,ES,NULL
+2715,Gunner Venetos,2004-11-26,,madrid,ES,NULL
+2716,Elisha Hestand,2004-12-06,,algete,ES,NULL
+2717,Freeman Calabretta,2004-12-06,,leganes,ES,NULL
+2718,Peony Jackosn,2005-01-20,,madrid,ES,NULL
+2719,Ninon Skibicki,2005-03-09,,alcorcon - madrid,ES,NULL
+2720,Velva Pensis,2005-06-30,,collado villalba,ES,NULL
+2721,Sudarshana Riveiro,2005-07-13,,alcorcon - madrid,ES,NULL
+2722,Bill Rockenbach,2005-08-17,,madrid,ES,NULL
+2723,Bradly Hoopengardner,2005-08-17,,campo real,ES,NULL
+2724,Fadia Whirlow,2005-10-07,,casarrubios del monte,ES,NULL
+2725,Chelsey Ostrowski,2005-10-24,,mejorada del campo,ES,NULL
+2726,Sana Siordia,2005-10-24,,rivas vaciamadrid,ES,NULL
+2727,Lessie Fago,2005-11-15,,colmenar viejo,ES,NULL
+2728,Hali Kralicek,2006-03-03,,leganes,ES,NULL
+2729,Shiloh Cadieux,2006-07-12,,madrid,ES,NULL
+2730,Tomika Woten,2006-07-12,,madrid,ES,NULL
+2731,Jerold Pokrzywa,2006-11-10,,madrid,ES,NULL
+2732,Collette Fratto,2007-01-02,,madrid,ES,NULL
+2733,Sissy Burfoot,2007-09-27,,fuenlabrada (madrid),ES,NULL
+2734,Erika Brodnicki,2007-11-13,,pinto (madrid),ES,NULL
+2735,Liviana Halama,2008-03-19,,madrid,ES,NULL
+2736,Ursula Skalsky,2008-04-09,,madrid,ES,NULL
+2737,Nicki Pannebaker,2008-04-09,,madrid,ES,NULL
+2738,Thora Habina,2008-04-09,,madrid,ES,NULL
+2739,Star Susla,2008-04-09,,madrid,ES,NULL
+2740,Gerald Angelotti,2008-04-10,,madrid,ES,NULL
+2741,Sefton Gangwer,2008-04-21,,alcorcon - madrid,ES,NULL
+2742,Phineas Saunas,2008-04-21,,mejorada del campo,ES,NULL
+2743,Concepcion Holdren,2008-05-06,,madrid,ES,NULL
+2744,Grover Golias,2008-05-09,,madrid,ES,NULL
+2745,Purushottam Nassie,2008-05-28,,madrid,ES,NULL
+2746,Eleonore Kotnik,2008-08-14,,madrid,ES,NULL
+2747,Theresa Goudie,2009-02-26,,cosladas -madrid,ES,NULL
+2748,Ronda Haylett,2009-05-22,,logroño,ES,NULL
+2749,Parrish Baas,2011-09-29,,madrid,ES,NULL
+2750,Herbert Bogus,2012-05-16,,madrid,ES,NULL
+2751,Dione Burrowes,2016-07-11,,madrid,ES,NULL
+2752,Jarvis Mazzie,2016-07-13,,madrid,ES,NULL
+2753,Vittorio Winnett,2016-09-07,,valdemoro - madrid,ES,NULL
+2754,Kipling Retzlaff,2016-10-13,,arganda - madrid,ES,NULL
+2755,Donella Mattera,2016-11-21,,leganés - madrid,ES,NULL
+2756,Georgine Rullan,2017-01-10,,alcala de henares - madrid,ES,NULL
+2757,Thorburn Trojanovich,2018-03-07,,robledo de chavela - madrid,ES,NULL
+2758,Luciana Sommerfeld,2019-04-02,,madrid,ES,702806347
+2759,Latonia D'Angelo,2004-10-20,,toledo,ES,NULL
+2760,Quirino Neuenswander,2004-10-26,,albacete,ES,NULL
+2761,Jessy Escribano,2004-11-05,,toledo,ES,NULL
+2762,Vena Kohli,2004-11-16,,toledo,ES,NULL
+2763,Pearl Fyock,2004-11-16,,albacete,ES,NULL
+2764,Hylda Vandenacre,2004-11-23,,ciudad real,ES,NULL
+2765,Lennon Realbuto,2005-01-10,,"trujillo ",ES,NULL
+2766,Esther Ridlen,2005-04-11,,toledo,ES,NULL
+2767,Celestino Okerson,2005-04-27,,valdepeñas,ES,NULL
+2768,Ben Fabel,2005-05-12,,ciudad real - pedro munoz,ES,NULL
+2769,Ambrogio Kopay,2005-05-13,,guadalajara,ES,NULL
+2770,Felicity Hiner,2005-05-13,,alcazar de san juan,ES,NULL
+2771,Concetto Lingg,2005-05-13,,fuente el saz del jarama,ES,NULL
+2772,Achieng Theilen,2005-05-13,,valdepenas,ES,NULL
+2773,Lissette Shattuck,2005-05-18,,albacete,ES,NULL
+2774,Cosmo Gissel,2005-05-24,,seseña,ES,NULL
+2775,Darla Roseberry,2005-06-14,,plasencia,ES,NULL
+2776,Wilma Eggeman,2005-10-04,,albacete,ES,NULL
+2777,Cristiano Ryneer,2005-10-25,,talavera de la reina,ES,NULL
+2778,Anne Pankhurst,2005-11-02,,albacete,ES,NULL
+2779,Terrill Remondet,2006-03-03,,talavera de la reina,ES,NULL
+2780,Newell Kradel,2006-03-08,,albecete,ES,NULL
+2781,Jonquil Autman,2006-04-06,,albacete,ES,NULL
+2782,Boutros Harnar,2006-04-27,,albacete,ES,NULL
+2783,Odette Haugland,2006-06-13,,albacete,ES,411351541
+2784,Forest Levett,2006-06-16,,madrigueras,ES,NULL
+2785,Rocky Klees,2006-06-28,,caceres,ES,NULL
+2786,Creola Dolhun,2006-09-11,,toledo,ES,NULL
+2787,Margo Aharonof,2006-11-10,,talavera de la reina,ES,NULL
+2788,Almeta Zeanah,2007-05-15,,talavera de la reina,ES,NULL
+2789,Donella Orizetti,2007-05-15,,maraleja de enmedio,ES,143705124
+2790,Bob Cherpak,2007-07-06,,madrid,ES,NULL
+2791,Friedrich Fizell,2007-09-04,,badajoz,ES,NULL
+2792,Rawiya Menches,2008-02-06,,guadalajara,ES,NULL
+2793,Efren Helfen,2008-02-07,,plasencia (caceres),ES,NULL
+2794,Jazmin Ji,2008-03-19,,illescas toledo,ES,NULL
+2795,Pamila Uddin,2008-04-15,,toledo,ES,NULL
+2796,Maud Tirone,2008-04-15,,toledo,ES,NULL
+2797,Bice Spingler,2008-10-17,,toledo,ES,NULL
+2798,Walt Edmonson,2010-10-01,,badajoz,ES,NULL
+2799,Dillan Wisenbaker,2014-09-01,,alcazar de san juan (ciudad real),ES,NULL
+2800,Hank Espejel,2015-09-03,,NULL,ES,NULL
+2801,Dakota Mayner,2016-03-23,,albacete,ES,NULL
+2802,Jeremie Poland,2017-06-14,,manzanares - ciudad real,ES,NULL
+2803,Barron Berl,2005-02-18,,mataró,ES,127868031
+2804,Dreda Brockhaus,2005-04-11,,tarragona,ES,235270023
+2805,Jasper Dehmer,2006-02-06,,lleida,ES,412303817
+2806,Drew Schaefers,2006-02-08,,badalona,ES,NULL
+2807,Kecia Prenger,2006-02-08,,badalona,ES,313073220
+2808,Gert Letofsky,2006-03-13,,lliça de vall( barcelona),ES,NULL
+2809,Deanna Gersbach,2006-06-28,,tarragona,ES,NULL
+2810,Krystina Pergande,2006-11-24,,barcelona,ES,NULL
+2811,Gethsemane Wilhelmy,2007-04-04,,sabadell,ES,123630131
+2812,Corey Robateau,2007-06-08,,rubi,ES,NULL
+2813,Kerrie Loft,2007-06-28,,ripoll,ES,NULL
+2814,Jackson Danforth,2007-07-27,,caceres (zarza de granadilla),ES,NULL
+2815,Donita Bear,2007-09-12,,lleida,ES,628210580
+2816,Aretha Millican,2007-09-13,,la muela,ES,NULL
+2817,Alonzo Belin,2007-09-26,,granollers,ES,102137737
+2818,Barbra Propper,2007-10-24,,badalona,ES,385200554
+2819,Raymon Puffett,2007-11-26,,rubi,ES,633632275
+2820,Celandine Youngkin,2007-12-12,,vacarisses,ES,546552315
+2821,Marcelino Pratte,2008-04-21,,lleida,ES,630268821
+2822,Eustache Barcelo,2008-04-23,,aiguaviva,ES,072462564
+2823,Julian Mckimley,2008-05-15,,sant carles de la ràpita,ES,NULL
+2824,Bishop Ozaine,2008-08-13,,roses,ES,NULL
+2825,Kathleen Roten,2008-10-03,,terrassa,ES,104468170
+2826,Gerrard Cocoran,2009-02-03,,l'ametlla del vallès,ES,NULL
+2827,Martie Mavris,2009-02-20,,sabadell,ES,072781183
+2828,Huey Loffier,2010-08-06,,palau solita i plegamans,ES,642832487
+2829,Mortimer Roza,2011-06-06,,gerona,ES,NULL
+2830,Kami Lukman,2013-01-09,,mataró,ES,NULL
+2831,Rupert Yaklich,2013-07-17,,sallent,ES,524138504
+2832,Marcus Scheidt,2014-11-28,,martorelles,ES,NULL
+2833,Joana Puller,2015-07-29,,sta. maria de palautordera,ES,300720248
+2834,Carmen Grimlie,2015-10-02,,barcelona,ES,263733008
+2835,Micaela Lobel,2016-01-26,,olesa de montserrat,ES,403866332
+2836,Fonda Zorman,2016-07-22,,girona,ES,NULL
+2837,Jeremey Keaney,2016-10-20,,granollers,ES,NULL
+2838,Kathlyn Rosenbrook,2017-07-11,,valls,ES,NULL
+2839,Shevon Fizer,2017-08-02,,vacarisses,ES,210218233
+2840,Luanne Casilles,2018-06-04,,terrassa,ES,642504735
+2841,Edvige Corlett,2018-06-14,,rubi,ES,NULL
+2842,Deshawn Vanelderen,2018-09-26,,tarragona,ES,367113572
+2843,Francisco Poore,2018-11-08,,cardedeu,ES,NULL
+2844,Miriam Attridge,2004-10-22,,castéllon,ES,NULL
+2845,Parwiz Elison,2004-11-02,,murcia,ES,NULL
+2846,Fulvia Penrod,2004-11-17,,murcia,ES,NULL
+2847,Brooke Freidel,2006-03-22,,benidorm,ES,NULL
+2848,Deion Stepanik,2006-09-19,,valencia,ES,573488426
+2849,Sage Dusatko,2007-01-03,,valencia,ES,NULL
+2850,Dewitt Moores,2007-01-11,,paterna,ES,457777174
+2851,Lidia Renney,2007-01-25,,beniparrell,ES,NULL
+2852,Rich Brase,2007-02-08,,alicante,ES,NULL
+2853,Esmee Stills,2007-05-08,,valencia,ES,NULL
+2854,Keri Pomainville,2007-11-09,,barrio del progreso,ES,NULL
+2855,Percival Moczulski,2007-12-20,,benifayo (valencia),ES,NULL
+2856,Pam Bertsch,2008-02-11,,valencia,ES,511531788
+2857,Mercia Siebenthal,2010-04-28,,murcia,ES,NULL
+2858,Felisha Mominee,2011-04-15,,cartagena (murcia),ES,NULL
+2859,Gail Bowcott,2013-12-23,,lorqui - murcia,ES,NULL
+2860,Jenaro Latko,2014-12-05,,molina de segura,ES,NULL
+2861,August Yurick,2017-06-19,,albaida - valencia,ES,NULL
+2862,Katarine Romeiro,2018-03-01,,valencia,ES,NULL
+2863,Mason Coho,2018-04-05,,torrellano - alicante,ES,NULL
+2864,Marwa Tapija,2018-07-13,,valencia,ES,721537644
+2865,Khaliq Plude,2018-12-06,,aldaia - valencia,ES,725832672
+2866,Mikayla Gavidia,2018-12-19,,valencia,ES,310127810
+2867,Joana Bylund,2019-05-22,,paiporta,ES,874153375
+2868,Melitta Xang,2019-07-10,,valencia,ES,812380680
+2869,Kirt Hookfin,2004-10-14,,sevilla,ES,NULL
+2870,Freida Cariaso,2004-10-14,,granada,ES,NULL
+2871,Avery Kill,2004-10-22,,jaén,ES,NULL
+2872,Nella Shimanuki,2004-10-26,,malaga,ES,NULL
+2873,Alec Lehning,2004-10-26,,jaén,ES,NULL
+2874,Helmut Tibbert,2004-11-26,,cordoba,ES,NULL
+2875,Dante Oldham,2004-12-14,,jaén,ES,NULL
+2876,Elyssa Fulop,2004-12-29,,sevilla,ES,NULL
+2877,Allison Mettle,2005-01-10,,almodovar del rio,ES,NULL
+2878,Clemence Lejune,2005-01-12,,baena,ES,NULL
+2879,Virgie Janek,2005-01-13,,campinos,ES,NULL
+2880,Crispin Dougher,2005-01-20,,cordoba,ES,NULL
+2881,Mariah Thygerson,2005-02-16,,baena,ES,NULL
+2882,Visitacmon Behling,2005-02-01,,bailen,ES,NULL
+2883,Maya Ebeid,2005-02-01,,chiclana de la frontera,ES,NULL
+2884,Brandyn Dettori,2005-03-11,,palma del rio,ES,NULL
+2885,Lilavati Chhuon,2005-04-11,,cordoba,ES,NULL
+2886,Donella Allain,2005-04-15,,villanueva del duque,ES,NULL
+2887,Jake Kamen,2006-03-13,,algeciras,ES,NULL
+2888,Amber Herstad,2006-03-22,,valverde del camino,ES,NULL
+2889,Niko Dungy,2006-03-22,,linares - jaen,ES,NULL
+2890,Anisa Worman,2006-03-23,,viator,ES,NULL
+2891,Marje Abbs,2006-05-03,,priego de cordoba,ES,NULL
+2892,Christelle Rosehart,2006-05-04,,alcala la real,ES,NULL
+2893,Royle Helfert,2006-06-05,,mairena del aljarafe,ES,NULL
+2894,Liberty Lawver,2007-02-22,,sevilla,ES,NULL
+2895,Evariste Hugley,2007-05-15,,martos - jaen,ES,NULL
+2896,Pancho Diamant,2007-11-21,,cordoba,ES,NULL
+2897,Shiela Thrope,2007-11-21,,cordoba,ES,NULL
+2898,Ruqayya Friou,2007-11-26,,sevilla,ES,NULL
+2899,Hermia Oka,2008-04-21,,cordoba,ES,NULL
+2900,Esmund Gares,2008-05-15,,andujar,ES,NULL
+2901,Corene Rapanot,2008-06-03,,velez - malaga,ES,NULL
+2902,Jammie Cathell,2009-03-04,,granada,ES,NULL
+2903,Ross Darity,2011-01-14,,cartaya (huelva),ES,NULL
+2904,Fabiano Dellis,2011-05-25,,sevilla,ES,NULL
+2905,Rowena Horaney,2011-07-12,,cabezon de la sal,ES,NULL
+2906,Byrne Sulejmanovski,2011-11-22,,sevilla,ES,NULL
+2907,Myrtis Trasher,2013-03-25,,sevilla,ES,NULL
+2908,Maranda Letran,2013-11-13,,sevilla,ES,NULL
+2909,Corina Matero,2015-01-29,,jaén,ES,NULL
+2910,Althea Zadd,2016-03-23,,palma del rio (cordoba),ES,NULL
+2911,Christene Avrett,2016-03-23,,los palacios y villafranca (sevilla),ES,NULL
+2912,Silvestro Zimmer,2016-03-23,,martos (jaen),ES,NULL
+2913,Ardis Pletch,2016-10-20,,marbella - málaga,ES,NULL
+2914,Anatole Detzel,2017-01-09,,jaén,ES,NULL
+2915,Anastas Ruszala,2018-03-20,,jerez de la frontera - cadiz,ES,NULL
+2916,Celestino Embry,2018-03-23,,malaga,ES,NULL
+2917,Mara Auxilien,2004-12-27,,baleares,ES,NULL
+2918,Natividad Bolden,2005-03-29,,santanyi,ES,NULL
+2919,Avery Lueth,2005-03-30,,palma mallorca,ES,NULL
+2920,Cora Kujat,2005-07-20,,campos del puerto,ES,NULL
+2921,Kassie Renzullo,2006-03-29,,palma de mallorca,ES,443727208
+2922,Vittorino Satunas,2009-07-15,,palma mallorca,ES,844327871
+2923,Luana Pontius,2010-06-01,,valencia,ES,NULL
+2924,Ed Maxedon,2016-06-02,,"manacor ",ES,NULL
+2925,Glynn Austria,2016-11-02,,palma de mallorca,ES,726420618
+2926,Cherise Warchal,2018-05-23,,palma de mallorca,ES,737575218
+2927,Kaylynn Drda,2018-10-25,,palma de mallorca,ES,706346823
+2928,Tibby Hackathorn,2018-10-29,,mahón,ES,445810787
+2929,Albert Bednarczyk,2004-03-24,,cottbus,DE,618528347
+2930,Kunto Streif,2004-03-24,,weissenfels,DE,841717528
+2931,Ermtraud Shapleigh,2004-03-24,,gerra,DE,655145022
+2932,Latoya Trotz,2004-06-29,,lichtensteim,DE,484672734
+2933,Daren Stiles,2004-09-24,,schleiz,DE,503188270
+2934,Birdie Jingst,2004-09-27,,naumburg,DE,143615844
+2935,Charlton Karlen,2004-10-20,D,forst-lausitz,DE,772164601
+2936,Sundar Mayse,2005-07-29,,leipzig,DE,157301322
+2937,Lucia Fitchell,2005-07-29,,leipzig,DE,823033133
+2938,Sameera Flemmons,2005-07-29,,halle (saale),DE,558867221
+2939,Amada Droesch,2008-03-06,D,reinsdorf,DE,635083325
+2940,Madhukar Loukota,2009-01-08,,zwingen,CH,351478621
+2941,Matteo Lacerenza,2010-10-28,,delitzsch,DE,021855467
+2942,Devontae Balestrieri,2019-08-14,,heideland,DE,472011038
+2943,Petunia Abbs,2004-03-24,,neustrelitz,DE,436568821
+2944,Romy Kilgour,2004-03-24,,garzau,DE,486052381
+2945,Walther Serre,2004-03-24,,miltzow,DE,856565262
+2946,Jeri Artale,2004-03-24,,strausberg,DE,733214062
+2947,Adelard Thomann,2004-05-31,,lubben,DE,817771021
+2948,Agatha Geffert,2004-07-14,,frankfurt,DE,502360715
+2949,Hortensia Waldron,2004-07-06,,frankfurt,DE,813673343
+2950,Meinhard Wruck,2004-07-13,,gustrow,DE,005825684
+2951,Kristie Raghunandan,2004-07-21,D,berlin,DE,074628878
+2952,Renaud Wasowski,2004-09-27,,postdam,DE,832062863
+2953,Cecelia Rexford,2005-05-09,,neubrandenburg,DE,845234357
+2954,Silvestra Hood,2005-06-28,,berlim,DE,045747520
+2955,Essie Felzien,2006-04-10,,berlin,DE,844161815
+2956,Bernard Crepps,2006-09-06,,stahnsdorf,DE,NULL
+2957,Alysia Martinz,2007-02-28,,berlin,DE,733885775
+2958,Dane Pendill,2007-07-19,,rostock,DE,217467501
+2959,Kortney Grodde,2008-01-17,D,garzau - garzin,DE,551705254
+2960,Zubin Solaita,2013-12-06,,berlin,DE,667220038
+2961,Claudius Abrahamson,2014-11-14,,berlin,DE,517867064
+2962,Gall Delucia,2015-01-23,,berlin,DE,338147375
+2963,Bianca Notis,2004-03-24,,westhauderfehn,DE,881737515
+2964,Ghaliya Logue,2004-05-14,,hamburg,DE,004876737
+2965,Wilmer Samele,2004-05-14,,hamburg,DE,280105775
+2966,Tiffani Ferdolage,2004-05-17,,nordhastedt,DE,465033423
+2967,Purushottam Conely,2005-05-09,,hamburg,DE,666183868
+2968,Rickena Casagrande,2004-05-17,,wismar,DE,332881261
+2969,Sudarshana Fruth,2005-11-14,,hamburg,DE,750461263
+2970,Manjusha Bivona,2004-07-06,D,hamburg,DE,084363307
+2971,Larue Cull,2005-12-14,D,bispingen,DE,733516687
+2972,Shahjahan Hannan,2007-04-20,,gistenbeck,DE,860714874
+2973,Gunda Pickell,2007-10-24,,hohenfelde,DE,108612161
+2974,Dwaine Hakimian,2007-12-03,,hamburg,DE,435327386
+2975,Amadeo Mattke,2008-04-18,,buchholz,DE,308043486
+2976,Antoinette Oslund,2008-08-19,,bremerhaven,DE,355685171
+2977,Rueben Barabas,2008-11-25,,luneburg,DE,786218040
+2978,Ally Paredes,2009-05-04,,bremen,DE,616867011
+2979,Bijay Vodden,2010-11-30,,hamburg,DE,876310665
+2980,Justo Branyon,2011-05-06,,lübeck,DE,607142744
+2981,Nohemi Badame,2011-10-28,,.,DE,654083110
+2982,Guiscard Kratt,2013-01-28,,brake,DE,175307872
+2983,Xochilt Kuehnle,2013-01-28,,hamburg,DE,814326878
+2984,Casandra Dapice,2013-01-30,,.,DE,638434856
+2985,Gaspard Greeson,2013-07-19,,flensburg,DE,330151764
+2986,Pablo Francesco,2013-10-14,,uelzen,DE,743135612
+2987,Heino Doolan,2013-12-19,,bremen,DE,822065122
+2988,Kaety Gadzinski,2014-01-27,,NULL,DE,751862442
+2989,Brad Ishizu,2014-01-27,,NULL,DE,064524853
+2990,Jagjit Lomg,2014-05-19,,bremerhaven,DE,206272507
+2991,Keira Corcoran,2014-07-03,,hamburg,DE,058034181
+2992,Ashok Schneidman,2014-09-22,,kaltenkirchen,DE,172841501
+2993,Lilly Lefthand,2014-10-14,,geesthacht,DE,416405335
+2994,Morley Vandenbrink,2015-01-13,,celle,DE,584873368
+2995,Savanna Basehore,2015-02-04,,westerstede,DE,680102114
+2996,Junius Dagget,2015-02-18,,nienhagen,DE,603646208
+2997,Leonora Spruit,2015-05-05,,hamburg,DE,046568708
+2998,Rosemonde Brad,2016-06-22,,"oyten ",DE,378868405
+2999,Deedee Issa,2016-11-10,,NULL,DE,485303016
+3000,Shantelle Seebach,2017-01-05,,NULL,DE,807041431
+3001,Gaspar Rookard,2019-03-29,,bremen,DE,575633222
+3002,Curt Micheli,2004-03-24,,lohne,DE,631747161
+3003,Shanika Franty,2004-03-24,,wartenberg,DE,246224060
+3004,Keitha Rollison,2004-03-24,,wolfenbuttel,DE,224241280
+3005,Asher Lentz,2004-03-24,,braunschweig,DE,237657575
+3006,Krishna Farug,2004-03-24,,wernigerode,DE,053876446
+3007,Sunita Hutchins,2004-03-24,,steinheim,DE,618631361
+3008,Remigio Patria,2004-03-24,,minden,DE,050127128
+3009,Sofie Wubben,2004-03-24,D,bad hensfeld,DE,340561886
+3010,Jordanna Cronkhite,2004-03-24,,stadthagem,DE,401883437
+3011,Brenda Lonn,2004-05-14,,bockenem,DE,447501733
+3012,Thurston Swoager,2004-03-24,,holzminden,DE,478613682
+3013,Lucetta Fenlon,2004-05-21,D,weiburg waldhausen,DE,067148666
+3014,Arduino Bundrick,2004-05-21,D,haiger,DE,656816345
+3015,Theodor Lalich,2004-05-14,,dinslaken,DE,634578515
+3016,Migdalia Delp,2005-06-03,,ronnenberg,DE,030035810
+3017,Khalid Tielking,2004-05-24,,wetzlar,DE,840588207
+3018,Travers Ibara,2004-05-28,,bielefeld,DE,775235715
+3019,Trent Landborg,2006-05-17,D,fulda,DE,373171267
+3020,Fawziyya Mosgrove,2004-07-06,,gütersloh,DE,222623763
+3021,Mckinley Bocklage,2004-07-06,,bielefeld,DE,553408857
+3022,Paula Loszynski,2004-07-23,,barntrup,DE,NULL
+3023,Paulino Ingram,2004-12-10,,exterpal,DE,225208314
+3024,Ignatius Meadors,2004-07-22,,langenhagen,DE,516614818
+3025,Yashmine Johnston,2004-07-29,,lehrte bei hannover,DE,208887672
+3026,Ralphie Malek,2004-07-29,,magdeburg,DE,085585086
+3027,Smith Rocchio,2004-09-27,,braunschweig,DE,163517070
+3028,Alfonso Brazzi,2005-04-27,,bielefeld,DE,NULL
+3029,Ilario Agnew,2006-07-05,,langenhagen,DE,717150323
+3030,Santo Boeshore,2008-04-03,,kirchhain,DE,371775853
+3031,Cleta Hamacher,2008-07-11,,kassel,DE,471847274
+3032,Shellie Glaude,2008-08-11,,petersberg / stockles,DE,326246243
+3033,Migdalia Gschwind,2008-10-02,,heuchelheim,DE,133850581
+3034,Mandy Hinzman,2008-10-16,,lindhorst,DE,141264855
+3035,Tammi Bettis,2008-11-25,,gemunden,DE,413072601
+3036,Felicita Heade,2008-12-09,,warburg,DE,463015324
+3037,Judson Brocker,2009-03-10,,kassel - hessen,DE,177722635
+3038,Katerina Yousko,2009-04-24,,hessen / kassel,DE,286634041
+3039,Idell Hradecky,2009-09-09,,stadthagen,DE,221517327
+3040,Rupinder Woolridge,2011-01-05,,kassel,DE,366255448
+3041,Kerwin Nothnagel,2011-05-04,D,herford,DE,852654721
+3042,Cressida Granade,2011-07-25,D,marsberg,DE,730146750
+3043,Alessandro Velasco,2011-11-17,,.,DE,740834824
+3044,Devonta Desormo,2012-05-22,,hannover,DE,833220665
+3045,Eutropio Jurgen,2012-05-25,,bad oeynhausen,DE,656825653
+3046,Lucilla Mu,2013-05-03,,NULL,DE,036287301
+3047,Kumar Gorski,2013-09-13,,wissenbach,DE,274112640
+3048,Danica Sablock,2014-01-06,,NULL,DE,358543746
+3049,Francis Simkulet,2014-07-29,,laubach,DE,320626075
+3050,Santino Lambey,2014-09-30,,elze,DE,244404432
+3051,Jacquetta Kaemingk,2016-01-21,,rheda-wiedenbrück,DE,655515744
+3052,Melonie Morang,2019-01-25,,bad oeynhausen,DE,402000625
+3053,Maury Grande,2004-03-24,,dusseldorf,DE,773585310
+3054,Aline Heuman,2004-03-24,,dusseldorf,DE,762066712
+3055,Xiang Trotti,2004-03-24,,"dortmund ",DE,834182121
+3056,Katelin Barette,2004-03-24,D,gelsenkirchen,DE,NULL
+3057,Reynaldo Charters,2004-03-24,,huckelhoven,DE,380852581
+3058,Kaila Kellington,2004-03-24,,hilden,DE,856055122
+3059,Adan Gatski,2004-03-24,,dusseldorf,DE,036223216
+3060,Deion Dombrosky,2004-07-19,,duisburg,DE,641887601
+3061,Alexa Coiro,2004-06-03,,gronau-epe,DE,447136571
+3062,Radulf Salazan,2006-09-15,,dortmund,DE,066435580
+3063,Sky Raffo,2007-10-25,,leverkusen,DE,348661710
+3064,Blaze Rarogal,2007-12-07,,grimma,DE,648023071
+3065,Candelario Hutnak,2008-02-12,,osnabruck,DE,154841120
+3066,Faith Rold,2008-02-21,D,wulfrath,DE,NULL
+3067,Eris Goshay,2008-03-13,,wuppertal,DE,778385533
+3068,Reg Redell,2008-07-15,,wuppertal,DE,222163670
+3069,Clancy Martinolli,2008-09-02,,dortmund,DE,237141086
+3070,Sherron Donahey,2008-12-04,,georgsmarienhutte,DE,761703731
+3071,Belinda Ziesmer,2009-02-26,,ingelfingen,DE,074265352
+3072,Cesaire Labay,2009-02-26,,kempen,DE,334703336
+3073,Manuela Drewett,2009-04-17,,dorsten,DE,232108165
+3074,Tranter Miolen,2009-04-30,,dieoholz,DE,834352046
+3075,Wally Rupinski,2009-09-01,,niedersachsen (osnabrück),DE,778034072
+3076,Hafza Moriarty,2009-10-13,D,duisburg,DE,NULL
+3077,Giraldo Naimoli,2011-01-11,D,gelsenkirchen,DE,666061170
+3078,Aurelia Mahone,2011-03-22,,voerde,DE,846385576
+3079,Geoff Yeboah,2011-11-15,,.,DE,422441183
+3080,Lynna Conable,2012-05-04,,wuppertal,DE,468247132
+3081,Arvilla Skiver,2013-01-29,,wesel,DE,013013106
+3082,Janay Loyal,2014-02-04,,viersen,DE,714512685
+3083,Doris Desroche,2014-02-04,,mönchengladbach,DE,487512577
+3084,Renato Delone,2014-02-27,,hilden,DE,085444381
+3085,Philipa Fralick,2014-09-30,,duisburg,DE,440777013
+3086,Amrita Kious,2014-12-12,,recklingshausen,DE,456101780
+3087,Ione Yovan,2015-10-06,D,duisburg,DE,000355116
+3088,Melba Rater,2016-10-27,,neuss,DE,827545552
+3089,Iantha Meucci,2016-11-25,,NULL,DE,686213710
+3090,Pascual Cobos,2019-01-24,,duisburg,DE,825425823
+3091,Dinesh Laity,2019-06-17,,kleve,DE,464065402
+3092,Cleo Klippel,2004-03-24,,nickenich,DE,156384133
+3093,Whitney Minick,2004-03-24,,hagen,DE,782047672
+3094,Posy Armbruster,2004-03-24,,freundenberg,DE,002820753
+3095,Demario Grymes,2004-05-17,,lemmestadt,DE,346355610
+3096,Milo Engelke,2004-05-17,,gladbach,DE,731024646
+3097,Blane Hausman,2004-05-24,,trier,DE,246170788
+3098,Jeramy Berkhimer,2005-01-10,,mendig,DE,320784435
+3099,Septima Riessen,2005-05-24,,mainz,DE,656616348
+3100,Ermtraud Latu,2005-06-16,,köln,DE,175404764
+3101,Wilmer Cruson,2005-07-11,,mainz-mombach,DE,708543716
+3102,Holli Kasik,2006-03-14,,koblenz,DE,105313813
+3103,Morgane Mauney,2006-03-22,,idar-oberstein,DE,663278830
+3104,Forrest Brinsfield,2006-05-19,,aachen,DE,543108445
+3105,Nero Boese,2006-05-23,,eitorf,DE,138127348
+3106,Asad Tornabene,2006-05-23,,lippstadt,DE,023554585
+3107,Benoite Litmanowicz,2006-07-19,,troisdorf,DE,501864410
+3108,Laquita Nunlee,2007-04-05,,geilenkirchen,DE,NULL
+3109,Gore Silker,2007-11-19,,bad berleburg,DE,733083522
+3110,Yessenia Daschofsky,2007-11-19,,neuwied,DE,771867071
+3111,Aric Rademacher,2008-01-09,,siegen,DE,280737684
+3112,Shevaun Trezza,2008-02-28,D,trisdorf,DE,145775018
+3113,Evette Thommarson,2008-06-04,,prum/niederprum,DE,252346100
+3114,Leopoldo Vangorden,2008-11-25,,dugenheim,DE,180176343
+3115,Vivienne Kumro,2009-04-28,,ingelheim,DE,870508648
+3116,Ssanyu Holaway,2009-06-05,,bad kreuznach,DE,661852125
+3117,Jayant Graham,2009-06-25,,bergisch gladbach,DE,435270811
+3118,Solange Ohlsen,2009-07-03,,trier,DE,273544512
+3119,Orpha Dowlin,2009-10-06,,"rheinland, pfalz",DE,736270471
+3120,Xena Dinsdale,2009-12-18,,mülheim-kärlich,DE,371285504
+3121,Francine Kulis,2012-08-06,,.,DE,170616704
+3122,Pearlie Leitrim,2012-10-04,,wilnsdorf,DE,577488271
+3123,Malaika Loffelbein,2013-07-11,,trier,DE,514376618
+3124,Kaitlin Breines,2013-09-05,,köln,DE,543763771
+3125,Morgane Harman,2014-01-14,,nachrodt,DE,373046558
+3126,Devereux Boatright,2015-01-16,,geilenkirchen,DE,NULL
+3127,Tyree Coen,2019-02-25,,schweich,DE,213762502
+3128,Jacquline Liebl,2004-03-24,,altenglan,DE,215327871
+3129,Tavon Kauzlarich,2004-03-24,,heidelberg,DE,133342530
+3130,Lynton Ludlam,2004-03-24,D,pirmasens,DE,402765731
+3131,Andre Giampaolo,2004-03-24,,offenbach,DE,684110538
+3132,Celso Craiger,2004-03-24,,speyer (rheinland pfalz),DE,442366512
+3133,Garret Ochwat,2004-03-24,,neustadt / weinsstrasse,DE,172122887
+3134,Leberecht Hemmelgarn,2004-03-24,,viernheim,DE,401772878
+3135,Colton Henagan,2004-03-24,,detmold,DE,867135440
+3136,Gabriel Cope,2004-03-24,,waghausel,DE,188054007
+3137,Orie Bull,2004-07-19,,lindenholzhause,DE,151353628
+3138,Arielle Liggans,2005-05-19,,lampertheim,DE,058771351
+3139,Genoveffa Trapeni,2004-05-24,,seligenstadt,DE,641847246
+3140,Rafaela Sutphen,2004-05-28,,dormburg,DE,460285634
+3141,Madhav Degrazia,2004-05-17,,eschborn,DE,007185081
+3142,Maryanne Braly,2004-05-17,,darmstadt,DE,075648067
+3143,Ileana Labonte,2004-05-14,,brossheubach,DE,686571170
+3144,Maddalena Sensor,2004-06-03,,st. ingbert,DE,467052612
+3145,Claus Penrose,2004-07-29,,saarlouis,DE,320665073
+3146,Madge Fagundes,2004-09-23,,wiesbaden,DE,625738043
+3147,Idonea Strothers,2004-11-16,D,saarbrücken-bredach,DE,867354216
+3148,Rocky Korstanje,2005-03-31,,hanau,DE,582083825
+3149,Magda Stiteler,2005-04-26,,weselberg,DE,486052838
+3150,Thomas Ejide,2005-07-20,,frankfurt,DE,877858332
+3151,Mathew Dunkleberger,2006-03-13,,worms,DE,NULL
+3152,Seneca Nuxoll,2006-05-16,,wiesbaden,DE,380588454
+3153,Anson Brader,2007-06-21,,st ingbert,DE,673344501
+3154,Jeana Leconte,2008-04-03,,kelkheim,DE,810755602
+3155,Edgard Kalfa,2008-04-29,,wiesbaden,DE,261587487
+3156,Biagino Choate,2008-07-30,,rockmenhausen,DE,614567170
+3157,Marybeth Banasiak,2008-09-26,,reinheim,DE,517360878
+3158,Cristiana Axtman,2008-10-22,,wiesbaden,DE,488765650
+3159,Basu Butterbaugh,2008-12-09,,kalserslautern,DE,627542454
+3160,Agustin Musselwhite,2009-02-05,,gras-ellenbach,DE,847477476
+3161,Chrystal Dunne,2009-06-03,,hemsbach,DE,070382347
+3162,Ferdinand Lipp,2010-01-21,,völklingen,DE,406863210
+3163,Rosario Nebbeling,2010-03-29,,rüsselsheim - hessen,DE,668720753
+3164,Pasquale Coppin,2010-05-27,,dreieich-sprendlingen,DE,221656814
+3165,Ghayth Wierzbicki,2011-01-28,,kirkel limbach,DE,380621356
+3166,Velia Novinger,2011-10-26,,.,DE,276827848
+3167,Hajar Calamare,2012-10-23,,.,DE,582836581
+3168,Erdmann Ramundo,2012-10-24,,frankfurt,DE,745240684
+3169,Emely Amir,2013-04-22,,mannheim,DE,NULL
+3170,Linsey Freshwood,2013-06-27,,karlsruhe,DE,461001150
+3171,Annis Zelenko,2014-01-14,,waghäusel,DE,255767012
+3172,Eileen Wehby,2015-03-04,,offenbach,DE,826773037
+3173,Bethania Devone,2017-03-09,,NULL,DE,268242114
+3174,Mina Dolinski,2018-03-20,,germany,DE,463727503
+3175,Barb Paragas,2018-08-03,,schmalenberg,DE,146183676
+3176,Solomon Wmith,2018-09-06,,karlstein,DE,NULL
+3177,Hans Prucnal,2004-03-24,,mosbach,DE,NULL
+3178,Vida Kraling,2004-03-24,,karlsruhe,DE,441385367
+3179,Randell Heskett,2004-03-24,,vs marbach,DE,NULL
+3180,Gawain Windley,2004-03-24,,konstanz,DE,148374807
+3181,Alyse Leitzinger,2004-03-24,,landau,DE,465832483
+3182,Guiseppe Lerper,2004-03-24,,donsdorf,DE,324148417
+3183,Percy Hibma,2004-03-24,D,schwabisch grund,DE,118707178
+3184,Orianne Tooman,2004-03-24,,baltmannswetler,DE,057833844
+3185,Luigino Giedlin,2004-03-24,,balingen,DE,558121116
+3186,Delroy Schweinert,2004-03-24,,possneck,DE,152501166
+3187,Julienne Holbert,2004-03-24,,pforzheim,DE,NULL
+3188,Arcadio Tufnell,2004-03-24,,haslach,DE,676187543
+3189,Bret Caudy,2004-09-27,,obersontheim,DE,NULL
+3190,Jayant Piguet,2004-05-17,,esslingen,DE,NULL
+3191,Enrique Finnicum,2005-07-05,,bretten,DE,NULL
+3192,Doug Springman,2004-05-28,D,marbach am neckar,DE,470526508
+3193,Eliezer Imada,2004-05-28,,au am rhein,DE,462361536
+3194,Albin Livshits,2004-09-24,,steisslingen,DE,084401643
+3195,Kami Mcgough,2004-05-24,,villingen - schwenningen,DE,355084078
+3196,Darcey Cabon,2004-06-09,,schluchsee,DE,NULL
+3197,Derek Bustillo,2004-05-14,,freiburg,DE,NULL
+3198,Sallie Yochum,2004-06-18,,korb,DE,107183232
+3199,Darline Gatesman,2004-07-29,,heilbronn,DE,260620626
+3200,Megan Huiting,2004-11-23,,heilbronn,DE,012347070
+3201,Kausalya Goshow,2005-03-30,,schlierbach,DE,555402385
+3202,Nunzio Mastenbrook,2005-04-06,,renchen,DE,264021075
+3203,Charlotte Ridler,2005-10-07,,erligheim,DE,NULL
+3204,Pilar Koretsky,2006-02-27,,horb,DE,787672036
+3205,Diana Spruell,2006-03-17,,stuttgart,DE,NULL
+3206,Bentley Aanenson,2006-03-22,,bruchsal,DE,477771384
+3207,Heriberto Popovec,2006-03-23,,reutlingen - betzingen,DE,104887888
+3208,Wilbert Parral,2006-06-07,,göppingen,DE,NULL
+3209,Cebrian Marron,2007-03-15,,stutensee - blankeloch,DE,736730827
+3210,Lothaire Volin,2007-06-06,,schorndorf,DE,674634488
+3211,Leoncio Dimpson,2007-08-08,,schlierbach,DE,177570687
+3212,Seamour Leyua,2007-10-31,,beuren,DE,524566751
+3213,Guiscard Stole,2007-11-12,,weinstadt,DE,742732074
+3214,Olive Roesing,2008-05-02,,rosenfeld,DE,NULL
+3215,Washington Acevedo,2008-06-17,DE,stuttgart,DE,NULL
+3216,Norbert Argie,2008-11-25,,bonnigheim,DE,NULL
+3217,Mehmud Frabott,2009-02-18,,kornwestheim,DE,488013358
+3218,Everette Kosowski,2009-05-19,,öhringen,DE,NULL
+3219,Wally Dengel,2010-02-10,,donaueschingen,DE,NULL
+3220,Harding Bulgin,2010-02-25,,ingelfingen,DE,005347870
+3221,Varinia Helliwell,2010-05-17,,göppingen,DE,180466513
+3222,Nagendra Cominski,2011-05-18,D,.,DE,NULL
+3223,Albertha Emge,2012-10-31,,waiblingen,DE,NULL
+3224,Nadia Dasch,2014-01-16,,fellbach,DE,283488270
+3225,Kobina Kinzle,2014-04-16,,waldshut-tiengen,DE,031346668
+3226,Verna Ellzey,2014-04-16,,landau,DE,NULL
+3227,Zavier Sicotte,2014-09-12,,heroldstatt,DE,NULL
+3228,Arnold Burlette,2014-09-17,,kusterdingen-wankheim,DE,NULL
+3229,Flip McCaslin,2014-09-30,,donzdorf,DE,710557463
+3230,Kari Basehore,2014-09-30,,bad schönborn,DE,603027554
+3231,Rylan Guillan,2015-01-27,,backnang,DE,231435853
+3232,Mellissa Defabio,2015-04-01,,gondelsheim,DE,414867150
+3233,Amanda Waymire,2015-05-19,,freundenstadt,DE,NULL
+3234,Saturnina Teet,2015-12-16,,NULL,DE,767040370
+3235,Tawnya Burkes,2016-01-11,NULL,germany,DE,278745038
+3236,Theodor Koper,2017-08-29,,deutschland,DE,155084430
+3237,Collette Lomascolo,2017-09-25,,rheinfelden-herten,DE,672376167
+3238,Guido Rakoski,2019-05-02,,au am rhein,DE,183765235
+3239,Adam Reavish,2004-03-24,,friedrichshafen,DE,211872866
+3240,Chance Oblander,2004-03-24,,"kempten ",DE,NULL
+3241,Graciano Machlin,2004-03-24,,wartenberg,DE,877544075
+3242,Helen Kita,2004-03-24,,falkenstein,DE,424567027
+3243,Liam Sturgell,2004-03-24,,ulm,DE,744248573
+3244,Ishmael Buitrago,2004-03-24,,friedrichshafen,DE,548363714
+3245,Susanita Rashid,2004-03-24,,leipheim,DE,NULL
+3246,Raymundo Burgdorf,2004-03-24,,ravensburg,DE,141752214
+3247,Maribeth Munns,2004-05-14,,munchen,DE,524700687
+3248,Alicia Scheule,2004-10-29,,augsburg,DE,274857556
+3249,Emeline Subasic,2006-03-24,,altusried,DE,151322013
+3250,Femie Barnhardt,2006-08-07,,krugzell,DE,282246505
+3251,Aurelio Bironas,2007-05-14,,gundelfingen,DE,634403000
+3252,Bennett Iannelli,2007-05-18,,munchen,DE,732583362
+3253,Surinder Koenning,2007-06-13,,münchen,DE,342551861
+3254,Kasey Chieffo,2007-07-30,D,ulm - einsingen,DE,603811120
+3255,Marlys Spartz,2008-01-22,,wasserburg,DE,241561115
+3256,Wanda Chipps,2008-06-03,D,ravensburg,DE,381345165
+3257,Cornelius Kalvig,2008-06-04,D,buchbach,DE,033371633
+3258,Amerigo Zicherman,2008-07-15,D,münchen,DE,NULL
+3259,Giacomo Vasser,2009-07-03,,traunstein,DE,NULL
+3260,Septima Topete,2009-08-05,,munchen,DE,NULL
+3261,Shandar Zarling,2009-09-22,,traunstein,DE,526438516
+3262,Renata Egleton,2009-12-10,,neu ulm,DE,620257555
+3263,Kobe Talleut,2010-01-21,,gilching,DE,NULL
+3264,Lessie Word,2010-12-10,,kirchheim,DE,222605276
+3265,Katerina Bibles,2011-02-10,,weissenhorn,DE,687272576
+3266,Chelsey Castellani,2011-06-30,,egenhofen,DE,NULL
+3267,Ashlynn Friel,2012-01-17,,.,DE,NULL
+3268,Reno Ravenhorst,2012-01-23,,deggendorf,DE,381736832
+3269,Stanley Edmisten,2012-01-30,,schwabmünchen,DE,828240004
+3270,Kerstin Stalcup,2012-02-09,,sulzberg,DE,NULL
+3271,Alexis Beaston,2012-02-28,,ulm,DE,477007357
+3272,Pranay Eldib,2012-12-17,,beimerstetten,DE,836377045
+3273,Netta Strozzi,2012-12-20,,.,DE,041417838
+3274,Augustin Thombs,2013-05-10,,unterschleissheim,DE,446640653
+3275,Jabari Wernecke,2013-09-02,,münchen,DE,NULL
+3276,Shafiq Magario,2013-10-02,,oberaudorf,DE,504788580
+3277,Noelle Kindig,2013-10-31,,haag,DE,088724217
+3278,Moritz Shaffstall,2013-11-14,,jetzendorf,DE,NULL
+3279,Vasant Keilholz,2014-03-10,,raschau,DE,552387886
+3280,Delicia Ravetti,2015-09-29,D,siegsdorf,DE,NULL
+3281,Mitchel Ruhmann,2017-06-21,,wasserburg,DE,NULL
+3282,Marques Bandt,2017-11-07,,moosburg,DE,NULL
+3283,Quinn Benner,2004-03-24,,estenfeld,DE,487541222
+3284,Shawnee Madkins,2004-03-24,,chemnitz,DE,607246047
+3285,Karin Raczkowski,2004-03-24,,suhl,DE,NULL
+3286,Isaiah Dammrich,2004-03-24,,regensburg,DE,NULL
+3287,Tarquin Amidi,2004-03-24,,coburg,DE,NULL
+3288,Lubna Rasheed,2004-05-18,,nuernberg,DE,643560625
+3289,Humphrey Lopez,2004-07-29,,hilpoltstein,DE,865416422
+3290,Colleen Wisdom,2004-07-08,,oberviechtach,DE,823578147
+3291,Amelie Poire,2005-04-15,,weimar,DE,NULL
+3292,Laurena Hal,2005-04-15,,langewiesen,DE,670872237
+3293,Lorenz Chaobal,2005-04-26,,würzburg,DE,NULL
+3294,Dylan Klie,2005-05-09,,muehlhausen,DE,081112404
+3295,Infant Willms,2005-05-19,,gotha,DE,456261717
+3296,Haywood Kiral,2005-06-29,,gotha,DE,710887007
+3297,Adalberto Sileo,2006-02-10,,nürnberg,DE,613745038
+3298,Chanelle Pfarr,2006-08-07,,nürnberg,DE,277831128
+3299,Florentin Hagos,2007-07-24,,sesslach,DE,836058571
+3300,Belinda Crockett,2007-07-27,,nurnberg,DE,278724206
+3301,Monte Piner,2007-09-26,,staubing,DE,NULL
+3302,Naomi Petiet,2009-07-03,,rohrnbach,DE,NULL
+3303,Burnell Wardrup,2009-08-12,,bamberg,DE,NULL
+3304,Gilberto Skillings,2009-08-27,,"pirk b. weiden, opf.",DE,NULL
+3305,Thurayya Gripp,2009-09-03,,schwabach,DE,NULL
+3306,Apollinaire Villalouos,2009-11-17,,schweinfurt,DE,506255335
+3307,Adriana Cubeta,2009-11-24,,nürnberg,DE,328377417
+3308,Melvin Ameigh,2010-11-18,,amberg,DE,665183741
+3309,Natale Nico,2011-05-04,,.,DE,NULL
+3310,Shantel Grattelo,2012-05-18,,.,DE,NULL
+3311,Norberto Bushee,2012-06-19,,arnstadt,DE,716738630
+3312,Palma Skogstad,2012-07-18,,.,DE,688023580
+3313,Yves Maerz,2012-07-30,,.,DE,670346720
+3314,Elspet Dayal,2012-08-10,,apolda,DE,728570746
+3315,Parvaiz Empson,2013-12-06,,ahorn,DE,738363741
+3316,Patton Hornstein,2014-01-28,,chemnitz,DE,300640224
+3317,Aggie Shewell,2014-02-17,,langfurth,DE,NULL
+3318,Alpha Lofgreen,2014-03-05,,bamberg,DE,304204517
+3319,Grant Menes,2015-01-23,,bamberg,DE,708560245
+3320,Maryjo Kuhlmey,2015-07-07,,weimar,DE,663280670
+3321,Asad Vintinner,2016-02-08,,deggendorf / fischerdorf,DE,558168031
+3322,Palmiro Korfhage,2016-04-01,,coburg,DE,450054048
+3323,Ignacio Houchins,2018-01-17,,nürnberg,DE,463332741
+3324,Laurine Wicher,2019-02-15,,himmelkron,DE,171113755
+3325,Kody Stiman,2019-05-28,,bayreuth,DE,611173220
+3326,Caedmon Botwinick,2004-07-19,,plzen,CZ,276611753
+3327,Shellie Coniglio,2007-05-31,,praha 9,CZ,870574075
+3328,Peggie Hekman,2016-11-29,,brno,CZ,768804670
+3329,Cleo Ports,2017-12-06,,vitice,CZ,243274084
+3330,Saverio Lofty,2005-09-06,,vilnius,LT,525018302
+3331,Marlena Heibult,2005-09-22,,kaunas,LT,676748658
+3332,Bryan Schlaht,2007-09-28,,vilnius,LT,807405670
+3333,Kaila Ariel,2008-01-23,,klaipeda,LT,334201465
+3334,Buddy Metty,2011-03-24,,panevezys,LT,084170500
+3335,Kenneth Riebel,2012-02-23,LT,kaunas,LT,733518256
+3336,Vern Vonasek,2006-04-27,,budapest,HU,748836357
+3337,Delphine Hulsey,2010-01-08,,budapest,HU,864012521
+3338,Raffaele Weith,2015-05-13,,biatorbagy,HU,551160064
+3339,Tyrese Azuma,2006-05-09,,.,AE,267540210
+3340,Raghu Harger,2008-07-30,,karama,AE,887167445
+3341,Salim Larabell,2008-09-03,,ghala,AE,384344003
+3342,Kaela Alderfer,2012-03-29,,dubai,AE,323054810
+3343,Jarod Sclavi,2012-05-15,,muscat,OM,523184000
+3344,Mosi Gainforth,2013-04-03,,.,AE,344645066
+3345,Bruce Hasenfflug,2015-02-10,NULL,NULL,OM,175301803
+3346,Pramod Flavelle,2015-03-13,NULL,NULL,AE,105385323
+3347,Ocie Rains,2016-01-22,,NULL,OM,207154567
+3348,Jerome Tompson,2017-12-27,NULL,pc 130 azaiba,OM,670518606
+3349,Diethelm Malkowski,2011-01-14,,alkhobar,SA,225788628
+3350,Hercule Paynter,2016-09-27,,mauritius,MU,450787184
+3351,Lucasta Mingioni,2009-06-23,,cairo,EG,128824227
+3352,Niles Cruthers,2010-04-28,,giza,EG,662530021
+3353,Cassie Tugman,2012-06-06,,cairo,EG,781674434
+3354,Loraine Streight,2012-12-20,,cairo,EG,040804557
+3355,Amador Guilfoyle,2013-04-30,,cairo,EG,814806106
+3356,Queenie Melloy,2019-03-21,,egito,EG,312147844
+3357,Perla Drozdowicz,2010-07-02,,.,GH,031658303
+3358,Tess Fie,2011-10-27,,.,GH,530244110
+3359,Hayward Kotlar,2015-02-12,,.,GH,056127658
+3360,Misti Drader,2016-08-11,,gana,GH,466161727
+3361,Consuelo Sorrel,2018-08-02,,ghana,GH,012463603
+3362,Duane Cutbirth,2007-04-05,,zhejiang province,CN,867108627
+3363,Tyron Vareschi,2007-06-15,,guangdong,CN,564711128
+3364,Raimund Canu,2007-08-01,,quinjiang road,CN,078205680
+3365,Niklaus Buchli,2007-08-08,,xincheng - ruian,CN,748861165
+3366,Karina Scarfone,2007-09-03,,fujian,CN,871855820
+3367,Veda Opyd,2007-10-17,,shangai,CN,463402613
+3368,Parker Mattioli,2008-06-12,," zhejiang",CN,850676250
+3369,Hartwin Saulo,2008-07-16,,.,CN,555472767
+3370,Deborah Anda,2009-02-16,,agra,CN,761335852
+3371,Amity Naiman,2014-08-12,,taiwan,TW,371782665
+3372,Timmothy Relyea,2016-04-21,,macau,MO,455482473
+3373,Roseanne Kampa,2016-07-05,347,japan,JP,710148114
+3374,Alline Mcfeeley,2012-09-06,,.,MN,542526501
+3375,Severino Stephens,2012-10-18,,ulaanbaatar,MN,855542187
+3376,Chandrakant Haims,2007-05-24,93525,brasil,BR,845562608
+3377,Augustine Hice,2007-06-29,13188,sao paulo,BR,204861866
+3378,Charlene Hordge,2007-12-06,93542,novo hamburgo / rs,BR,848052285
+3379,Fiorenzo Simonetti,2016-01-26,CEP: 14.400,brasil,BR,367462861
+3380,Mafalda Mcphetridge,2017-07-19,17.250,brasil,BR,736230643
+3381,Priya Suda,2017-07-20,17.250,brasil,BR,415407206
+3382,Rachele Keitzer,2013-11-25,,santiago,CL,NULL
+3383,Hafsah Fantin,2014-01-07,,santiago chile,CL,NULL
+3384,Suresh Tefera,2007-05-24,,guatemala city,GT,NULL
+3385,Fulvia Barzey,2018-06-04,,"kingston, jamaica",JM,666010867
+3386,Orianne Tooman,2014-02-26,NULL,curaçao,CW,NULL
+3387,Lawrie Adner,2016-01-22,NULL,curaçau,CW,NULL
+3388,Jabir Ojala,2018-02-21,,curacao,CW,NULL
+3389,Poppy Cheers,2019-04-01,,NULL,EC,217223437
+3390,Keegan Hartman,2007-10-18,,taipei,TW,615046702
+3391,Columbine Stilphen,2013-04-23,NULL,nairobi,KE,808856546
+3392,Pinkie Mollicone,2014-11-11,NULL,nairobi,KE,708318638
+3393,Maribeth Gowan,2015-06-01,,kenya,KE,473865562
+3394,Howie Mccoll,2006-07-18,,.,DE,604060052
+3395,Maryellen Gragas,2005-03-22,,.,PT,410537060
+3396,Lisha Konnerth,2008-01-24,B,kortrijk             belgique,BE,661853055
+3397,Jertme Jancik,2007-10-24,,beirut,LB,530853304
+3398,Michale Bequillard,2011-09-29,,ikeja lagos,NG,717162048
+3399,Conrad Shulund,2011-12-06,,.,NG,150748663
+3400,Johnathon Mcgillis,2013-08-06,NULL,NULL,NG,158722253
+3401,Stefani Morioka,2013-08-29,,lagos,NG,700662241
+3402,Nacio Blailock,2013-11-22,NULL,lagos,NG,377157072
+3403,Nila Hilb,2019-04-23,,república camarões,CM,718567768
+3404,Watson Willegal,2019-07-12,NULL,guinea equatorial,GQ,026303473
+3405,Annunziata Murat,2006-03-13,,lobito,AO,582804226
+3406,Tyron Rosenfeldt,2006-03-13,,luanda,AO,743663137
+3407,Amyas Houey,2006-06-23,,.,AO,140125654
+3408,Jinny Routt,2008-01-28,,.,AO,555270462
+3409,Ronnie Sweeting,2010-04-13,,.,AO,274605152
+3410,Florene Casimiro,2014-10-31,,mocambique,MZ,074686138
+3411,Miguela Lynum,2016-02-16,,dakar,SN,320872166
+3412,Lawanda Late,2011-06-16,,monastir,TN,207167452
+3413,Ezra Duncklee,2007-10-31,,rishon lezion,IL,341767154
+3414,Caitlin Bless,2012-04-11,,nicosia,CY,120504732
+3415,Kacie Landes,2008-04-29,,hallam vic.,AU,417341137
+3416,Carmelo Shryack,2009-09-03,,seven hills,AU,315350521
+3417,Glory Spragg,2015-11-10,,nsw,AU,161578822
+3418,Jacquelin Tangney,2015-12-01,,vic,AU,187486168
+3419,Eris Ellsmore,2019-05-21,,australia,AU,831785824
+3420,Edmond Mortis,2010-04-28,,napier,NZ,237848833
+3421,Charo Rasole,2010-11-11,,greymouth,NZ,341830177
+3422,Barbra Beja,2012-05-03,,christchurch,NZ,672821843
+3423,Ignace Burge,2013-02-21,,auckland,NZ,120736835
+3424,Erle Shetterly,2013-08-14,,NULL,NZ,803218024
+3425,Tara Altenburg,2014-08-28,,upper hutt,NZ,508032136
+3426,Gawain Storks,2017-11-08,,nouméa cedex,NC,642203787
+3427,Gerry Fussner,2008-04-30,,beograd-zeleznik,RS,734724005
+3428,Sylvestre Werbelow,2018-01-18,,bridgetown,BB,664265144
+3429,Dalya Beauregard,2008-06-20,93,lodz,PL,644762511
+3430,Terrie Fulson,2012-01-16,,.,PL,471487566
+3431,Cheri Valiquette,2016-06-27,46,kepa k/opola,PL,872800230
+3432,Enos Tungate,2016-11-10,71,szcecin,PL,584757450
+3433,Kyran Turri,2017-06-22,75,koszalin,PL,105235560
+3434,Anisa Loeffler,2019-03-04,87,torun,PL,545216100
+3435,Ramiro Schilling,2011-05-27,,moscow,RU,484555170
+3436,Cleopatra Lucic,2011-11-17,,novorossiysk,RU,363361763
+3437,Rein Dentino,2012-01-12,,russia,RU,533083778
+3438,Wolf Hollberg,2012-03-16,,moscow,RU,083733071
+3439,Dante Danes,2012-08-09,,.,RU,814270557
+3440,Jorie Macphail,2012-08-09,,russia,RU,221631081
+3441,Almeda Jaenicke,2018-03-08,,NULL,RU,NULL
+3442,Meadow Dunkerley,2008-08-14,,sofia,BG,654872848
+3443,Dillon Preslipsky,2012-08-24,,bulgaria,BG,561476238
+3444,Mukhtar Gierisch,2015-04-02,,plovdiv,BG,358741367
+3445,Julianne Omoto,2012-02-10,,zagreb,HR,143271217
+3446,Gabriela Nortesano,2014-11-06,,zagreb,HR,353615353
+3447,Algar Tondreau,2015-03-20,,varazdin,HR,373276814
+3448,Matthias Schwegel,2018-05-16,,"croátia ",HR,021554883
+3449,Pura Kirkley,2009-01-06,LV,saldus,LV,270626521
+3450,Eliane Boran,2010-04-13,,riga,LV,567604330
+3451,Kurt Braskey,2015-10-22,,marupes novads,LV,875785376
+3452,Chandra Camcam,2018-10-29,,riga,LV,661651540
+3453,Simba Mongomery,2014-04-09,NULL,NULL,NA,711561060
+3454,Murphy Detorres,2009-10-26,,tivat,ME,668503556
+3455,Georgie Wagg,2009-03-12,,tallin,EE,675736327
+3456,Sven Simone,2011-08-30,,estonia,EE,224747706
+3457,Hind Flagiello,2011-03-03,,skofja loka,SI,487850313
+3458,Gord Fadeley,2014-02-28,,domzale,SI,446604414
+3459,Egidio Gutzke,2016-11-24,,metlika,SI,607202012
+3460,Nathan Bernardy,2017-06-02,,novo mesto,SI,326017362
+3461,Madonna Shor,2018-05-09,"4000 ","slovenia ",SI,874843318
+3462,Maury Eakles,2004-03-24,,india,IN,756833105
+3463,Dona Seckinger,2004-03-23,,new delhi,IN,884835058
+3464,Alexandra Latu,2004-03-23,,kampur,IN,263888244
+3465,Gail Bolder,2006-09-19,,noida,IN,853173523
+3466,Rahim Trevithick,2007-05-15,,(u.p.) india,IN,852556777
+3467,Verlie Woodal,2005-02-25,,new delhi,IN,378324536
+3468,Daren Artibee,2005-02-17,,.,IN,057822037
+3469,Wynne Crock,2006-05-05,,kanpur,IN,603308853
+3470,Gratien Meyerhoff,2006-06-01,,kanpur,IN,032103146
+3471,Prabhakar Favieri,2006-03-13,,chennai - tamilnadu,IN,445118583
+3472,Anselme Dehart,2006-03-27,,.,IN,743472606
+3473,Omega Duso,2006-07-13,,kanpur,IN,183513358
+3474,Gytha Sumter,2007-02-21,,delli,IN,018211822
+3475,Emilee Glendenning,2007-09-26,,noida,IN,882583041
+3476,Danny Pouk,2007-12-07,,vandalur post - chennai,IN,376814141
+3477,Charlie Wyborny,2008-11-12,,chennai,IN,758200645
+3478,Nickolaus Peeling,2009-05-07,14136,tehran,IR,012337757
+3479,Jarret Coral,2018-05-17,,kanpur india,IN,367256503
+3480,Elinor McAlister,2012-04-30,,.,VG,687206868
+3481,Colby Bookhardt,2012-08-16,,zambia,ZM,357213085
+3482,Chelle Son,2012-08-23,,zambia,ZM,126182261
+3483,Mathieu Helmstetler,2013-07-08,4810,guimarães,PT,268876013
+3484,Kole Vansise,2013-07-08,4810,guimarães,PT,205020777
+3485,Jacques Seagraves,2013-07-08,4810,guimarães,PT,348203678
+3486,Scotty Pough,2013-07-08,4810,guimarães,PT,510821203
+3487,Shannon Slumski,2013-07-08,4810,guimarães,PT,136160856
+3488,Valeria Garcea,2013-09-23,4446,maia,PT,230508886
+3489,Redd Jacksits,2013-09-23,4455,lavra,PT,016011632
+3490,Sebastiana Forrest,2013-09-23,4470,maia,PT,723561676
+3491,Eckehard Heeter,2013-09-26,4470,maia,PT,421704530
+3492,Lakshman Buesing,2013-09-26,4470,maia,PT,331457202
+3493,Albrecht Hoffmaster,2013-09-26,4455,perafita,PT,250382205
+3494,Debora Theos,2013-09-26,4470,maia,PT,658133643
+3495,Katee Darbyshire,2013-09-27,4470,maia,PT,088764816
+3496,Margo Rack,2013-09-30,4455,matosinhos,PT,421418052
+3497,Sherisse Renert,2013-10-01,4470,maia,PT,543426483
+3498,Yoshiko Funn,2013-10-01,4485,vilar do pinheiro,PT,482470173
+3499,Martie Woolem,2013-10-02,4470,maia,PT,072387028
+3500,Allie Tyner,2013-10-02,4470,maia,PT,820364052
+3501,Amedee Grensky,2013-10-03,4485,vila de conde,PT,335263260
+3502,Consolata Taran,2013-10-04,4475,maia,PT,406467413
+3503,Laverne Fiscal,2013-10-07,4475,maia,PT,706522787
+3504,Gamil Loverde,2013-10-07,4485,vila do conde,PT,081101272
+3505,Lowell Meldorf,2013-10-07,4470,maia,PT,061685804
+3506,Denys Vanheel,2013-10-15,3045,vila pouca do campo,PT,588565728
+3507,Patricia Dukette,2013-10-15,4465,s. mamede de infesta,PT,441131417
+3508,Adell Harking,2013-10-15,4410,canelas,PT,082343557
+3509,Concetta Sakash,2013-10-15,4455,perafita,PT,735068312
+3510,Lawerence Grandfield,2013-10-15,4455,perafita,PT,730315648
+3511,Deodan Carlston,2013-10-16,4470,maia,PT,107853066
+3512,Therese Sakaguchi,2013-10-16,4480,vila de conde,PT,871202214
+3513,Ludovic Harris,2013-10-16,4480,vila de conde,PT,103370751
+3514,Danny Bverger,2013-10-16,4470,maia,PT,033175681
+3515,Ashoka Bastick,2013-10-16,4470,moreira da maia,PT,726457647
+3516,Prince Vasconcellos,2013-11-21,4485,aveleda vcd,PT,500050467
+3517,Janella Sicilian,2013-12-04,4470,maia,PT,452163705
+3518,Giampaolo Elieff,2014-06-23,2685,prior velho,PT,084617275
+3519,Braden Senese,2014-07-14,4405,v. n. gaia,PT,815423507
+3520,Beverly Finchman,2014-11-04,4470,maia,PT,002584151
+3521,Meranda Mccaddon,2015-02-13,4470,moreira da maia,PT,751572673
+3522,Quincy Visaya,2015-06-05,4455,perafita,PT,560675013
+3523,Kaitlyn Chimera,2015-07-30,4455,perafita,PT,436811211
+3524,Worth Duyer,2015-10-09,4450,matosinhos,PT,348464825
+3525,Dillion Garret,2016-02-18,4470,crestins,PT,162016737
+3526,Gertrude Hyatt,2016-03-10,4470,maia,PT,006873108
+3527,Jacqui Crossmon,2016-04-05,4450,leça da palmeira,PT,004186743
+3528,Arlette Lepo,2016-04-19,4470,maia,PT,218442100
+3529,Chandrakant Berkheimer,2016-06-29,4485,vilar do pinheiro,PT,448352121
+3530,Fernando Lefevers,2016-10-21,4475,maia,PT,420134426
+3531,Mose Phelan,2017-03-21,4460,guifões,PT,601787557
+3532,Doriane Boyenga,2017-06-05,4470,moreira maia,PT,143667633
+3533,Aria Andregg,2017-06-12,,901 perafita,PT,180804440
+3534,Donatello Shinnick,2017-10-27,4470,maia,PT,183215836
+3535,Queen Christophel,2018-02-16,4485,vilar do pinheiro vcd,PT,580060407
+3536,Ridge Blush,2018-04-24,4455,santa cruz do bispo,PT,653415443
+3537,August Tennant,2018-05-03,1600,lisboa,PT,075128703
+3538,Ashanti Calise,2018-06-12,4830,póvoa de lanhoso,PT,152611747
+3539,Alene Karpowicz,2018-06-15,4470,porto,PT,443151335
+3540,Isra Boileau,2018-10-17,4785,trofa,PT,205200771
+3541,Ambra Abbey,2018-12-11,4485,vila do conde,PT,834471122
+3542,Ernst Prather,2019-02-22,4475,maia,PT,756026827
+3543,Tristen Pirc,2019-04-01,4470,moreira da maia,PT,820715577
+3544,Lennon Mullison,2019-04-04,4455,perafita,PT,861581436
+3545,Isai Lauren,2019-04-04,4475,maia,PT,638801530
+3546,Konnor Lopardo,2019-04-09,4470,maia,PT,466573702
+3547,Chile Fetchko,2004-03-23,,.,PT,630057780

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SalesReport xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+             xsi:noNamespaceSchemaLocation="SalesReport.xsd">          
+    <Seller>
+        <VATNumber>509765432</VATNumber>
+        <Name>StepUp Shoes</Name>
+        <Address>Rua Principal, 50</Address>
+        <City>Lousada</City>
+        <Country>Portugal</Country>
+        <PostalCode>4620-001</PostalCode>
+    </Seller>
+    <FiscalYear>2022</FiscalYear>
+    <Month>1</Month>
+    <DistinctProductCount>4</DistinctProductCount>
+    <TotalSalesValue>720.00</TotalSalesValue>
+    <DistinctClientCount>3</DistinctClientCount>
+
+    <SaleDetail>
+        <InvoiceID>FA157201806073337</InvoiceID>
+        <Date>2022-01-15T10:30:00</Date>
+        <Client>
+            <ClientID>05</ClientID>
+            <VATNumber>307123456</VATNumber>
+            <ClientName>Joaquim Torres</ClientName>
+            <City>Guimarães</City>
+            <Country>Portugal</Country>
+            <PostalCode>4815-111</PostalCode>
+        </Client>
+        <InvoiceLines>
+            <LineItem>
+                <Product>
+                    <ArticleID>1013</ArticleID>
+                    <ArticleDescription>Botas de Montanha</ArticleDescription>
+                    <CurrentStock>10</CurrentStock>
+                    <Type>Calçado</Type>
+                </Product>
+                <Quantity>1</Quantity>
+                <Value>180.00</Value>
+                <DiscountAmount>0.00</DiscountAmount>
+            </LineItem>
+            <LineItem>
+                <Product>
+                    <ArticleID>1014</ArticleID>
+                    <ArticleDescription>Chinelos de Praia</ArticleDescription>
+                    <CurrentStock>20</CurrentStock>
+                    <Type>Calçado</Type>
+                </Product>
+                <Quantity>2</Quantity>
+                <Value>30.00</Value>
+                <DiscountAmount>0.00</DiscountAmount>
+            </LineItem>
+        </InvoiceLines>
+        <InvoiceTotal>240.00</InvoiceTotal>
+    </SaleDetail>
+
+    <SaleDetail>
+        <InvoiceID>FA157201806073338</InvoiceID>
+        <Date>2022-01-25T16:15:00</Date>
+        <Client>
+            <ClientID>1506</ClientID>
+            <VATNumber>408234567</VATNumber>
+            <ClientName>Rosa Almeida</ClientName>
+            <City>Porto</City>
+            <Country>Portugal</Country>
+            <PostalCode>4000-123</PostalCode>
+        </Client>
+        <InvoiceLines>
+            <LineItem>
+                <Product>
+                    <ArticleID>1015</ArticleID>
+                    <ArticleDescription>Sapatilhas</ArticleDescription>
+                    <CurrentStock>25</CurrentStock>
+                    <Type>Calçado</Type>
+                </Product>
+                <Quantity>2</Quantity>
+                <Value>100.00</Value>
+                <DiscountAmount>10.00</DiscountAmount>
+            </LineItem>
+        </InvoiceLines>
+        <InvoiceTotal>190.00</InvoiceTotal>
+    </SaleDetail>
+
+</SalesReport>
