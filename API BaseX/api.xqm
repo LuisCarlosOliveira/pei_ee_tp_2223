@@ -22,7 +22,7 @@ function page:getClientsByPurchaseDate($startDate as xs:string, $endDate as xs:s
 
     let $req := http:send-request(
       <http:request method='post'> 
-        <http:header name="api-key" value="JzJgIoy9Lgcp8LTY4oXJ2dHcGRBsqUmEpFLaq50fsY77rJUbcf5hMWI6sNCexPQB"/>
+        <http:header name="api-key" value="INSERT API KEY"/>
         <http:body media-type='application/json'/>
       </http:request>,
       "https://eu-west-2.aws.data.mongodb-api.com/app/data-swqwv/endpoint/data/v1/action/find",
@@ -66,7 +66,7 @@ function page:getSalesReport($year as xs:integer, $month as xs:integer) {
 
     let $req := http:send-request(
       <http:request method='post'> 
-        <http:header name="api-key" value="JzJgIoy9Lgcp8LTY4oXJ2dHcGRBsqUmEpFLaq50fsY77rJUbcf5hMWI6sNCexPQB"/>
+        <http:header name="api-key" value="INSERT API KEY"/>
         <http:body media-type='application/json'/>
       </http:request>,
       "https://eu-west-2.aws.data.mongodb-api.com/app/data-swqwv/endpoint/data/v1/action/find",
